@@ -1,0 +1,65 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" fill="#FFD400"/>
+  <rect x="48" y="48" width="1104" height="704" rx="0" fill="#FFF7C2" stroke="#111111" stroke-width="10"/>
+  <rect x="80" y="84" width="520" height="112" fill="#FFFFFF" stroke="#111111" stroke-width="8"/>
+  <text x="112" y="132" font-family="Arial, 'PingFang SC', sans-serif" font-size="42" font-weight="900" fill="#111111">今晚装懂小抄</text>
+  <text x="114" y="170" font-family="Arial, 'PingFang SC', sans-serif" font-size="22" font-weight="700" fill="#111111">二次元漫画杂志风 · 黑边黄色 · 赛前 1 分钟</text>
+
+  <rect x="638" y="84" width="214" height="58" fill="#FF5C8A" stroke="#111111" stroke-width="6"/>
+  <text x="674" y="122" font-family="Arial, 'PingFang SC', sans-serif" font-size="26" font-weight="900" fill="#111111">球星梗</text>
+  <rect x="878" y="84" width="202" height="58" fill="#71D7FF" stroke="#111111" stroke-width="6"/>
+  <text x="914" y="122" font-family="Arial, 'PingFang SC', sans-serif" font-size="26" font-weight="900" fill="#111111">别尬聊</text>
+
+  <g transform="translate(80 238)">
+    <rect x="0" y="0" width="1040" height="430" fill="#FFFFFF" stroke="#111111" stroke-width="8"/>
+    <rect x="0" y="0" width="1040" height="74" fill="#111111"/>
+    <text x="28" y="49" font-family="Arial, 'PingFang SC', sans-serif" font-size="34" font-weight="900" fill="#FFD400">德国 vs 日本 · 23:00</text>
+    <rect x="760" y="18" width="100" height="38" fill="#FFFFFF" stroke="#FFD400" stroke-width="4"/>
+    <text x="784" y="45" font-family="Arial, 'PingFang SC', sans-serif" font-size="20" font-weight="900" fill="#111111">白衣</text>
+    <rect x="880" y="18" width="100" height="38" fill="#71D7FF" stroke="#FFD400" stroke-width="4"/>
+    <text x="904" y="45" font-family="Arial, 'PingFang SC', sans-serif" font-size="20" font-weight="900" fill="#111111">蓝衣</text>
+
+    <rect x="30" y="104" width="980" height="76" fill="#FFD400" stroke="#111111" stroke-width="6"/>
+    <text x="56" y="137" font-family="Arial, 'PingFang SC', sans-serif" font-size="24" font-weight="900" fill="#111111">一句话装懂</text>
+    <text x="226" y="138" font-family="Arial, 'PingFang SC', sans-serif" font-size="24" font-weight="800" fill="#111111">这场不懂就盯双方最会制造话题的年轻球星。</text>
+
+    <g transform="translate(30 210)">
+      <rect x="0" y="0" width="306" height="170" fill="#FFF7C2" stroke="#111111" stroke-width="5"/>
+      <rect x="18" y="-18" width="106" height="38" fill="#FF5C8A" stroke="#111111" stroke-width="5"/>
+      <text x="34" y="8" font-family="Arial, 'PingFang SC', sans-serif" font-size="20" font-weight="900" fill="#111111">话术 1</text>
+      <text x="22" y="58" font-family="Arial, 'PingFang SC', sans-serif" font-size="22" font-weight="800" fill="#111111">“这场主要看他</text>
+      <text x="22" y="88" font-family="Arial, 'PingFang SC', sans-serif" font-size="22" font-weight="800" fill="#111111">拿球以后节奏会</text>
+      <text x="22" y="118" font-family="Arial, 'PingFang SC', sans-serif" font-size="22" font-weight="800" fill="#111111">不会变快。”</text>
+    </g>
+
+    <g transform="translate(366 210)">
+      <rect x="0" y="0" width="306" height="170" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+      <rect x="18" y="-18" width="126" height="38" fill="#71D7FF" stroke="#111111" stroke-width="5"/>
+      <text x="34" y="8" font-family="Arial, 'PingFang SC', sans-serif" font-size="20" font-weight="900" fill="#111111">德国看谁</text>
+      <text x="22" y="58" font-family="Arial, 'PingFang SC', sans-serif" font-size="22" font-weight="900" fill="#111111">穆西亚拉</text>
+      <text x="22" y="91" font-family="Arial, 'PingFang SC', sans-serif" font-size="19" font-weight="700" fill="#111111">人设：年轻爆点</text>
+      <text x="22" y="122" font-family="Arial, 'PingFang SC', sans-serif" font-size="19" font-weight="700" fill="#111111">入口：梗 / 名场面 / 集锦</text>
+    </g>
+
+    <g transform="translate(704 210)">
+      <rect x="0" y="0" width="306" height="170" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+      <rect x="18" y="-18" width="126" height="38" fill="#71D7FF" stroke="#111111" stroke-width="5"/>
+      <text x="34" y="8" font-family="Arial, 'PingFang SC', sans-serif" font-size="20" font-weight="900" fill="#111111">日本看谁</text>
+      <text x="22" y="58" font-family="Arial, 'PingFang SC', sans-serif" font-size="22" font-weight="900" fill="#111111">久保建英</text>
+      <text x="22" y="91" font-family="Arial, 'PingFang SC', sans-serif" font-size="19" font-weight="700" fill="#111111">人设：边路小快灵</text>
+      <text x="22" y="122" font-family="Arial, 'PingFang SC', sans-serif" font-size="19" font-weight="700" fill="#111111">入口：B站 / 百科 / 社区线索</text>
+    </g>
+  </g>
+
+  <g transform="translate(80 690)">
+    <rect x="0" y="0" width="164" height="42" fill="#111111"/>
+    <text x="18" y="29" font-family="Arial, 'PingFang SC', sans-serif" font-size="20" font-weight="900" fill="#FFD400">Palette</text>
+    <rect x="184" y="0" width="90" height="42" fill="#FFD400" stroke="#111111" stroke-width="4"/>
+    <rect x="294" y="0" width="90" height="42" fill="#111111" stroke="#111111" stroke-width="4"/>
+    <rect x="404" y="0" width="90" height="42" fill="#FFFFFF" stroke="#111111" stroke-width="4"/>
+    <rect x="514" y="0" width="90" height="42" fill="#FF5C8A" stroke="#111111" stroke-width="4"/>
+    <rect x="624" y="0" width="90" height="42" fill="#71D7FF" stroke="#111111" stroke-width="4"/>
+    <text x="744" y="20" font-family="Arial, 'PingFang SC', sans-serif" font-size="16" font-weight="800" fill="#111111">Yellow #FFD400 · Black #111111 · White #FFFFFF</text>
+    <text x="744" y="40" font-family="Arial, 'PingFang SC', sans-serif" font-size="16" font-weight="800" fill="#111111">Pink #FF5C8A · Blue #71D7FF · Paper #FFF7C2</text>
+  </g>
+</svg>
