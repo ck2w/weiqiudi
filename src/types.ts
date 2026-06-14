@@ -14,6 +14,7 @@ export interface PlayerHook {
 
 export interface KeyPlayer {
   name: string;
+  nameEn?: string;
   persona: string;
   rosterStatus?: "confirmed" | "needs-check";
   shirtNumber?: string;
@@ -28,6 +29,7 @@ export interface KeyPlayer {
 
 export interface TeamGuide {
   name: string;
+  nameEn?: string;
   shortName: string;
   shirtColor: string;
   shirtLabel: string;

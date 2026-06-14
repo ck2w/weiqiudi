@@ -133,6 +133,7 @@ function TeamPanel({ team }: { team: TeamGuide }) {
   return (
     <section className="team-panel">
       <div className="sticker sticker--blue">{team.shortName}看谁</div>
+      {team.nameEn ? <span className="name-en team-name-en">{team.nameEn}</span> : null}
       <div className="player-list">
         {team.players.map((player) => (
           <PlayerCard key={player.name} player={player} />
@@ -149,7 +150,10 @@ function PlayerCard({ player }: { player: KeyPlayer }) {
         <PlayerPhoto player={player} />
         <div className="player-copy">
           <div className="player-heading">
-            <h3>{player.name}</h3>
+            <div>
+              <h3>{player.name}</h3>
+              {player.nameEn ? <span className="name-en">{player.nameEn}</span> : null}
+            </div>
             {player.position ? <span className="position-pill">{player.position}</span> : null}
             {player.rosterStatus === "needs-check" ? (
               <span className="roster-pill">大名单待核验</span>

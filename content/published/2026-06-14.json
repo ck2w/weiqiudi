@@ -8,12 +8,14 @@
       "kickoffTime": "13:00 ET",
       "homeTeam": {
         "name": "德国",
+        "nameEn": "Germany",
         "shortName": "德国",
         "shirtColor": "#FFFFFF",
         "shirtLabel": "白衣",
         "players": [
           {
             "name": "凯·哈弗茨",
+            "nameEn": "Kai Havertz",
             "persona": "高个前场万金油，既能站中锋也能到处串门",
             "hooks": [
               {
@@ -55,6 +57,7 @@
           },
           {
             "name": "穆西亚拉",
+            "nameEn": "Jamal Musiala",
             "persona": "年轻爆点，拿球就容易让防守人紧张",
             "hooks": [
               {
@@ -82,12 +85,14 @@
       },
       "awayTeam": {
         "name": "库拉索",
+        "nameEn": "Curaçao",
         "shortName": "库拉索",
         "shirtColor": "#1F6FFF",
         "shirtLabel": "蓝衣",
         "players": [
           {
             "name": "莱安德罗·巴库纳",
+            "nameEn": "Leandro Bacuna",
             "persona": "老江湖型队长感，适合当库拉索的认脸入口",
             "hooks": [
               {
@@ -144,12 +149,14 @@
       "kickoffTime": "16:00 ET",
       "homeTeam": {
         "name": "荷兰",
+        "nameEn": "Netherlands",
         "shortName": "荷兰",
         "shirtColor": "#FF7A00",
         "shirtLabel": "橙衣",
         "players": [
           {
             "name": "科迪·加克波",
+            "nameEn": "Cody Gakpo",
             "persona": "荷兰前场招牌，状态好时就是进攻晴雨表",
             "hooks": [
               {
@@ -180,6 +187,7 @@
           },
           {
             "name": "范戴克",
+            "nameEn": "Virgil van Dijk",
             "persona": "后防大哥，镜头里最容易认的荷兰中卫",
             "hooks": [
               {
@@ -207,12 +215,14 @@
       },
       "awayTeam": {
         "name": "日本",
+        "nameEn": "Japan",
         "shortName": "日本",
         "shirtColor": "#71D7FF",
         "shirtLabel": "蓝衣",
         "players": [
           {
             "name": "久保建英",
+            "nameEn": "Takefusa Kubo",
             "persona": "边路小快灵，喜欢突然启动制造麻烦",
             "hooks": [
               {
@@ -275,12 +285,14 @@
       "kickoffTime": "19:00 ET",
       "homeTeam": {
         "name": "科特迪瓦",
+        "nameEn": "Côte d'Ivoire",
         "shortName": "科特迪瓦",
         "shirtColor": "#FF8A00",
         "shirtLabel": "橙衣",
         "players": [
           {
             "name": "扬·迪奥曼德",
+            "nameEn": "Yan Diomandé",
             "persona": "年轻边锋，适合看他能不能靠速度和脚下制造突破",
             "hooks": [
               {
@@ -310,6 +322,7 @@
           },
           {
             "name": "西蒙·阿丁格拉",
+            "nameEn": "Simon Adingra",
             "persona": "边路搅局者，拿球后第一反应就是冲",
             "hooks": [
               {
@@ -337,12 +350,14 @@
       },
       "awayTeam": {
         "name": "厄瓜多尔",
+        "nameEn": "Ecuador",
         "shortName": "厄瓜多尔",
         "shirtColor": "#FFD400",
         "shirtLabel": "黄衣",
         "players": [
           {
             "name": "皮耶罗·因卡皮耶",
+            "nameEn": "Piero Hincapié",
             "persona": "年轻后防硬货，适合盯他怎么处理对面冲击",
             "hooks": [
               {
@@ -368,6 +383,7 @@
           },
           {
             "name": "威廉·帕乔",
+            "nameEn": "William Pacho",
             "persona": "中卫搭档里的稳定器，镜头少但很重要",
             "hooks": [
               {
@@ -419,12 +435,14 @@
       "kickoffTime": "22:00 ET",
       "homeTeam": {
         "name": "瑞典",
+        "nameEn": "Sweden",
         "shortName": "瑞典",
         "shirtColor": "#FFD400",
         "shirtLabel": "黄衣",
         "players": [
           {
             "name": "亚历山大·伊萨克",
+            "nameEn": "Alexander Isak",
             "persona": "高瘦技术型中锋，跑起来不像传统大中锋",
             "hooks": [
               {
@@ -455,6 +473,7 @@
           },
           {
             "name": "维克托·约克雷斯",
+            "nameEn": "Viktor Gyökeres",
             "persona": "强力前锋，视觉上就是那种很能扛人的类型",
             "hooks": [
               {
@@ -482,12 +501,14 @@
       },
       "awayTeam": {
         "name": "突尼斯",
+        "nameEn": "Tunisia",
         "shortName": "突尼斯",
         "shirtColor": "#FFFFFF",
         "shirtLabel": "白衣",
         "players": [
           {
             "name": "伊莱斯·斯希里",
+            "nameEn": "Ellyes Skhiri",
             "persona": "中场工兵，负责让比赛别太快失控",
             "hooks": [
               {
@@ -513,6 +534,7 @@
           },
           {
             "name": "汉尼拔·梅布里",
+            "nameEn": "Hannibal Mejbri",
             "persona": "发型和名字都很容易被记住的中场",
             "hooks": [
               {

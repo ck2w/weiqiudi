@@ -316,6 +316,21 @@ h2 {
   margin-bottom: 6px;
 }
 
+.name-en {
+  display: block;
+  font-size: 0.72rem;
+  font-weight: 500;
+  opacity: 0.6;
+  margin-top: 1px;
+  margin-bottom: 4px;
+  letter-spacing: 0.01em;
+}
+
+.team-name-en {
+  margin-top: 4px;
+  margin-bottom: 8px;
+}
+
 .player-card h3 {
   display: inline;
   margin: 0 8px 4px 0;
