@@ -209,6 +209,103 @@ h2 {
   font-weight: 850;
 }
 
+.prediction-card {
+  margin: 0 18px 18px;
+  border: 5px solid #111111;
+  background: #fff7c2;
+  padding: 14px;
+}
+
+.prediction-card__header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+
+.prediction-card__header span {
+  display: block;
+  margin-bottom: 4px;
+  font-size: 1.08rem;
+  font-weight: 950;
+}
+
+.prediction-card__header p,
+.prediction-disclaimer {
+  margin-bottom: 0;
+  font-size: 0.9rem;
+  font-weight: 800;
+}
+
+.prediction-card__header a {
+  flex: 0 0 auto;
+  border: 3px solid #111111;
+  background: #71d7ff;
+  padding: 6px 9px;
+  text-decoration: none;
+  font-size: 0.88rem;
+  font-weight: 950;
+  box-shadow: 3px 3px 0 #111111;
+}
+
+.prediction-bars {
+  display: grid;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.prediction-row {
+  display: grid;
+  gap: 5px;
+}
+
+.prediction-row__label {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  font-weight: 950;
+}
+
+.prediction-row__label span {
+  border: 3px solid #111111;
+  background: #ffffff;
+  padding: 1px 7px;
+}
+
+.prediction-meter {
+  height: 18px;
+  border: 3px solid #111111;
+  background: #ffffff;
+  overflow: hidden;
+}
+
+.prediction-meter span {
+  display: block;
+  height: 100%;
+  min-width: 4px;
+  background: repeating-linear-gradient(
+    135deg,
+    #ff5c8a,
+    #ff5c8a 8px,
+    #ffd400 8px,
+    #ffd400 16px
+  );
+}
+
+.prediction-empty {
+  border: 4px dashed #111111;
+  background: #ffffff;
+  padding: 12px;
+  margin-bottom: 10px;
+  font-weight: 900;
+}
+
+.prediction-disclaimer {
+  opacity: 0.78;
+}
+
 .match-grid {
   display: grid;
   gap: 18px;
@@ -417,6 +514,8 @@ h2 {
 
 .source-links a:hover,
 .source-links a:focus-visible,
+.prediction-card__header a:hover,
+.prediction-card__header a:focus-visible,
 .share-link:hover,
 .share-link:focus-visible {
   transform: translate(-2px, -2px);
@@ -563,5 +662,9 @@ h2 {
 
   .warning-card {
     grid-template-columns: 1fr;
+  }
+
+  .prediction-card__header {
+    flex-direction: column;
   }
 }

@@ -3,6 +3,7 @@ import type {
   DailyGuide,
   KeyPlayer,
   MatchGuide,
+  PredictionMarket,
   PreviewMatch,
   SourceLink,
   TeamGuide,
@@ -73,6 +74,10 @@ function MatchCard({ match }: { match: MatchGuide }) {
         <p>{match.oneLiner}</p>
       </section>
 
+      {match.predictionMarket ? (
+        <PredictionMarketCard predictionMarket={match.predictionMarket} />
+      ) : null}
+
       <div className="match-grid">
         <section className="talk-card">
           <div className="sticker sticker--pink">开口就能说</div>
@@ -100,6 +105,54 @@ function MatchCard({ match }: { match: MatchGuide }) {
       </footer>
     </article>
   );
+}
+
+function PredictionMarketCard({
+  predictionMarket,
+}: {
+  predictionMarket: PredictionMarket;
+}) {
+  return (
+    <section className="prediction-card">
+      <div className="prediction-card__header">
+        <div>
+          <span>Polymarket 赛前胜率</span>
+          <p>{predictionMarket.note}</p>
+        </div>
+        {predictionMarket.marketUrl ? (
+          <a href={predictionMarket.marketUrl} target="_blank" rel="noreferrer">
+            看市场
+          </a>
+        ) : null}
+      </div>
+
+      {predictionMarket.status === "available" ? (
+        <div className="prediction-bars">
+          {predictionMarket.outcomes.map((outcome) => (
+            <div className="prediction-row" key={outcome.label}>
+              <div className="prediction-row__label">
+                <strong>{outcome.label}</strong>
+                <span>{formatProbability(outcome.probability)}</span>
+              </div>
+              <div className="prediction-meter" aria-hidden="true">
+                <span style={{ width: `${outcome.probability}%` }} />
+              </div>
+            </div>
+          ))}
+        </div>
+      ) : (
+        <div className="prediction-empty">暂无对应 Polymarket 单场市场，不硬编概率。</div>
+      )}
+
+      <p className="prediction-disclaimer">
+        市场隐含概率，只当赛前热度参考，不是投注建议。
+      </p>
+    </section>
+  );
+}
+
+function formatProbability(probability: number) {
+  return `${Number.isInteger(probability) ? probability : probability.toFixed(1)}%`;
 }
 
 function NoMatchesCard() {

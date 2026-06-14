@@ -124,6 +124,13 @@
         ]
       },
       "oneLiner": "这场最简单：德国是传统豪门，库拉索是世界杯新同学，看德国会不会一上来就把强队气势打出来。",
+      "predictionMarket": {
+        "source": "Polymarket",
+        "status": "unavailable",
+        "asOf": "2026-06-14T21:57:08Z",
+        "note": "未找到德国 vs 库拉索对应的 Polymarket 单场胜平负市场，暂不展示概率。",
+        "outcomes": []
+      },
       "conversationLines": [
         "德国这场不光要赢，还要把前两届小组赛翻车的阴影踢掉。",
         "库拉索第一次来世界杯，能进一个球都很有故事感。",
@@ -260,6 +267,27 @@
         ]
       },
       "oneLiner": "这场是传统橙衣军团打技术流日本，最适合盯双方边路谁先把对面防线撕开。",
+      "predictionMarket": {
+        "source": "Polymarket",
+        "status": "available",
+        "asOf": "2026-06-14T21:57:08.562928Z",
+        "marketUrl": "https://polymarket.com/event/fifwc-nld-jpn-2026-06-14",
+        "note": "赛前市场明显偏向荷兰，日本是冷门剧本。",
+        "outcomes": [
+          {
+            "label": "荷兰胜",
+            "probability": 80.5
+          },
+          {
+            "label": "平局",
+            "probability": 17.5
+          },
+          {
+            "label": "日本胜",
+            "probability": 2.6
+          }
+        ]
+      },
       "conversationLines": [
         "荷兰不一定是最华丽的一届，但加克波状态好就很有威胁。",
         "日本现在不是来陪跑的，他们技术和节奏都很能打。",
@@ -410,6 +438,27 @@
         ]
       },
       "oneLiner": "这场不是最大牌，但很适合装成懂球：科特迪瓦看边路冲击，厄瓜多尔看防线稳不稳。",
+      "predictionMarket": {
+        "source": "Polymarket",
+        "status": "available",
+        "asOf": "2026-06-14T21:57:08.097392Z",
+        "marketUrl": "https://polymarket.com/event/fifwc-civ-ecu-2026-06-14",
+        "note": "三种结果很接近，市场稍微更看厄瓜多尔。",
+        "outcomes": [
+          {
+            "label": "科特迪瓦胜",
+            "probability": 29.5
+          },
+          {
+            "label": "平局",
+            "probability": 33.5
+          },
+          {
+            "label": "厄瓜多尔胜",
+            "probability": 37.5
+          }
+        ]
+      },
       "conversationLines": [
         "厄瓜多尔这种队很适合当黑马聊，防守稳起来谁都不好踢。",
         "科特迪瓦这边就看边路能不能把速度优势打出来。",
@@ -561,6 +610,27 @@
         ]
       },
       "oneLiner": "这场看瑞典两个前锋能不能把火力打出来，突尼斯则是在冲第一次小组出线的故事线。",
+      "predictionMarket": {
+        "source": "Polymarket",
+        "status": "available",
+        "asOf": "2026-06-14T21:57:07.255022Z",
+        "marketUrl": "https://polymarket.com/event/fifwc-swe-tun-2026-06-14",
+        "note": "市场更看瑞典，但平局和突尼斯偷分都不是离谱剧本。",
+        "outcomes": [
+          {
+            "label": "瑞典胜",
+            "probability": 52.5
+          },
+          {
+            "label": "平局",
+            "probability": 28.5
+          },
+          {
+            "label": "突尼斯胜",
+            "probability": 20.5
+          }
+        ]
+      },
       "conversationLines": [
         "瑞典这队有点谜，但伊萨克和约克雷斯一起出现就很有看点。",
         "突尼斯一直想突破小组赛，这场如果能拿分就很有意义。",

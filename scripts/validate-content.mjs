@@ -15,6 +15,7 @@ const allowedExternalHosts = [
   "bilibili.com",
 ];
 const allowedImageHosts = ["commons.wikimedia.org"];
+const allowedPredictionMarketHosts = ["polymarket.com", "www.polymarket.com"];
 
 const errors = [];
 
@@ -69,6 +70,7 @@ function validateMatch(match, filePath) {
   }
 
   validateLinks(match.sourceLinks, `${matchLabel} sourceLinks`);
+  validatePredictionMarket(match.predictionMarket, `${matchLabel} predictionMarket`);
 }
 
 function validatePlayer(player, teamName, matchLabel) {
@@ -129,6 +131,73 @@ function validatePlayerImage(player, context) {
 
     if (!player.imageCredit) {
       errors.push(`${context}: licensed image requires imageCredit`);
+    }
+  }
+}
+
+function validatePredictionMarket(predictionMarket, context) {
+  if (!predictionMarket) return;
+
+  if (predictionMarket.source !== "Polymarket") {
+    errors.push(`${context}: source must be Polymarket`);
+  }
+
+  if (!["available", "unavailable"].includes(predictionMarket.status)) {
+    errors.push(`${context}: status must be available or unavailable`);
+    return;
+  }
+
+  if (!predictionMarket.asOf) {
+    errors.push(`${context}: asOf is required`);
+  } else if (Number.isNaN(Date.parse(predictionMarket.asOf))) {
+    errors.push(`${context}: asOf must be an ISO timestamp`);
+  }
+
+  if (!predictionMarket.note) {
+    errors.push(`${context}: note is required`);
+  }
+
+  if (!Array.isArray(predictionMarket.outcomes)) {
+    errors.push(`${context}: outcomes must be an array`);
+    return;
+  }
+
+  if (predictionMarket.status === "unavailable") {
+    if (predictionMarket.outcomes.length > 0) {
+      errors.push(`${context}: unavailable market must not include outcomes`);
+    }
+    return;
+  }
+
+  if (!predictionMarket.marketUrl) {
+    errors.push(`${context}: available market requires marketUrl`);
+  } else {
+    let host;
+    try {
+      host = new URL(predictionMarket.marketUrl).hostname;
+    } catch {
+      errors.push(`${context}: invalid marketUrl ${predictionMarket.marketUrl}`);
+      return;
+    }
+
+    if (!allowedPredictionMarketHosts.includes(host)) {
+      errors.push(`${context}: marketUrl host ${host} must be Polymarket`);
+    }
+  }
+
+  if (predictionMarket.outcomes.length === 0) {
+    errors.push(`${context}: available market must include outcomes`);
+  }
+
+  for (const outcome of predictionMarket.outcomes) {
+    if (!outcome?.label) {
+      errors.push(`${context}: outcome is missing label`);
+    }
+
+    if (typeof outcome?.probability !== "number" || !Number.isFinite(outcome.probability)) {
+      errors.push(`${context}: outcome ${outcome?.label ?? "(missing label)"} probability must be a number`);
+    } else if (outcome.probability < 0 || outcome.probability > 100) {
+      errors.push(`${context}: outcome ${outcome.label} probability must be between 0 and 100`);
     }
   }
 }

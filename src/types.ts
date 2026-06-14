@@ -36,12 +36,27 @@ export interface TeamGuide {
   players: KeyPlayer[];
 }
 
+export interface PredictionOutcome {
+  label: string;
+  probability: number;
+}
+
+export interface PredictionMarket {
+  source: "Polymarket";
+  status: "available" | "unavailable";
+  asOf: string;
+  marketUrl?: string;
+  note: string;
+  outcomes: PredictionOutcome[];
+}
+
 export interface MatchGuide {
   id: string;
   kickoffTime: string;
   homeTeam: TeamGuide;
   awayTeam: TeamGuide;
   oneLiner: string;
+  predictionMarket?: PredictionMarket;
   conversationLines: string[];
   dontSay: string;
   sourceLinks: SourceLink[];
