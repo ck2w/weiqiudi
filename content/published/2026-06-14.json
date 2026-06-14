@@ -1,0 +1,240 @@
+{
+  "date": "2026-06-14",
+  "displayDate": "2026 年 6 月 14 日",
+  "headline": "开赛前 1 分钟，够你加入聊天。",
+  "matches": [
+    {
+      "id": "germany-japan",
+      "kickoffTime": "23:00",
+      "homeTeam": {
+        "name": "德国",
+        "shortName": "德国",
+        "shirtColor": "#FFFFFF",
+        "shirtLabel": "白衣",
+        "players": [
+          {
+            "name": "穆西亚拉",
+            "persona": "年轻爆点，拿球就容易让防守人紧张",
+            "hooks": [
+              {
+                "title": "小鹿斑比式盘带",
+                "detail": "可以聊他脚下动作很细，像在人堆里钻缝。",
+                "links": [
+                  {
+                    "label": "B站搜索：穆西亚拉 集锦",
+                    "url": "https://search.bilibili.com/all?keyword=%E7%A9%86%E8%A5%BF%E4%BA%9A%E6%8B%89%20%E9%9B%86%E9%94%A6",
+                    "type": "B站"
+                  }
+                ]
+              },
+              {
+                "title": "年轻核心人设",
+                "detail": "不懂球也可以说：德国现在就需要这种年轻人把节奏提起来。",
+                "links": [
+                  {
+                    "label": "百科搜索",
+                    "url": "https://www.baidu.com/s?wd=%E7%A9%86%E8%A5%BF%E4%BA%9A%E6%8B%89",
+                    "type": "百科"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "维尔茨",
+            "persona": "中前场灵感位，负责把简单球变得有想象力",
+            "hooks": [
+              {
+                "title": "天才中场模板",
+                "detail": "可以把他当成德国这边最会送出关键一脚的人来看。",
+                "links": [
+                  {
+                    "label": "B站搜索：维尔茨 集锦",
+                    "url": "https://search.bilibili.com/all?keyword=%E7%BB%B4%E5%B0%94%E8%8C%A8%20%E9%9B%86%E9%94%A6",
+                    "type": "B站"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "awayTeam": {
+        "name": "日本",
+        "shortName": "日本",
+        "shirtColor": "#71D7FF",
+        "shirtLabel": "蓝衣",
+        "players": [
+          {
+            "name": "久保建英",
+            "persona": "边路小快灵，喜欢突然启动制造麻烦",
+            "hooks": [
+              {
+                "title": "小个子技术流",
+                "detail": "看到他在边路拿球，可以说：这一下要开始提速了。",
+                "links": [
+                  {
+                    "label": "B站搜索：久保建英 集锦",
+                    "url": "https://search.bilibili.com/all?keyword=%E4%B9%85%E4%BF%9D%E5%BB%BA%E8%8B%B1%20%E9%9B%86%E9%94%A6",
+                    "type": "B站"
+                  }
+                ]
+              },
+              {
+                "title": "旅欧少年成名线",
+                "detail": "他的故事很好聊：很早就被当成日本天才球员关注。",
+                "links": [
+                  {
+                    "label": "百科搜索",
+                    "url": "https://www.baidu.com/s?wd=%E4%B9%85%E4%BF%9D%E5%BB%BA%E8%8B%B1",
+                    "type": "百科"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "三笘薰",
+            "persona": "边路过人专家，最适合不懂球的人盯着看",
+            "hooks": [
+              {
+                "title": "论文过人梗",
+                "detail": "可以聊他研究过盘带，听起来就很像把足球踢成理科题。",
+                "links": [
+                  {
+                    "label": "B站搜索：三笘薰 论文 过人",
+                    "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E7%AC%98%E8%96%B0%20%E8%AE%BA%E6%96%87%20%E8%BF%87%E4%BA%BA",
+                    "type": "B站"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "oneLiner": "这场不懂就盯双方最会制造话题的年轻球星，看谁能先把节奏提起来。",
+      "conversationLines": [
+        "德国这边现在最需要年轻人把场面搅活。",
+        "日本这种小快灵球员一提速，防守人就很难受。",
+        "这场如果突然变热闹，大概率是边路先打出东西。",
+        "我就看穆西亚拉和久保谁先让对面后卫开始慌。"
+      ],
+      "dontSay": "别一上来聊复杂阵型。你只要盯球星拿球后的第一下变化，就已经够用了。",
+      "sourceLinks": [
+        {
+          "label": "B站搜索：德国 日本 足球",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BE%B7%E5%9B%BD%20%E6%97%A5%E6%9C%AC%20%E8%B6%B3%E7%90%83",
+          "type": "B站"
+        }
+      ]
+    },
+    {
+      "id": "france-argentina",
+      "kickoffTime": "03:00",
+      "homeTeam": {
+        "name": "法国",
+        "shortName": "法国",
+        "shirtColor": "#1F4ED8",
+        "shirtLabel": "蓝衣",
+        "players": [
+          {
+            "name": "姆巴佩",
+            "persona": "速度怪，大场面冲刺按钮",
+            "hooks": [
+              {
+                "title": "一脚油门",
+                "detail": "看到他开始冲，可以直接说：这球后卫只能祈祷了。",
+                "links": [
+                  {
+                    "label": "B站搜索：姆巴佩 速度 集锦",
+                    "url": "https://search.bilibili.com/all?keyword=%E5%A7%86%E5%B7%B4%E4%BD%A9%20%E9%80%9F%E5%BA%A6%20%E9%9B%86%E9%94%A6",
+                    "type": "B站"
+                  }
+                ]
+              },
+              {
+                "title": "大场面先生",
+                "detail": "适合聊他越是关键比赛越容易成为镜头中心。",
+                "links": [
+                  {
+                    "label": "百科搜索",
+                    "url": "https://www.baidu.com/s?wd=%E5%A7%86%E5%B7%B4%E4%BD%A9",
+                    "type": "百科"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "awayTeam": {
+        "name": "阿根廷",
+        "shortName": "阿根廷",
+        "shirtColor": "#D7F2FF",
+        "shirtLabel": "蓝白",
+        "players": [
+          {
+            "name": "梅西",
+            "persona": "全场情绪中心，拿球时大家都会自动抬头",
+            "hooks": [
+              {
+                "title": "最后一舞氛围",
+                "detail": "可以聊：只要梅西拿球，全场叙事就会自动围着他转。",
+                "links": [
+                  {
+                    "label": "B站搜索：梅西 世界杯 名场面",
+                    "url": "https://search.bilibili.com/all?keyword=%E6%A2%85%E8%A5%BF%20%E4%B8%96%E7%95%8C%E6%9D%AF%20%E5%90%8D%E5%9C%BA%E9%9D%A2",
+                    "type": "B站"
+                  }
+                ]
+              },
+              {
+                "title": "散步梗",
+                "detail": "他看起来像在散步，但突然一下就能改变比赛。",
+                "links": [
+                  {
+                    "label": "B站搜索：梅西 散步",
+                    "url": "https://search.bilibili.com/all?keyword=%E6%A2%85%E8%A5%BF%20%E6%95%A3%E6%AD%A5",
+                    "type": "B站"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "oneLiner": "这场最简单的看法：法国看姆巴佩冲刺，阿根廷看梅西什么时候突然接管情绪。",
+      "conversationLines": [
+        "姆巴佩只要冲起来，后卫基本就是跟镜头一起追。",
+        "梅西有时候看着没动静，但他一拿球大家就会突然安静。",
+        "这场不用装懂战术，盯两边最大牌什么时候发力就行。",
+        "如果比赛变成名场面，大概率还是这两个人先上热搜。"
+      ],
+      "dontSay": "别把所有阿根廷进攻都说成梅西一个人完成，容易被真球迷纠正。",
+      "sourceLinks": [
+        {
+          "label": "B站搜索：法国 阿根廷 世界杯",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B3%95%E5%9B%BD%20%E9%98%BF%E6%A0%B9%E5%BB%B7%20%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "type": "B站"
+        }
+      ]
+    }
+  ],
+  "tomorrow": {
+    "displayDate": "2026 年 6 月 15 日",
+    "matches": [
+      {
+        "id": "brazil-croatia",
+        "kickoffTime": "22:00",
+        "homeTeam": "巴西",
+        "awayTeam": "克罗地亚"
+      },
+      {
+        "id": "england-netherlands",
+        "kickoffTime": "02:00",
+        "homeTeam": "英格兰",
+        "awayTeam": "荷兰"
+      }
+    ]
+  }
+}
