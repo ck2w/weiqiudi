@@ -43,7 +43,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "rosterStatus": "needs-check"
           },
           {
             "name": "穆西亚拉",
@@ -60,7 +61,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "rosterStatus": "needs-check"
           }
         ]
       },
@@ -90,7 +92,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "rosterStatus": "needs-check"
           }
         ]
       },
@@ -144,7 +147,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "rosterStatus": "needs-check"
           },
           {
             "name": "范戴克",
@@ -161,7 +165,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "rosterStatus": "needs-check"
           }
         ]
       },
@@ -197,24 +202,8 @@
                   }
                 ]
               }
-            ]
-          },
-          {
-            "name": "三笘薰",
-            "persona": "边路过人专家，伪球迷最容易看出厉害的类型",
-            "hooks": [
-              {
-                "title": "论文过人梗",
-                "detail": "可以聊他研究过盘带，听起来就像把足球踢成理科题。",
-                "links": [
-                  {
-                    "label": "B站搜索：三笘薰 论文 过人",
-                    "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E7%AC%98%E8%96%B0%20%E8%AE%BA%E6%96%87%20%E8%BF%87%E4%BA%BA",
-                    "type": "B站"
-                  }
-                ]
-              }
-            ]
+            ],
+            "rosterStatus": "needs-check"
           }
         ]
       },
@@ -223,7 +212,7 @@
         "荷兰不一定是最华丽的一届，但加克波状态好就很有威胁。",
         "日本现在不是来陪跑的，他们技术和节奏都很能打。",
         "这场你就盯边路，谁先连续一对一成功，场面就会开始变热。",
-        "久保和三笘这种球员很适合伪球迷看，因为他们厉害的时候肉眼能看出来。"
+        "久保这种球员很适合伪球迷看，因为他厉害的时候肉眼能看出来。"
       ],
       "dontSay": "别再用“日本身体不行”这种老印象，他们现在很多球员都在欧洲高强度联赛踢球。",
       "sourceLinks": [
@@ -268,7 +257,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "rosterStatus": "needs-check"
           },
           {
             "name": "西蒙·阿丁格拉",
@@ -285,7 +275,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "rosterStatus": "needs-check"
           }
         ]
       },
@@ -310,7 +301,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "rosterStatus": "needs-check"
           },
           {
             "name": "威廉·帕乔",
@@ -327,7 +319,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "rosterStatus": "needs-check"
           }
         ]
       },
@@ -381,7 +374,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "rosterStatus": "needs-check"
           },
           {
             "name": "维克托·约克雷斯",
@@ -398,7 +392,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "rosterStatus": "needs-check"
           }
         ]
       },
@@ -423,7 +418,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "rosterStatus": "needs-check"
           },
           {
             "name": "汉尼拔·梅布里",
@@ -440,7 +436,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "rosterStatus": "needs-check"
           }
         ]
       },

@@ -15,8 +15,8 @@ function App() {
     <main className="page-shell">
       <header className="site-header">
         <div className="title-card">
-          <p className="eyebrow">世界杯伪球迷急救包</p>
-          <h1>今晚装懂小抄</h1>
+          <p className="eyebrow">今晚装懂小抄</p>
+          <h1>伪球帝</h1>
           <p>{dailyGuide.headline}</p>
         </div>
         <div className="today-stamp">
@@ -141,6 +141,9 @@ function PlayerCard({ player }: { player: KeyPlayer }) {
   return (
     <article className="player-card">
       <h3>{player.name}</h3>
+      {player.rosterStatus === "needs-check" ? (
+        <span className="roster-pill">大名单待核验</span>
+      ) : null}
       <p className="persona">人设：{player.persona}</p>
       <div className="hook-list">
         {player.hooks.map((hook) => (

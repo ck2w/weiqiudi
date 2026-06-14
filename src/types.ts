@@ -15,6 +15,7 @@ export interface PlayerHook {
 export interface KeyPlayer {
   name: string;
   persona: string;
+  rosterStatus?: "confirmed" | "needs-check";
   hooks: PlayerHook[];
 }
 
@@ -54,4 +55,3 @@ export interface DailyGuide {
     matches: PreviewMatch[];
   };
 }
-
