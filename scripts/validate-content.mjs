@@ -14,6 +14,7 @@ const allowedExternalHosts = [
   "www.bilibili.com",
   "bilibili.com",
 ];
+const allowedImageHosts = ["commons.wikimedia.org"];
 
 const errors = [];
 
@@ -82,6 +83,8 @@ function validatePlayer(player, teamName, matchLabel) {
     );
   }
 
+  validatePlayerImage(player, `${matchLabel} ${teamName} ${player.name}`);
+
   if (!Array.isArray(player.hooks) || player.hooks.length === 0) {
     errors.push(`${matchLabel}: ${teamName} player ${player.name} must include at least one hook`);
     return;
@@ -89,6 +92,40 @@ function validatePlayer(player, teamName, matchLabel) {
 
   for (const hook of player.hooks) {
     validateLinks(hook.links, `${matchLabel} ${teamName} ${player.name} hook ${hook.title}`);
+  }
+}
+
+function validatePlayerImage(player, context) {
+  if (!player.shirtNumber) {
+    errors.push(`${context}: shirtNumber is required, use 待确认 if not verified`);
+  }
+
+  if (!["licensed", "placeholder"].includes(player.imageStatus)) {
+    errors.push(`${context}: imageStatus must be licensed or placeholder`);
+    return;
+  }
+
+  if (player.imageStatus === "licensed") {
+    if (!player.imageUrl) {
+      errors.push(`${context}: licensed image requires imageUrl`);
+      return;
+    }
+
+    let host;
+    try {
+      host = new URL(player.imageUrl).hostname;
+    } catch {
+      errors.push(`${context}: invalid imageUrl ${player.imageUrl}`);
+      return;
+    }
+
+    if (!allowedImageHosts.includes(host)) {
+      errors.push(`${context}: image host ${host} is not allowed for player photos`);
+    }
+
+    if (!player.imageCredit) {
+      errors.push(`${context}: licensed image requires imageCredit`);
+    }
   }
 }
 

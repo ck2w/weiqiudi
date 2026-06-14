@@ -16,6 +16,11 @@ export interface KeyPlayer {
   name: string;
   persona: string;
   rosterStatus?: "confirmed" | "needs-check";
+  shirtNumber?: string;
+  imageUrl?: string;
+  imageAlt?: string;
+  imageCredit?: string;
+  imageStatus?: "licensed" | "placeholder";
   hooks: PlayerHook[];
 }
 

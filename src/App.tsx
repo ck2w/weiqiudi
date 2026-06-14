@@ -140,11 +140,18 @@ function TeamPanel({ team }: { team: TeamGuide }) {
 function PlayerCard({ player }: { player: KeyPlayer }) {
   return (
     <article className="player-card">
-      <h3>{player.name}</h3>
-      {player.rosterStatus === "needs-check" ? (
-        <span className="roster-pill">大名单待核验</span>
-      ) : null}
-      <p className="persona">人设：{player.persona}</p>
+      <div className="player-identity">
+        <PlayerPhoto player={player} />
+        <div className="player-copy">
+          <div className="player-heading">
+            <h3>{player.name}</h3>
+            {player.rosterStatus === "needs-check" ? (
+              <span className="roster-pill">大名单待核验</span>
+            ) : null}
+          </div>
+          <p className="persona">人设：{player.persona}</p>
+        </div>
+      </div>
       <div className="hook-list">
         {player.hooks.map((hook) => (
           <div className="hook" key={`${player.name}-${hook.title}`}>
@@ -155,6 +162,29 @@ function PlayerCard({ player }: { player: KeyPlayer }) {
         ))}
       </div>
     </article>
+  );
+}
+
+function PlayerPhoto({ player }: { player: KeyPlayer }) {
+  const number = player.shirtNumber ?? "待确认";
+  const initials = player.name.slice(0, 1);
+
+  return (
+    <div className="player-photo-wrap">
+      <div className="number-badge">#{number}</div>
+      {player.imageStatus === "licensed" && player.imageUrl ? (
+        <img
+          className="player-photo"
+          src={player.imageUrl}
+          alt={player.imageAlt ?? player.name}
+          loading="lazy"
+        />
+      ) : (
+        <div className="player-photo player-photo--placeholder" aria-label={`${player.name} 占位头像`}>
+          {initials}
+        </div>
+      )}
+    </div>
   );
 }
 
