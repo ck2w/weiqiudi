@@ -25,11 +25,15 @@ function App() {
         </div>
       </header>
 
-      <section className="match-list" aria-label="今日比赛小抄">
-        {dailyGuide.matches.map((match) => (
-          <MatchCard key={match.id} match={match} />
-        ))}
-      </section>
+      {dailyGuide.matches.length > 0 ? (
+        <section className="match-list" aria-label="今日比赛小抄">
+          {dailyGuide.matches.map((match) => (
+            <MatchCard key={match.id} match={match} />
+          ))}
+        </section>
+      ) : (
+        <NoMatchesCard />
+      )}
 
       <TomorrowPreview
         displayDate={dailyGuide.tomorrow.displayDate}
@@ -90,6 +94,18 @@ function MatchCard({ match }: { match: MatchGuide }) {
         </a>
       </footer>
     </article>
+  );
+}
+
+function NoMatchesCard() {
+  return (
+    <section className="empty-card" aria-label="今日无比赛">
+      <div className="sticker sticker--pink">今天休息</div>
+      <h2>今天没有需要装懂的世界杯比赛</h2>
+      <p>
+        可以先看明天预告。等有比赛的日期，页面会自动切回每场一张小抄。
+      </p>
+    </section>
   );
 }
 
@@ -186,4 +202,3 @@ function TomorrowPreview({
 }
 
 export default App;
-

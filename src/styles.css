@@ -46,7 +46,8 @@ a {
 .title-card,
 .today-stamp,
 .match-card,
-.tomorrow-card {
+.tomorrow-card,
+.empty-card {
   border: 6px solid #111111;
   background: #fff7c2;
   box-shadow: 8px 8px 0 #111111;
@@ -114,6 +115,24 @@ h2 {
 .match-list {
   display: grid;
   gap: 28px;
+}
+
+.empty-card {
+  position: relative;
+  margin-top: 28px;
+  padding: 42px 22px 22px;
+  background: #ffffff;
+}
+
+.empty-card h2 {
+  margin-bottom: 12px;
+  font-size: clamp(1.8rem, 6vw, 3rem);
+}
+
+.empty-card p {
+  margin-bottom: 0;
+  font-size: 1.08rem;
+  font-weight: 850;
 }
 
 .match-card {

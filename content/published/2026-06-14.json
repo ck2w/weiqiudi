@@ -1,11 +1,11 @@
 {
   "date": "2026-06-14",
   "displayDate": "2026 年 6 月 14 日",
-  "headline": "开赛前 1 分钟，够你加入聊天。",
+  "headline": "今天 4 场世界杯，开赛前 1 分钟够你加入聊天。",
   "matches": [
     {
-      "id": "germany-japan",
-      "kickoffTime": "23:00",
+      "id": "germany-curacao",
+      "kickoffTime": "13:00 ET",
       "homeTeam": {
         "name": "德国",
         "shortName": "德国",
@@ -13,44 +13,150 @@
         "shirtLabel": "白衣",
         "players": [
           {
-            "name": "穆西亚拉",
-            "persona": "年轻爆点，拿球就容易让防守人紧张",
+            "name": "凯·哈弗茨",
+            "persona": "高个前场万金油，既能站中锋也能到处串门",
             "hooks": [
               {
-                "title": "小鹿斑比式盘带",
-                "detail": "可以聊他脚下动作很细，像在人堆里钻缝。",
+                "title": "门前玄学位",
+                "detail": "可以聊他有时候看着不声不响，但总能出现在很关键的位置。",
                 "links": [
                   {
-                    "label": "B站搜索：穆西亚拉 集锦",
-                    "url": "https://search.bilibili.com/all?keyword=%E7%A9%86%E8%A5%BF%E4%BA%9A%E6%8B%89%20%E9%9B%86%E9%94%A6",
+                    "label": "B站搜索：哈弗茨 集锦",
+                    "url": "https://search.bilibili.com/all?keyword=%E5%93%88%E5%BC%97%E8%8C%A8%20%E9%9B%86%E9%94%A6",
                     "type": "B站"
+                  },
+                  {
+                    "label": "百科搜索",
+                    "url": "https://www.baidu.com/s?wd=%E5%93%88%E5%BC%97%E8%8C%A8",
+                    "type": "百科"
                   }
                 ]
               },
               {
-                "title": "年轻核心人设",
-                "detail": "不懂球也可以说：德国现在就需要这种年轻人把节奏提起来。",
+                "title": "大场面熟脸",
+                "detail": "他不是那种一看就炸裂的人，但适合说：德国需要这种前场连接点。",
                 "links": [
                   {
-                    "label": "百科搜索",
-                    "url": "https://www.baidu.com/s?wd=%E7%A9%86%E8%A5%BF%E4%BA%9A%E6%8B%89",
-                    "type": "百科"
+                    "label": "Guardian 今日看点",
+                    "url": "https://www.theguardian.com/football/2026/jun/14/how-to-watch-world-cup-germany-curacao-netherlands-japan",
+                    "type": "社区"
                   }
                 ]
               }
             ]
           },
           {
-            "name": "维尔茨",
-            "persona": "中前场灵感位，负责把简单球变得有想象力",
+            "name": "穆西亚拉",
+            "persona": "年轻爆点，拿球就容易让防守人紧张",
             "hooks": [
               {
-                "title": "天才中场模板",
-                "detail": "可以把他当成德国这边最会送出关键一脚的人来看。",
+                "title": "小鹿斑比式盘带",
+                "detail": "看到他在人堆里转身，可以说：这就是德国这代最有灵气的点。",
                 "links": [
                   {
-                    "label": "B站搜索：维尔茨 集锦",
-                    "url": "https://search.bilibili.com/all?keyword=%E7%BB%B4%E5%B0%94%E8%8C%A8%20%E9%9B%86%E9%94%A6",
+                    "label": "B站搜索：穆西亚拉 盘带",
+                    "url": "https://search.bilibili.com/all?keyword=%E7%A9%86%E8%A5%BF%E4%BA%9A%E6%8B%89%20%E7%9B%98%E5%B8%A6",
+                    "type": "B站"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "awayTeam": {
+        "name": "库拉索",
+        "shortName": "库拉索",
+        "shirtColor": "#1F6FFF",
+        "shirtLabel": "蓝衣",
+        "players": [
+          {
+            "name": "莱安德罗·巴库纳",
+            "persona": "老江湖型队长感，适合当库拉索的认脸入口",
+            "hooks": [
+              {
+                "title": "世界杯新同学代表",
+                "detail": "库拉索是首次踢世界杯，聊他们时可以先说：这队故事感比胜负更强。",
+                "links": [
+                  {
+                    "label": "B站搜索：库拉索 足球",
+                    "url": "https://search.bilibili.com/all?keyword=%E5%BA%93%E6%8B%89%E7%B4%A2%20%E8%B6%B3%E7%90%83",
+                    "type": "B站"
+                  },
+                  {
+                    "label": "百科搜索：库拉索国家足球队",
+                    "url": "https://www.baidu.com/s?wd=%E5%BA%93%E6%8B%89%E7%B4%A2%E5%9B%BD%E5%AE%B6%E8%B6%B3%E7%90%83%E9%98%9F",
+                    "type": "百科"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "oneLiner": "这场最简单：德国是传统豪门，库拉索是世界杯新同学，看德国会不会一上来就把强队气势打出来。",
+      "conversationLines": [
+        "德国这场不光要赢，还要把前两届小组赛翻车的阴影踢掉。",
+        "库拉索第一次来世界杯，能进一个球都很有故事感。",
+        "哈弗茨这种球员不一定最炫，但很适合盯他会不会突然出现在门前。",
+        "如果穆西亚拉开始连续带球，那就说明德国要提速了。"
+      ],
+      "dontSay": "别把库拉索说成纯业余队。他们是弱势方，但能进世界杯已经很不简单。",
+      "sourceLinks": [
+        {
+          "label": "Guardian：今日赛程与看点",
+          "url": "https://www.theguardian.com/football/2026/jun/14/how-to-watch-world-cup-germany-curacao-netherlands-japan",
+          "type": "社区"
+        },
+        {
+          "label": "B站搜索：德国 库拉索 世界杯",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BE%B7%E5%9B%BD%20%E5%BA%93%E6%8B%89%E7%B4%A2%20%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "type": "B站"
+        }
+      ]
+    },
+    {
+      "id": "netherlands-japan",
+      "kickoffTime": "16:00 ET",
+      "homeTeam": {
+        "name": "荷兰",
+        "shortName": "荷兰",
+        "shirtColor": "#FF7A00",
+        "shirtLabel": "橙衣",
+        "players": [
+          {
+            "name": "科迪·加克波",
+            "persona": "荷兰前场招牌，状态好时就是进攻晴雨表",
+            "hooks": [
+              {
+                "title": "橙衣军团门面之一",
+                "detail": "可以说：荷兰今天进攻顺不顺，很大程度看加克波有没有存在感。",
+                "links": [
+                  {
+                    "label": "B站搜索：加克波 集锦",
+                    "url": "https://search.bilibili.com/all?keyword=%E5%8A%A0%E5%85%8B%E6%B3%A2%20%E9%9B%86%E9%94%A6",
+                    "type": "B站"
+                  },
+                  {
+                    "label": "Guardian 今日看点",
+                    "url": "https://www.theguardian.com/football/2026/jun/14/how-to-watch-world-cup-germany-curacao-netherlands-japan",
+                    "type": "社区"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "范戴克",
+            "persona": "后防大哥，镜头里最容易认的荷兰中卫",
+            "hooks": [
+              {
+                "title": "后防定海神针",
+                "detail": "看到日本反击被他卡住，可以说：老中卫这种位置感就是值钱。",
+                "links": [
+                  {
+                    "label": "B站搜索：范戴克 防守",
+                    "url": "https://search.bilibili.com/all?keyword=%E8%8C%83%E6%88%B4%E5%85%8B%20%E9%98%B2%E5%AE%88",
                     "type": "B站"
                   }
                 ]
@@ -70,7 +176,7 @@
             "persona": "边路小快灵，喜欢突然启动制造麻烦",
             "hooks": [
               {
-                "title": "小个子技术流",
+                "title": "技术流小个子",
                 "detail": "看到他在边路拿球，可以说：这一下要开始提速了。",
                 "links": [
                   {
@@ -81,7 +187,7 @@
                 ]
               },
               {
-                "title": "旅欧少年成名线",
+                "title": "旅欧天才线",
                 "detail": "他的故事很好聊：很早就被当成日本天才球员关注。",
                 "links": [
                   {
@@ -95,11 +201,11 @@
           },
           {
             "name": "三笘薰",
-            "persona": "边路过人专家，最适合不懂球的人盯着看",
+            "persona": "边路过人专家，伪球迷最容易看出厉害的类型",
             "hooks": [
               {
                 "title": "论文过人梗",
-                "detail": "可以聊他研究过盘带，听起来就很像把足球踢成理科题。",
+                "detail": "可以聊他研究过盘带，听起来就像把足球踢成理科题。",
                 "links": [
                   {
                     "label": "B站搜索：三笘薰 论文 过人",
@@ -112,54 +218,70 @@
           }
         ]
       },
-      "oneLiner": "这场不懂就盯双方最会制造话题的年轻球星，看谁能先把节奏提起来。",
+      "oneLiner": "这场是传统橙衣军团打技术流日本，最适合盯双方边路谁先把对面防线撕开。",
       "conversationLines": [
-        "德国这边现在最需要年轻人把场面搅活。",
-        "日本这种小快灵球员一提速，防守人就很难受。",
-        "这场如果突然变热闹，大概率是边路先打出东西。",
-        "我就看穆西亚拉和久保谁先让对面后卫开始慌。"
+        "荷兰不一定是最华丽的一届，但加克波状态好就很有威胁。",
+        "日本现在不是来陪跑的，他们技术和节奏都很能打。",
+        "这场你就盯边路，谁先连续一对一成功，场面就会开始变热。",
+        "久保和三笘这种球员很适合伪球迷看，因为他们厉害的时候肉眼能看出来。"
       ],
-      "dontSay": "别一上来聊复杂阵型。你只要盯球星拿球后的第一下变化，就已经够用了。",
+      "dontSay": "别再用“日本身体不行”这种老印象，他们现在很多球员都在欧洲高强度联赛踢球。",
       "sourceLinks": [
         {
-          "label": "B站搜索：德国 日本 足球",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BE%B7%E5%9B%BD%20%E6%97%A5%E6%9C%AC%20%E8%B6%B3%E7%90%83",
+          "label": "Guardian：荷兰 vs 日本预览",
+          "url": "https://www.theguardian.com/football/2026/jun/14/how-to-watch-world-cup-germany-curacao-netherlands-japan",
+          "type": "社区"
+        },
+        {
+          "label": "B站搜索：荷兰 日本 世界杯",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8D%B7%E5%85%B0%20%E6%97%A5%E6%9C%AC%20%E4%B8%96%E7%95%8C%E6%9D%AF",
           "type": "B站"
         }
       ]
     },
     {
-      "id": "france-argentina",
-      "kickoffTime": "03:00",
+      "id": "cote-divoire-ecuador",
+      "kickoffTime": "19:00 ET",
       "homeTeam": {
-        "name": "法国",
-        "shortName": "法国",
-        "shirtColor": "#1F4ED8",
-        "shirtLabel": "蓝衣",
+        "name": "科特迪瓦",
+        "shortName": "科特迪瓦",
+        "shirtColor": "#FF8A00",
+        "shirtLabel": "橙衣",
         "players": [
           {
-            "name": "姆巴佩",
-            "persona": "速度怪，大场面冲刺按钮",
+            "name": "扬·迪奥曼德",
+            "persona": "年轻边锋，适合看他能不能靠速度和脚下制造突破",
             "hooks": [
               {
-                "title": "一脚油门",
-                "detail": "看到他开始冲，可以直接说：这球后卫只能祈祷了。",
+                "title": "未来股看点",
+                "detail": "可以聊：这种年轻边锋在世界杯突然踢出来，就很容易被豪门盯上。",
                 "links": [
                   {
-                    "label": "B站搜索：姆巴佩 速度 集锦",
-                    "url": "https://search.bilibili.com/all?keyword=%E5%A7%86%E5%B7%B4%E4%BD%A9%20%E9%80%9F%E5%BA%A6%20%E9%9B%86%E9%94%A6",
+                    "label": "B站搜索：Diomande 足球",
+                    "url": "https://search.bilibili.com/all?keyword=Diomande%20%E8%B6%B3%E7%90%83",
                     "type": "B站"
+                  },
+                  {
+                    "label": "Guardian 今日看点",
+                    "url": "https://www.theguardian.com/football/2026/jun/14/how-to-watch-world-cup-germany-curacao-netherlands-japan",
+                    "type": "社区"
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "name": "西蒙·阿丁格拉",
+            "persona": "边路搅局者，拿球后第一反应就是冲",
+            "hooks": [
               {
-                "title": "大场面先生",
-                "detail": "适合聊他越是关键比赛越容易成为镜头中心。",
+                "title": "边路突突突",
+                "detail": "不懂球也能看：他只要开始连续加速，厄瓜多尔后卫就要忙起来。",
                 "links": [
                   {
-                    "label": "百科搜索",
-                    "url": "https://www.baidu.com/s?wd=%E5%A7%86%E5%B7%B4%E4%BD%A9",
-                    "type": "百科"
+                    "label": "B站搜索：阿丁格拉 集锦",
+                    "url": "https://search.bilibili.com/all?keyword=%E9%98%BF%E4%B8%81%E6%A0%BC%E6%8B%89%20%E9%9B%86%E9%94%A6",
+                    "type": "B站"
                   }
                 ]
               }
@@ -168,33 +290,39 @@
         ]
       },
       "awayTeam": {
-        "name": "阿根廷",
-        "shortName": "阿根廷",
-        "shirtColor": "#D7F2FF",
-        "shirtLabel": "蓝白",
+        "name": "厄瓜多尔",
+        "shortName": "厄瓜多尔",
+        "shirtColor": "#FFD400",
+        "shirtLabel": "黄衣",
         "players": [
           {
-            "name": "梅西",
-            "persona": "全场情绪中心，拿球时大家都会自动抬头",
+            "name": "皮耶罗·因卡皮耶",
+            "persona": "年轻后防硬货，适合盯他怎么处理对面冲击",
             "hooks": [
               {
-                "title": "最后一舞氛围",
-                "detail": "可以聊：只要梅西拿球，全场叙事就会自动围着他转。",
+                "title": "后卫也能当主角",
+                "detail": "这场可以说：厄瓜多尔如果踢得稳，后防这几个人会很关键。",
                 "links": [
                   {
-                    "label": "B站搜索：梅西 世界杯 名场面",
-                    "url": "https://search.bilibili.com/all?keyword=%E6%A2%85%E8%A5%BF%20%E4%B8%96%E7%95%8C%E6%9D%AF%20%E5%90%8D%E5%9C%BA%E9%9D%A2",
+                    "label": "B站搜索：因卡皮耶",
+                    "url": "https://search.bilibili.com/all?keyword=%E5%9B%A0%E5%8D%A1%E7%9A%AE%E8%80%B6",
                     "type": "B站"
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "name": "威廉·帕乔",
+            "persona": "中卫搭档里的稳定器，镜头少但很重要",
+            "hooks": [
               {
-                "title": "散步梗",
-                "detail": "他看起来像在散步，但突然一下就能改变比赛。",
+                "title": "暗黑马防线",
+                "detail": "厄瓜多尔被说成黑马，很大原因就是他们防守不容易被打穿。",
                 "links": [
                   {
-                    "label": "B站搜索：梅西 散步",
-                    "url": "https://search.bilibili.com/all?keyword=%E6%A2%85%E8%A5%BF%20%E6%95%A3%E6%AD%A5",
+                    "label": "B站搜索：帕乔 足球",
+                    "url": "https://search.bilibili.com/all?keyword=%E5%B8%95%E4%B9%94%20%E8%B6%B3%E7%90%83",
                     "type": "B站"
                   }
                 ]
@@ -203,18 +331,136 @@
           }
         ]
       },
-      "oneLiner": "这场最简单的看法：法国看姆巴佩冲刺，阿根廷看梅西什么时候突然接管情绪。",
+      "oneLiner": "这场不是最大牌，但很适合装成懂球：科特迪瓦看边路冲击，厄瓜多尔看防线稳不稳。",
       "conversationLines": [
-        "姆巴佩只要冲起来，后卫基本就是跟镜头一起追。",
-        "梅西有时候看着没动静，但他一拿球大家就会突然安静。",
-        "这场不用装懂战术，盯两边最大牌什么时候发力就行。",
-        "如果比赛变成名场面，大概率还是这两个人先上热搜。"
+        "厄瓜多尔这种队很适合当黑马聊，防守稳起来谁都不好踢。",
+        "科特迪瓦这边就看边路能不能把速度优势打出来。",
+        "这场如果一直不进球，不一定无聊，可能是厄瓜多尔防线真的硬。",
+        "迪奥曼德这种年轻球员，世界杯踢好一场就容易涨身价。"
       ],
-      "dontSay": "别把所有阿根廷进攻都说成梅西一个人完成，容易被真球迷纠正。",
+      "dontSay": "别因为不是传统豪门就说这场没意思。小组赛黑马故事经常从这种比赛开始。",
       "sourceLinks": [
         {
-          "label": "B站搜索：法国 阿根廷 世界杯",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B3%95%E5%9B%BD%20%E9%98%BF%E6%A0%B9%E5%BB%B7%20%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "label": "Guardian：科特迪瓦 vs 厄瓜多尔预览",
+          "url": "https://www.theguardian.com/football/2026/jun/14/how-to-watch-world-cup-germany-curacao-netherlands-japan",
+          "type": "社区"
+        },
+        {
+          "label": "B站搜索：科特迪瓦 厄瓜多尔 足球",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A7%91%E7%89%B9%E8%BF%AA%E7%93%A6%20%E5%8E%84%E7%93%9C%E5%A4%9A%E5%B0%94%20%E8%B6%B3%E7%90%83",
+          "type": "B站"
+        }
+      ]
+    },
+    {
+      "id": "sweden-tunisia",
+      "kickoffTime": "22:00 ET",
+      "homeTeam": {
+        "name": "瑞典",
+        "shortName": "瑞典",
+        "shirtColor": "#FFD400",
+        "shirtLabel": "黄衣",
+        "players": [
+          {
+            "name": "亚历山大·伊萨克",
+            "persona": "高瘦技术型中锋，跑起来不像传统大中锋",
+            "hooks": [
+              {
+                "title": "高级感前锋",
+                "detail": "可以聊他不是只会站桩，带球和射门都有点丝滑。",
+                "links": [
+                  {
+                    "label": "B站搜索：伊萨克 集锦",
+                    "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E8%90%A8%E5%85%8B%20%E9%9B%86%E9%94%A6",
+                    "type": "B站"
+                  },
+                  {
+                    "label": "Guardian 今日看点",
+                    "url": "https://www.theguardian.com/football/2026/jun/14/how-to-watch-world-cup-germany-curacao-netherlands-japan",
+                    "type": "社区"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "维克托·约克雷斯",
+            "persona": "强力前锋，视觉上就是那种很能扛人的类型",
+            "hooks": [
+              {
+                "title": "双前锋能不能共存",
+                "detail": "瑞典好聊的点是：两个大牌前锋一起上，会不会显得太挤。",
+                "links": [
+                  {
+                    "label": "B站搜索：约克雷斯 集锦",
+                    "url": "https://search.bilibili.com/all?keyword=%E7%BA%A6%E5%85%8B%E9%9B%B7%E6%96%AF%20%E9%9B%86%E9%94%A6",
+                    "type": "B站"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "awayTeam": {
+        "name": "突尼斯",
+        "shortName": "突尼斯",
+        "shirtColor": "#FFFFFF",
+        "shirtLabel": "白衣",
+        "players": [
+          {
+            "name": "伊莱斯·斯希里",
+            "persona": "中场工兵，负责让比赛别太快失控",
+            "hooks": [
+              {
+                "title": "低调耐用型",
+                "detail": "突尼斯如果能顶住瑞典，往往要靠这种不抢镜但一直补位的人。",
+                "links": [
+                  {
+                    "label": "B站搜索：斯希里 足球",
+                    "url": "https://search.bilibili.com/all?keyword=%E6%96%AF%E5%B8%8C%E9%87%8C%20%E8%B6%B3%E7%90%83",
+                    "type": "B站"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "汉尼拔·梅布里",
+            "persona": "发型和名字都很容易被记住的中场",
+            "hooks": [
+              {
+                "title": "认脸友好型球员",
+                "detail": "不懂球也可以先认他：镜头扫到时很容易在人群里找出来。",
+                "links": [
+                  {
+                    "label": "B站搜索：汉尼拔 梅布里",
+                    "url": "https://search.bilibili.com/all?keyword=%E6%B1%89%E5%B0%BC%E6%8B%94%20%E6%A2%85%E5%B8%83%E9%87%8C",
+                    "type": "B站"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "oneLiner": "这场看瑞典两个前锋能不能把火力打出来，突尼斯则是在冲第一次小组出线的故事线。",
+      "conversationLines": [
+        "瑞典这队有点谜，但伊萨克和约克雷斯一起出现就很有看点。",
+        "突尼斯一直想突破小组赛，这场如果能拿分就很有意义。",
+        "伊萨克这种高个技术流前锋很好认，拿球不像传统大中锋那么笨重。",
+        "如果瑞典前场站得太挤，可以说：两个好前锋一起上也不一定自动好用。"
+      ],
+      "dontSay": "别只按名气判断瑞典稳赢。小组赛晚上场经常会踢得很别扭。",
+      "sourceLinks": [
+        {
+          "label": "Guardian：瑞典/突尼斯看点",
+          "url": "https://www.theguardian.com/football/2026/jun/14/how-to-watch-world-cup-germany-curacao-netherlands-japan",
+          "type": "社区"
+        },
+        {
+          "label": "B站搜索：瑞典 突尼斯 足球",
+          "url": "https://search.bilibili.com/all?keyword=%E7%91%9E%E5%85%B8%20%E7%AA%81%E5%B0%BC%E6%96%AF%20%E8%B6%B3%E7%90%83",
           "type": "B站"
         }
       ]
@@ -224,16 +470,28 @@
     "displayDate": "2026 年 6 月 15 日",
     "matches": [
       {
-        "id": "brazil-croatia",
-        "kickoffTime": "22:00",
-        "homeTeam": "巴西",
-        "awayTeam": "克罗地亚"
+        "id": "saudi-arabia-uruguay",
+        "kickoffTime": "待确认",
+        "homeTeam": "沙特阿拉伯",
+        "awayTeam": "乌拉圭"
       },
       {
-        "id": "england-netherlands",
-        "kickoffTime": "02:00",
-        "homeTeam": "英格兰",
-        "awayTeam": "荷兰"
+        "id": "spain-cabo-verde",
+        "kickoffTime": "待确认",
+        "homeTeam": "西班牙",
+        "awayTeam": "佛得角"
+      },
+      {
+        "id": "iran-new-zealand",
+        "kickoffTime": "待确认",
+        "homeTeam": "伊朗",
+        "awayTeam": "新西兰"
+      },
+      {
+        "id": "belgium-egypt",
+        "kickoffTime": "待确认",
+        "homeTeam": "比利时",
+        "awayTeam": "埃及"
       }
     ]
   }
