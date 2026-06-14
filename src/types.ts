@@ -67,6 +67,7 @@ export interface PreviewMatch {
   kickoffTime: string;
   homeTeam: string;
   awayTeam: string;
+  predictionMarket?: PredictionMarket;
 }
 
 export interface DailyGuide {

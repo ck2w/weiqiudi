@@ -656,28 +656,112 @@
     "displayDate": "2026 年 6 月 15 日",
     "matches": [
       {
-        "id": "saudi-arabia-uruguay",
-        "kickoffTime": "待确认",
-        "homeTeam": "沙特阿拉伯",
-        "awayTeam": "乌拉圭"
-      },
-      {
         "id": "spain-cabo-verde",
-        "kickoffTime": "待确认",
+        "kickoffTime": "12:00 ET",
         "homeTeam": "西班牙",
-        "awayTeam": "佛得角"
-      },
-      {
-        "id": "iran-new-zealand",
-        "kickoffTime": "待确认",
-        "homeTeam": "伊朗",
-        "awayTeam": "新西兰"
+        "awayTeam": "佛得角",
+        "predictionMarket": {
+          "source": "Polymarket",
+          "status": "available",
+          "asOf": "2026-06-14T23:43:18.068197Z",
+          "marketUrl": "https://polymarket.com/event/fifwc-esp-cvi-2026-06-15",
+          "note": "明日预告赛前市场概率。",
+          "outcomes": [
+            {
+              "label": "西班牙胜",
+              "probability": 91.5
+            },
+            {
+              "label": "平局",
+              "probability": 6.4
+            },
+            {
+              "label": "佛得角胜",
+              "probability": 2.4
+            }
+          ]
+        }
       },
       {
         "id": "belgium-egypt",
-        "kickoffTime": "待确认",
+        "kickoffTime": "15:00 ET",
         "homeTeam": "比利时",
-        "awayTeam": "埃及"
+        "awayTeam": "埃及",
+        "predictionMarket": {
+          "source": "Polymarket",
+          "status": "available",
+          "asOf": "2026-06-14T23:39:03.720308Z",
+          "marketUrl": "https://polymarket.com/event/fifwc-bel-egy-2026-06-15",
+          "note": "明日预告赛前市场概率。",
+          "outcomes": [
+            {
+              "label": "比利时胜",
+              "probability": 60.5
+            },
+            {
+              "label": "平局",
+              "probability": 24.5
+            },
+            {
+              "label": "埃及胜",
+              "probability": 16.5
+            }
+          ]
+        }
+      },
+      {
+        "id": "saudi-arabia-uruguay",
+        "kickoffTime": "18:00 ET",
+        "homeTeam": "沙特阿拉伯",
+        "awayTeam": "乌拉圭",
+        "predictionMarket": {
+          "source": "Polymarket",
+          "status": "available",
+          "asOf": "2026-06-14T23:43:08.836453Z",
+          "marketUrl": "https://polymarket.com/event/fifwc-ksa-ury-2026-06-15",
+          "note": "明日预告赛前市场概率。",
+          "outcomes": [
+            {
+              "label": "沙特胜",
+              "probability": 11.5
+            },
+            {
+              "label": "平局",
+              "probability": 22.5
+            },
+            {
+              "label": "乌拉圭胜",
+              "probability": 65.5
+            }
+          ]
+        }
+      },
+      {
+        "id": "iran-new-zealand",
+        "kickoffTime": "21:00 ET",
+        "homeTeam": "伊朗",
+        "awayTeam": "新西兰",
+        "predictionMarket": {
+          "source": "Polymarket",
+          "status": "available",
+          "asOf": "2026-06-14T23:33:22.768541Z",
+          "marketUrl": "https://polymarket.com/event/fifwc-irn-nzl-2026-06-15",
+          "note": "明日预告赛前市场概率。",
+          "outcomes": [
+            {
+              "label": "伊朗胜",
+              "probability": 50.5
+            },
+            {
+              "label": "平局",
+              "probability": 28.5
+            },
+            {
+              "label": "新西兰胜",
+              "probability": 20.5
+            }
+          ]
+        }
       }
     ]
   }

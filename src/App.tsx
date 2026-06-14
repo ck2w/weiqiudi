@@ -114,9 +114,7 @@ function PredictionMarketCard({
 }) {
   const summary =
     predictionMarket.status === "available"
-      ? predictionMarket.outcomes
-          .map((outcome) => `${outcome.label} ${formatProbability(outcome.probability)}`)
-          .join("｜")
+      ? formatPredictionSummary(predictionMarket)
       : "暂无单场市场，不硬编";
 
   return (
@@ -131,6 +129,12 @@ function PredictionMarketCard({
       ) : null}
     </section>
   );
+}
+
+function formatPredictionSummary(predictionMarket: PredictionMarket) {
+  return predictionMarket.outcomes
+    .map((outcome) => `${outcome.label} ${formatProbability(outcome.probability)}`)
+    .join("｜");
 }
 
 function formatProbability(probability: number) {
@@ -270,8 +274,18 @@ function TomorrowPreview({
         {matches.map((match) => (
           <div className="preview-match" key={match.id}>
             <strong>{match.kickoffTime}</strong>
-            <span>
-              {match.homeTeam} vs {match.awayTeam}
+            <span className="preview-copy">
+              <span className="preview-teams">
+                {match.homeTeam} vs {match.awayTeam}
+              </span>
+              {match.predictionMarket ? (
+                <span className="preview-odds">
+                  Polymarket：
+                  {match.predictionMarket.status === "available"
+                    ? formatPredictionSummary(match.predictionMarket)
+                    : "暂无单场市场"}
+                </span>
+              ) : null}
             </span>
           </div>
         ))}

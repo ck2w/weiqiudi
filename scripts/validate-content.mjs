@@ -47,6 +47,13 @@ function validateDailyGuide(data, filePath) {
   for (const match of data.matches) {
     validateMatch(match, filePath);
   }
+
+  if (Array.isArray(data.tomorrow?.matches)) {
+    for (const match of data.tomorrow.matches) {
+      const matchLabel = `${filePath} tomorrow ${match.id ?? "(missing preview match id)"}`;
+      validatePredictionMarket(match.predictionMarket, `${matchLabel} predictionMarket`);
+    }
+  }
 }
 
 function validateMatch(match, filePath) {
