@@ -112,41 +112,23 @@ function PredictionMarketCard({
 }: {
   predictionMarket: PredictionMarket;
 }) {
+  const summary =
+    predictionMarket.status === "available"
+      ? predictionMarket.outcomes
+          .map((outcome) => `${outcome.label} ${formatProbability(outcome.probability)}`)
+          .join("｜")
+      : "暂无单场市场，不硬编";
+
   return (
     <section className="prediction-card">
-      <div className="prediction-card__header">
-        <div>
-          <span>Polymarket 赛前胜率</span>
-          <p>{predictionMarket.note}</p>
-        </div>
-        {predictionMarket.marketUrl ? (
-          <a href={predictionMarket.marketUrl} target="_blank" rel="noreferrer">
-            看市场
-          </a>
-        ) : null}
-      </div>
-
-      {predictionMarket.status === "available" ? (
-        <div className="prediction-bars">
-          {predictionMarket.outcomes.map((outcome) => (
-            <div className="prediction-row" key={outcome.label}>
-              <div className="prediction-row__label">
-                <strong>{outcome.label}</strong>
-                <span>{formatProbability(outcome.probability)}</span>
-              </div>
-              <div className="prediction-meter" aria-hidden="true">
-                <span style={{ width: `${outcome.probability}%` }} />
-              </div>
-            </div>
-          ))}
-        </div>
-      ) : (
-        <div className="prediction-empty">暂无对应 Polymarket 单场市场，不硬编概率。</div>
-      )}
-
-      <p className="prediction-disclaimer">
-        市场隐含概率，只当赛前热度参考，不是投注建议。
-      </p>
+      <span className="prediction-label">Polymarket</span>
+      <strong>{summary}</strong>
+      <span className="prediction-note">仅供看热度</span>
+      {predictionMarket.marketUrl ? (
+        <a href={predictionMarket.marketUrl} target="_blank" rel="noreferrer">
+          看市场
+        </a>
+      ) : null}
     </section>
   );
 }
