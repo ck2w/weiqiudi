@@ -39,6 +39,11 @@ function App() {
         displayDate={dailyGuide.tomorrow.displayDate}
         matches={dailyGuide.tomorrow.matches}
       />
+
+      <footer className="site-footer">
+        <span>作者</span>
+        <strong>CK</strong>
+      </footer>
     </main>
   );
 }
