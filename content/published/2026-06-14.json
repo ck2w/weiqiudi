@@ -45,11 +45,13 @@
               }
             ],
             "rosterStatus": "confirmed",
-            "shirtNumber": "待确认",
+            "shirtNumber": "7",
             "imageAlt": "凯·哈弗茨 照片",
             "imageCredit": "Wikimedia Commons",
             "imageStatus": "licensed",
-            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/2019-06-11%20Fu%C3%9Fball%2C%20M%C3%A4nner%2C%20L%C3%A4nderspiel%2C%20Deutschland-Estland%20StP%202059%20LR10%20by%20Stepro.jpg"
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/2019-06-11%20Fu%C3%9Fball%2C%20M%C3%A4nner%2C%20L%C3%A4nderspiel%2C%20Deutschland-Estland%20StP%202059%20LR10%20by%20Stepro.jpg",
+            "position": "前锋",
+            "imageFocus": "50% 22%"
           },
           {
             "name": "穆西亚拉",
@@ -68,11 +70,13 @@
               }
             ],
             "rosterStatus": "confirmed",
-            "shirtNumber": "待确认",
+            "shirtNumber": "10",
             "imageAlt": "穆西亚拉 照片",
             "imageCredit": "Wikimedia Commons",
             "imageStatus": "licensed",
-            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jamal%20Musiala%202022%20%28cropped%29.jpg"
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jamal%20Musiala%202022%20%28cropped%29.jpg",
+            "position": "中场",
+            "imageFocus": "50% 22%"
           }
         ]
       },
@@ -104,11 +108,13 @@
               }
             ],
             "rosterStatus": "confirmed",
-            "shirtNumber": "待确认",
+            "shirtNumber": "10",
             "imageAlt": "莱安德罗·巴库纳 照片",
             "imageCredit": "Wikimedia Commons",
             "imageStatus": "licensed",
-            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Leandro%20Bacuna%20Back%20to%20your%20roots%20Groningen.jpg"
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Leandro%20Bacuna%20Back%20to%20your%20roots%20Groningen.jpg",
+            "position": "中场",
+            "imageFocus": "50% 22%"
           }
         ]
       },
@@ -164,11 +170,13 @@
               }
             ],
             "rosterStatus": "confirmed",
-            "shirtNumber": "待确认",
+            "shirtNumber": "11",
             "imageAlt": "科迪·加克波 照片",
             "imageCredit": "Wikimedia Commons",
             "imageStatus": "licensed",
-            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Cody%20Gakpo%2006042025%20%282%29%20%28cropped%29.jpg"
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Cody%20Gakpo%2006042025%20%282%29%20%28cropped%29.jpg",
+            "position": "前锋",
+            "imageFocus": "50% 22%"
           },
           {
             "name": "范戴克",
@@ -187,11 +195,13 @@
               }
             ],
             "rosterStatus": "confirmed",
-            "shirtNumber": "待确认",
+            "shirtNumber": "4",
             "imageAlt": "范戴克 照片",
             "imageCredit": "Wikimedia Commons",
             "imageStatus": "licensed",
-            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/20160604%20AUT%20NED%208876%20%28cropped%29.jpg"
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/20160604%20AUT%20NED%208876%20%28cropped%29.jpg",
+            "position": "后卫",
+            "imageFocus": "50% 18%"
           }
         ]
       },
@@ -229,11 +239,13 @@
               }
             ],
             "rosterStatus": "confirmed",
-            "shirtNumber": "待确认",
+            "shirtNumber": "8",
             "imageAlt": "久保建英 照片",
             "imageCredit": "Wikimedia Commons",
             "imageStatus": "licensed",
-            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Takefusa%20Kubo%201053.jpg"
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Takefusa%20Kubo%201053.jpg",
+            "position": "中场",
+            "imageFocus": "50% 18%"
           }
         ]
       },
@@ -289,10 +301,12 @@
               }
             ],
             "rosterStatus": "confirmed",
-            "shirtNumber": "待确认",
+            "shirtNumber": "11",
             "imageAlt": "扬·迪奥曼德 照片",
             "imageCredit": "占位头像",
-            "imageStatus": "placeholder"
+            "imageStatus": "placeholder",
+            "position": "前锋",
+            "imageFocus": "50% 18%"
           },
           {
             "name": "西蒙·阿丁格拉",
@@ -311,11 +325,13 @@
               }
             ],
             "rosterStatus": "confirmed",
-            "shirtNumber": "待确认",
+            "shirtNumber": "10",
             "imageAlt": "西蒙·阿丁格拉 照片",
             "imageCredit": "Wikimedia Commons",
             "imageStatus": "licensed",
-            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Simon%20Adingra%20USG%202023.jpg"
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Simon%20Adingra%20USG%202023.jpg",
+            "position": "前锋",
+            "imageFocus": "50% 18%"
           }
         ]
       },
@@ -342,11 +358,13 @@
               }
             ],
             "rosterStatus": "confirmed",
-            "shirtNumber": "待确认",
+            "shirtNumber": "3",
             "imageAlt": "皮耶罗·因卡皮耶 照片",
             "imageCredit": "Wikimedia Commons",
             "imageStatus": "licensed",
-            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Piero%20Hincapi%C3%A9%2C%202022-07-31%2C%20Saisoner%C3%B6ffnung%20Bayer%2004%2C%20Leverkusen%20%281%29.jpg"
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Piero%20Hincapi%C3%A9%2C%202022-07-31%2C%20Saisoner%C3%B6ffnung%20Bayer%2004%2C%20Leverkusen%20%281%29.jpg",
+            "position": "后卫",
+            "imageFocus": "50% 18%"
           },
           {
             "name": "威廉·帕乔",
@@ -365,11 +383,13 @@
               }
             ],
             "rosterStatus": "confirmed",
-            "shirtNumber": "待确认",
+            "shirtNumber": "6",
             "imageAlt": "威廉·帕乔 照片",
             "imageCredit": "Wikimedia Commons",
             "imageStatus": "licensed",
-            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pacho%20asse%20psg%202425.png"
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pacho%20asse%20psg%202425.png",
+            "position": "后卫",
+            "imageFocus": "50% 18%"
           }
         ]
       },
@@ -425,11 +445,13 @@
               }
             ],
             "rosterStatus": "confirmed",
-            "shirtNumber": "待确认",
+            "shirtNumber": "9",
             "imageAlt": "亚历山大·伊萨克 照片",
             "imageCredit": "Wikimedia Commons",
             "imageStatus": "licensed",
-            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/UEFA%20EURO%20qualifiers%20Sweden%20vs%20Spain%2020191015%20Alexander%20Isak%2056%20%28cropped%29.jpg"
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/UEFA%20EURO%20qualifiers%20Sweden%20vs%20Spain%2020191015%20Alexander%20Isak%2056%20%28cropped%29.jpg",
+            "position": "前锋",
+            "imageFocus": "50% 18%"
           },
           {
             "name": "维克托·约克雷斯",
@@ -448,11 +470,13 @@
               }
             ],
             "rosterStatus": "confirmed",
-            "shirtNumber": "待确认",
+            "shirtNumber": "17",
             "imageAlt": "维克托·约克雷斯 照片",
             "imageCredit": "Wikimedia Commons",
             "imageStatus": "licensed",
-            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Viktor%20Gy%C3%B6keres%202026-06-04%201.jpg"
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Viktor%20Gy%C3%B6keres%202026-06-04%201.jpg",
+            "position": "前锋",
+            "imageFocus": "50% 18%"
           }
         ]
       },
@@ -479,11 +503,13 @@
               }
             ],
             "rosterStatus": "confirmed",
-            "shirtNumber": "待确认",
+            "shirtNumber": "17",
             "imageAlt": "伊莱斯·斯希里 照片",
             "imageCredit": "Wikimedia Commons",
             "imageStatus": "licensed",
-            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/2021-08-08%20FC%20Carl%20Zeiss%20Jena%20gegen%201.%20FC%20K%C3%B6ln%20%28DFB-Pokal%29%20by%20Sandro%20Halank%E2%80%93182.jpg"
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/2021-08-08%20FC%20Carl%20Zeiss%20Jena%20gegen%201.%20FC%20K%C3%B6ln%20%28DFB-Pokal%29%20by%20Sandro%20Halank%E2%80%93182.jpg",
+            "position": "中场",
+            "imageFocus": "50% 18%"
           },
           {
             "name": "汉尼拔·梅布里",
@@ -502,11 +528,13 @@
               }
             ],
             "rosterStatus": "confirmed",
-            "shirtNumber": "待确认",
+            "shirtNumber": "10",
             "imageAlt": "汉尼拔·梅布里 照片",
             "imageCredit": "Wikimedia Commons",
             "imageStatus": "licensed",
-            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hannibal%20Mejbri%2026042025%20%281%29.jpg"
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hannibal%20Mejbri%2026042025%20%281%29.jpg",
+            "position": "中场",
+            "imageFocus": "50% 18%"
           }
         ]
       },

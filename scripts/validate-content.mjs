@@ -96,8 +96,12 @@ function validatePlayer(player, teamName, matchLabel) {
 }
 
 function validatePlayerImage(player, context) {
-  if (!player.shirtNumber) {
-    errors.push(`${context}: shirtNumber is required, use 待确认 if not verified`);
+  if (!player.shirtNumber || player.shirtNumber === "待确认") {
+    errors.push(`${context}: verified shirtNumber is required before publishing`);
+  }
+
+  if (!player.position) {
+    errors.push(`${context}: position is required before publishing`);
   }
 
   if (!["licensed", "placeholder"].includes(player.imageStatus)) {

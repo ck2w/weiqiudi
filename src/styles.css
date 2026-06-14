@@ -323,14 +323,23 @@ h2 {
   line-height: 1.1;
 }
 
-.roster-pill {
+.roster-pill,
+.position-pill {
   display: inline-flex;
   border: 3px solid #111111;
-  background: #ff5c8a;
   padding: 2px 6px;
   font-size: 0.78rem;
   font-weight: 950;
   vertical-align: 3px;
+}
+
+.roster-pill {
+  background: #ff5c8a;
+}
+
+.position-pill {
+  margin-right: 6px;
+  background: #71d7ff;
 }
 
 .persona {

@@ -150,6 +150,7 @@ function PlayerCard({ player }: { player: KeyPlayer }) {
         <div className="player-copy">
           <div className="player-heading">
             <h3>{player.name}</h3>
+            {player.position ? <span className="position-pill">{player.position}</span> : null}
             {player.rosterStatus === "needs-check" ? (
               <span className="roster-pill">大名单待核验</span>
             ) : null}
@@ -183,6 +184,7 @@ function PlayerPhoto({ player }: { player: KeyPlayer }) {
           src={player.imageUrl}
           alt={player.imageAlt ?? player.name}
           loading="lazy"
+          style={{ objectPosition: player.imageFocus ?? "50% 20%" }}
         />
       ) : (
         <div className="player-photo player-photo--placeholder" aria-label={`${player.name} 占位头像`}>
