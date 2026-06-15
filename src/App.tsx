@@ -1,4 +1,4 @@
-import dailyGuideData from "../content/published/2026-06-14.json";
+import dailyGuideData from "../content/published/2026-06-15.json";
 import type {
   DailyGuide,
   KeyPlayer,

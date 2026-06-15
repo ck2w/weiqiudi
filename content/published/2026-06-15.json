@@ -1,0 +1,797 @@
+{
+  "date": "2026-06-15",
+  "displayDate": "2026 年 6 月 15 日",
+  "headline": "今天 4 场世界杯，伪球迷先抓住大牌和梗就够用。",
+  "matches": [
+    {
+      "id": "spain-cabo-verde",
+      "kickoffTime": "12:00 ET",
+      "homeTeam": {
+        "name": "西班牙",
+        "nameEn": "Spain",
+        "shortName": "西班牙",
+        "shirtColor": "#D71920",
+        "shirtLabel": "红衣",
+        "players": [
+          {
+            "name": "亚马尔",
+            "nameEn": "Lamine Yamal",
+            "persona": "少年天才右边锋，拿球就自带全场期待值",
+            "hooks": [
+              {
+                "title": "先认这个小孩",
+                "detail": "看到西班牙右路有人一停球全场紧张，大概率就是他。可以说：他现在踢球已经不像潜力股，像提前上市。",
+                "links": [
+                  {
+                    "label": "B站搜索：亚马尔 集锦",
+                    "url": "https://search.bilibili.com/all?keyword=%E4%BA%9A%E9%A9%AC%E5%B0%94%20%E9%9B%86%E9%94%A6",
+                    "type": "B站"
+                  }
+                ]
+              },
+              {
+                "title": "嘴损一句",
+                "detail": "可以吐槽：所有人都知道他要内切，问题是知道归知道，腿跟不上就只能当现场观众。",
+                "links": [
+                  {
+                    "label": "百度搜索：亚马尔 梗",
+                    "url": "https://www.baidu.com/s?wd=%E4%BA%9A%E9%A9%AC%E5%B0%94%20%E6%A2%97",
+                    "type": "搜索"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "19",
+            "imageAlt": "亚马尔 照片",
+            "imageCredit": "Wikimedia Commons",
+            "imageStatus": "licensed",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lamine_Yamal_in_2025.jpg",
+            "position": "前锋",
+            "imageFocus": "50% 18%"
+          },
+          {
+            "name": "佩德里",
+            "nameEn": "Pedri",
+            "persona": "中场节拍器，西班牙把球传顺时他很容易出现在镜头里",
+            "hooks": [
+              {
+                "title": "小白接班滤镜",
+                "detail": "可以说他不是靠花活吓人，而是让队友踢得舒服。伪球迷看他，就看他接球后是不是一脚把局面理顺。",
+                "links": [
+                  {
+                    "label": "B站搜索：佩德里 集锦",
+                    "url": "https://search.bilibili.com/all?keyword=%E4%BD%A9%E5%BE%B7%E9%87%8C%20%E9%9B%86%E9%94%A6",
+                    "type": "B站"
+                  }
+                ]
+              },
+              {
+                "title": "嘴损一句",
+                "detail": "可以吐槽：他像中场遥控器，唯一问题是遥控器太精贵，球迷看他被撞一下都想给他贴膜。",
+                "links": [
+                  {
+                    "label": "百度搜索：佩德里 梗",
+                    "url": "https://www.baidu.com/s?wd=%E4%BD%A9%E5%BE%B7%E9%87%8C%20%E6%A2%97",
+                    "type": "搜索"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "20",
+            "imageAlt": "佩德里 照片",
+            "imageCredit": "Wikimedia Commons",
+            "imageStatus": "licensed",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pedri.jpg",
+            "position": "中场",
+            "imageFocus": "50% 18%"
+          }
+        ]
+      },
+      "awayTeam": {
+        "name": "佛得角",
+        "nameEn": "Cabo Verde",
+        "shortName": "佛得角",
+        "shirtColor": "#2454A6",
+        "shirtLabel": "蓝衣",
+        "players": [
+          {
+            "name": "贝贝",
+            "nameEn": "Bebé",
+            "persona": "从曼联旧故事到国家队老大哥，名字很适合当聊天入口",
+            "hooks": [
+              {
+                "title": "曼联旧闻入口",
+                "detail": "聊佛得角可以先从他入手：以前因为曼联经历被很多球迷记住，现在反而成了世界杯新军的老熟人。",
+                "links": [
+                  {
+                    "label": "B站搜索：贝贝 曼联",
+                    "url": "https://search.bilibili.com/all?keyword=%E8%B4%9D%E8%B4%9D%20%E6%9B%BC%E8%81%94",
+                    "type": "B站"
+                  }
+                ]
+              },
+              {
+                "title": "嘴损一句",
+                "detail": "可以说他这条线很戏剧：当年被当成段子看，现在带世界杯新同学上桌，爽文味道有了。",
+                "links": [
+                  {
+                    "label": "百度搜索：贝贝 足球 梗",
+                    "url": "https://www.baidu.com/s?wd=%E8%B4%9D%E8%B4%9D%20%E8%B6%B3%E7%90%83%20%E6%A2%97",
+                    "type": "搜索"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "21",
+            "imageAlt": "贝贝 照片",
+            "imageCredit": "Wikimedia Commons",
+            "imageStatus": "licensed",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/B%C3%A9b%C3%A9.jpg",
+            "position": "前锋",
+            "imageFocus": "50% 18%"
+          }
+        ]
+      },
+      "oneLiner": "这场最简单：西班牙是大热门，佛得角是世界杯新面孔，你盯亚马尔有没有把右路踢成个人秀就行。",
+      "predictionMarket": {
+        "source": "Polymarket",
+        "status": "available",
+        "asOf": "2026-06-15T14:30:00Z",
+        "marketUrl": "https://polymarket.com/event/fifwc-esp-cvi-2026-06-15",
+        "note": "赛前市场强烈偏向西班牙，佛得角是大冷门剧本。",
+        "outcomes": [
+          {
+            "label": "西班牙胜",
+            "probability": 91
+          },
+          {
+            "label": "平局",
+            "probability": 6.9
+          },
+          {
+            "label": "佛得角胜",
+            "probability": 3.3
+          }
+        ]
+      },
+      "conversationLines": [
+        "西班牙现在不是只会倒脚，右路有亚马尔这种能直接变速的人。",
+        "佛得角第一次踢世界杯，输赢之外故事感很强。",
+        "如果西班牙迟迟不进球，可以说：这种大热场最怕越踢越急。",
+        "佩德里这类球员不一定每脚都上集锦，但他在场上西班牙节奏会舒服很多。"
+      ],
+      "dontSay": "别说佛得角是来旅游的。能从非洲区杀进世界杯，本身就已经不是背景板。",
+      "sourceLinks": [
+        {
+          "label": "百度搜索：西班牙 佛得角 世界杯",
+          "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E7%8F%AD%E7%89%99%20%E4%BD%9B%E5%BE%97%E8%A7%92%20%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "type": "搜索"
+        },
+        {
+          "label": "B站搜索：西班牙 佛得角",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A5%BF%E7%8F%AD%E7%89%99%20%E4%BD%9B%E5%BE%97%E8%A7%92",
+          "type": "B站"
+        }
+      ]
+    },
+    {
+      "id": "belgium-egypt",
+      "kickoffTime": "15:00 ET",
+      "homeTeam": {
+        "name": "比利时",
+        "nameEn": "Belgium",
+        "shortName": "比利时",
+        "shirtColor": "#8B0000",
+        "shirtLabel": "深红衣",
+        "players": [
+          {
+            "name": "德布劳内",
+            "nameEn": "Kevin De Bruyne",
+            "persona": "比利时大脑，传球线路经常像提前看过剧本",
+            "hooks": [
+              {
+                "title": "丁丁视野",
+                "detail": "看到他突然一脚直塞，可以说：这球不是传出来的，像是提前把答案背下来了。",
+                "links": [
+                  {
+                    "label": "B站搜索：德布劳内 传球",
+                    "url": "https://search.bilibili.com/all?keyword=%E5%BE%B7%E5%B8%83%E5%8A%B3%E5%86%85%20%E4%BC%A0%E7%90%83",
+                    "type": "B站"
+                  }
+                ]
+              },
+              {
+                "title": "嘴损一句",
+                "detail": "可以吐槽：比利时黄金一代都快讲成历史课了，德布劳内还得负责把课件讲明白。",
+                "links": [
+                  {
+                    "label": "百度搜索：德布劳内 丁丁 梗",
+                    "url": "https://www.baidu.com/s?wd=%E5%BE%B7%E5%B8%83%E5%8A%B3%E5%86%85%20%E4%B8%81%E4%B8%81%20%E6%A2%97",
+                    "type": "搜索"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "7",
+            "imageAlt": "德布劳内 照片",
+            "imageCredit": "Wikimedia Commons",
+            "imageStatus": "licensed",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg",
+            "position": "中场",
+            "imageFocus": "50% 18%"
+          },
+          {
+            "name": "多库",
+            "nameEn": "Jérémy Doku",
+            "persona": "边路爆点，适合不懂球的人直接看速度和一对一",
+            "hooks": [
+              {
+                "title": "边路乱拳",
+                "detail": "他一拿球就像打开加速键。可以说：比利时想把场面打活，很多时候就靠他硬冲。",
+                "links": [
+                  {
+                    "label": "B站搜索：多库 过人",
+                    "url": "https://search.bilibili.com/all?keyword=%E5%A4%9A%E5%BA%93%20%E8%BF%87%E4%BA%BA",
+                    "type": "B站"
+                  }
+                ]
+              },
+              {
+                "title": "嘴损一句",
+                "detail": "可以吐槽：他过人像拆快递，拆开之前很刺激，拆完里面是不是进球还得另说。",
+                "links": [
+                  {
+                    "label": "百度搜索：多库 梗",
+                    "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%BA%93%20%E6%A2%97",
+                    "type": "搜索"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "11",
+            "imageAlt": "多库 照片",
+            "imageCredit": "占位头像",
+            "imageStatus": "placeholder",
+            "position": "前锋",
+            "imageFocus": "50% 18%"
+          }
+        ]
+      },
+      "awayTeam": {
+        "name": "埃及",
+        "nameEn": "Egypt",
+        "shortName": "埃及",
+        "shirtColor": "#FFFFFF",
+        "shirtLabel": "白衣",
+        "players": [
+          {
+            "name": "萨拉赫",
+            "nameEn": "Mohamed Salah",
+            "persona": "埃及头号门面，镜头一定会反复找他",
+            "hooks": [
+              {
+                "title": "埃及法老",
+                "detail": "不懂球就盯他：埃及能不能偷出机会，基本都绕不开萨拉赫这条线。",
+                "links": [
+                  {
+                    "label": "B站搜索：萨拉赫 集锦",
+                    "url": "https://search.bilibili.com/all?keyword=%E8%90%A8%E6%8B%89%E8%B5%AB%20%E9%9B%86%E9%94%A6",
+                    "type": "B站"
+                  }
+                ]
+              },
+              {
+                "title": "嘴损一句",
+                "detail": "可以吐槽：埃及进攻很多时候像群聊等一个人回消息，大家都在等萨拉赫上线。",
+                "links": [
+                  {
+                    "label": "百度搜索：萨拉赫 法老 梗",
+                    "url": "https://www.baidu.com/s?wd=%E8%90%A8%E6%8B%89%E8%B5%AB%20%E6%B3%95%E8%80%81%20%E6%A2%97",
+                    "type": "搜索"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "10",
+            "imageAlt": "萨拉赫 照片",
+            "imageCredit": "Wikimedia Commons",
+            "imageStatus": "licensed",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mohamed_Salah_2018.jpg",
+            "position": "前锋",
+            "imageFocus": "50% 18%"
+          },
+          {
+            "name": "马尔穆什",
+            "nameEn": "Omar Marmoush",
+            "persona": "埃及另一把前场刀，适合看他能不能帮萨拉赫分担火力",
+            "hooks": [
+              {
+                "title": "别只看萨拉赫",
+                "detail": "如果他开始频繁冲刺，可以说：埃及不能只靠萨拉赫，马尔穆什这边也要把存在感踢出来。",
+                "links": [
+                  {
+                    "label": "B站搜索：马尔穆什 集锦",
+                    "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%B0%94%E7%A9%86%E4%BB%80%20%E9%9B%86%E9%94%A6",
+                    "type": "B站"
+                  }
+                ]
+              },
+              {
+                "title": "嘴损一句",
+                "detail": "可以说他最怕踢成“萨拉赫旁边那个人”，今天得证明自己不是背景音。",
+                "links": [
+                  {
+                    "label": "百度搜索：马尔穆什 埃及",
+                    "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%B0%94%E7%A9%86%E4%BB%80%20%E5%9F%83%E5%8F%8A",
+                    "type": "搜索"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "22",
+            "imageAlt": "马尔穆什 照片",
+            "imageCredit": "占位头像",
+            "imageStatus": "placeholder",
+            "position": "前锋",
+            "imageFocus": "50% 18%"
+          }
+        ]
+      },
+      "oneLiner": "这场就是比利时老牌球星对埃及萨拉赫：看德布劳内还能不能把比赛传明白，也看萨拉赫有没有一脚改命。",
+      "predictionMarket": {
+        "source": "Polymarket",
+        "status": "available",
+        "asOf": "2026-06-15T14:30:00Z",
+        "marketUrl": "https://polymarket.com/event/fifwc-bel-egy-2026-06-15",
+        "note": "市场看好比利时，但埃及有萨拉赫所以冷门不算没话题。",
+        "outcomes": [
+          {
+            "label": "比利时胜",
+            "probability": 60
+          },
+          {
+            "label": "平局",
+            "probability": 25
+          },
+          {
+            "label": "埃及胜",
+            "probability": 17
+          }
+        ]
+      },
+      "conversationLines": [
+        "比利时这场看德布劳内还有多少油，他一脚传球还是能把局面打开。",
+        "埃及不能只等萨拉赫单点爆破，马尔穆什能不能分担很关键。",
+        "如果场面慢，可以说：这就是老牌强队最怕的，控着控着把自己控困了。",
+        "多库一对一成功几次，比赛观感会立刻变热。"
+      ],
+      "dontSay": "别把比利时还当成巅峰黄金一代。现在更像老核心带新爆点，稳定性没那么保险。",
+      "sourceLinks": [
+        {
+          "label": "百度搜索：比利时 埃及 世界杯",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E5%88%A9%E6%97%B6%20%E5%9F%83%E5%8F%8A%20%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "type": "搜索"
+        },
+        {
+          "label": "B站搜索：比利时 埃及 足球",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AF%94%E5%88%A9%E6%97%B6%20%E5%9F%83%E5%8F%8A%20%E8%B6%B3%E7%90%83",
+          "type": "B站"
+        }
+      ]
+    },
+    {
+      "id": "saudi-arabia-uruguay",
+      "kickoffTime": "18:00 ET",
+      "homeTeam": {
+        "name": "沙特阿拉伯",
+        "nameEn": "Saudi Arabia",
+        "shortName": "沙特",
+        "shirtColor": "#0B8F4D",
+        "shirtLabel": "绿衣",
+        "players": [
+          {
+            "name": "萨利姆·多萨里",
+            "nameEn": "Salem Al-Dawsari",
+            "persona": "沙特最大牌，世界杯爆冷阿根廷那脚让他很好聊",
+            "hooks": [
+              {
+                "title": "阿根廷旧案",
+                "detail": "最稳的话题：他在 2022 年对阿根廷进过名场面进球。聊沙特时提这个，基本不会冷场。",
+                "links": [
+                  {
+                    "label": "B站搜索：多萨里 阿根廷",
+                    "url": "https://search.bilibili.com/all?keyword=%E5%A4%9A%E8%90%A8%E9%87%8C%20%E9%98%BF%E6%A0%B9%E5%BB%B7",
+                    "type": "B站"
+                  }
+                ]
+              },
+              {
+                "title": "嘴损一句",
+                "detail": "可以吐槽：沙特要爆冷，剧本第一页还是写他；问题是乌拉圭后卫不会主动翻到那一页。",
+                "links": [
+                  {
+                    "label": "百度搜索：多萨里 世界杯 梗",
+                    "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E8%90%A8%E9%87%8C%20%E4%B8%96%E7%95%8C%E6%9D%AF%20%E6%A2%97",
+                    "type": "搜索"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "10",
+            "imageAlt": "萨利姆·多萨里 照片",
+            "imageCredit": "占位头像",
+            "imageStatus": "placeholder",
+            "position": "前锋",
+            "imageFocus": "50% 18%"
+          }
+        ]
+      },
+      "awayTeam": {
+        "name": "乌拉圭",
+        "nameEn": "Uruguay",
+        "shortName": "乌拉圭",
+        "shirtColor": "#75AADB",
+        "shirtLabel": "天蓝衣",
+        "players": [
+          {
+            "name": "巴尔韦德",
+            "nameEn": "Federico Valverde",
+            "persona": "乌拉圭中场发动机，能跑能抢还能远射",
+            "hooks": [
+              {
+                "title": "皇马发动机",
+                "detail": "看到他大范围冲刺或者远射，可以说：巴尔韦德这类球员就是让乌拉圭看起来特别硬。",
+                "links": [
+                  {
+                    "label": "B站搜索：巴尔韦德 集锦",
+                    "url": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E5%B0%94%E9%9F%A6%E5%BE%B7%20%E9%9B%86%E9%94%A6",
+                    "type": "B站"
+                  }
+                ]
+              },
+              {
+                "title": "嘴损一句",
+                "detail": "可以吐槽：他像中场充电宝，别人没电了他还在跑，问题是有时跑太猛容易把比赛踢成健身房。",
+                "links": [
+                  {
+                    "label": "百度搜索：巴尔韦德 乌拉圭",
+                    "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%B0%94%E9%9F%A6%E5%BE%B7%20%E4%B9%8C%E6%8B%89%E5%9C%AD",
+                    "type": "搜索"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "8",
+            "imageAlt": "巴尔韦德 照片",
+            "imageCredit": "Wikimedia Commons",
+            "imageStatus": "licensed",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Federico_Valverde_2021_%28cropped%29.jpg",
+            "position": "中场",
+            "imageFocus": "50% 18%"
+          },
+          {
+            "name": "达尔文·努涅斯",
+            "nameEn": "Darwin Núñez",
+            "persona": "混乱型强力前锋，机会多、戏也多",
+            "hooks": [
+              {
+                "title": "节目效果前锋",
+                "detail": "他很好认：冲起来很吓人，射门和处理球也很容易制造弹幕。",
+                "links": [
+                  {
+                    "label": "B站搜索：努涅斯 集锦",
+                    "url": "https://search.bilibili.com/all?keyword=%E5%8A%AA%E6%B6%85%E6%96%AF%20%E9%9B%86%E9%94%A6",
+                    "type": "B站"
+                  }
+                ]
+              },
+              {
+                "title": "嘴损一句",
+                "detail": "可以说他像盲盒前锋：拆开可能是世界波，也可能是全场一起沉默三秒。",
+                "links": [
+                  {
+                    "label": "百度搜索：努涅斯 梗",
+                    "url": "https://www.baidu.com/s?wd=%E5%8A%AA%E6%B6%85%E6%96%AF%20%E6%A2%97",
+                    "type": "搜索"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "9",
+            "imageAlt": "达尔文·努涅斯 照片",
+            "imageCredit": "Wikimedia Commons",
+            "imageStatus": "licensed",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/BenficaBarcelona20210928-002.jpg",
+            "position": "前锋",
+            "imageFocus": "50% 18%"
+          }
+        ]
+      },
+      "oneLiner": "这场看乌拉圭的硬度和沙特有没有爆冷剧本：沙特想复刻名场面，乌拉圭会尽量把比赛踢得很不浪漫。",
+      "predictionMarket": {
+        "source": "Polymarket",
+        "status": "available",
+        "asOf": "2026-06-15T14:30:00Z",
+        "marketUrl": "https://polymarket.com/event/fifwc-ksa-ury-2026-06-15",
+        "note": "市场明显看好乌拉圭，沙特赢球属于冷门剧本。",
+        "outcomes": [
+          {
+            "label": "沙特胜",
+            "probability": 15
+          },
+          {
+            "label": "平局",
+            "probability": 23
+          },
+          {
+            "label": "乌拉圭胜",
+            "probability": 65
+          }
+        ]
+      },
+      "conversationLines": [
+        "乌拉圭这队很适合说硬，拼抢和身体对抗不会客气。",
+        "沙特最容易聊的梗还是 2022 年爆冷阿根廷，今天看有没有新剧本。",
+        "巴尔韦德如果频繁前插，说明乌拉圭中场开始压上去了。",
+        "努涅斯这种前锋适合伪球迷看，因为他一场比赛里通常不缺戏。"
+      ],
+      "dontSay": "别只用“亚洲队肯定没戏”这种老话。沙特虽然是下风，但他们已经证明过世界杯能爆出大新闻。",
+      "sourceLinks": [
+        {
+          "label": "百度搜索：沙特 乌拉圭 世界杯",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%99%E7%89%B9%20%E4%B9%8C%E6%8B%89%E5%9C%AD%20%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "type": "搜索"
+        },
+        {
+          "label": "B站搜索：沙特 乌拉圭 足球",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B2%99%E7%89%B9%20%E4%B9%8C%E6%8B%89%E5%9C%AD%20%E8%B6%B3%E7%90%83",
+          "type": "B站"
+        }
+      ]
+    },
+    {
+      "id": "iran-new-zealand",
+      "kickoffTime": "21:00 ET",
+      "homeTeam": {
+        "name": "伊朗",
+        "nameEn": "IR Iran",
+        "shortName": "伊朗",
+        "shirtColor": "#FFFFFF",
+        "shirtLabel": "白衣",
+        "players": [
+          {
+            "name": "塔雷米",
+            "nameEn": "Mehdi Taremi",
+            "persona": "伊朗锋线老熟人，门前嗅觉和造点都很会来事",
+            "hooks": [
+              {
+                "title": "禁区老江湖",
+                "detail": "看到他在禁区里卡位置，可以说：塔雷米这种前锋最会把普通接触变成大事。",
+                "links": [
+                  {
+                    "label": "B站搜索：塔雷米 集锦",
+                    "url": "https://search.bilibili.com/all?keyword=%E5%A1%94%E9%9B%B7%E7%B1%B3%20%E9%9B%86%E9%94%A6",
+                    "type": "B站"
+                  }
+                ]
+              },
+              {
+                "title": "嘴损一句",
+                "detail": "可以吐槽：他踢球像会计做账，禁区里每一次接触都能算出点利息。",
+                "links": [
+                  {
+                    "label": "百度搜索：塔雷米 梗",
+                    "url": "https://www.baidu.com/s?wd=%E5%A1%94%E9%9B%B7%E7%B1%B3%20%E6%A2%97",
+                    "type": "搜索"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "9",
+            "imageAlt": "塔雷米 照片",
+            "imageCredit": "占位头像",
+            "imageStatus": "placeholder",
+            "position": "前锋",
+            "imageFocus": "50% 18%"
+          }
+        ]
+      },
+      "awayTeam": {
+        "name": "新西兰",
+        "nameEn": "New Zealand",
+        "shortName": "新西兰",
+        "shirtColor": "#111111",
+        "shirtLabel": "黑衣",
+        "players": [
+          {
+            "name": "克里斯·伍德",
+            "nameEn": "Chris Wood",
+            "persona": "高大中锋，最直观的看点就是争顶和抢点",
+            "hooks": [
+              {
+                "title": "高空入口",
+                "detail": "新西兰如果起高球找他，可以说：这就是最朴素但最有效的打法，球到禁区先找大个子。",
+                "links": [
+                  {
+                    "label": "B站搜索：克里斯伍德 集锦",
+                    "url": "https://search.bilibili.com/all?keyword=%E5%85%8B%E9%87%8C%E6%96%AF%E4%BC%8D%E5%BE%B7%20%E9%9B%86%E9%94%A6",
+                    "type": "B站"
+                  }
+                ]
+              },
+              {
+                "title": "嘴损一句",
+                "detail": "可以吐槽：他不负责把足球踢得很精致，他负责提醒大家足球有时候就是高球砸进去。",
+                "links": [
+                  {
+                    "label": "百度搜索：克里斯伍德 新西兰",
+                    "url": "https://www.baidu.com/s?wd=%E5%85%8B%E9%87%8C%E6%96%AF%E4%BC%8D%E5%BE%B7%20%E6%96%B0%E8%A5%BF%E5%85%B0",
+                    "type": "搜索"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "9",
+            "imageAlt": "克里斯·伍德 照片",
+            "imageCredit": "占位头像",
+            "imageStatus": "placeholder",
+            "position": "前锋",
+            "imageFocus": "50% 18%"
+          }
+        ]
+      },
+      "oneLiner": "这场是很适合装懂的小组赛：伊朗更被看好，新西兰靠身体和高球找机会。",
+      "predictionMarket": {
+        "source": "Polymarket",
+        "status": "available",
+        "asOf": "2026-06-15T14:30:00Z",
+        "marketUrl": "https://polymarket.com/event/fifwc-irn-nzl-2026-06-15",
+        "note": "市场略偏伊朗，平局概率也不低。",
+        "outcomes": [
+          {
+            "label": "伊朗胜",
+            "probability": 53
+          },
+          {
+            "label": "平局",
+            "probability": 28
+          },
+          {
+            "label": "新西兰胜",
+            "probability": 20
+          }
+        ]
+      },
+      "conversationLines": [
+        "伊朗这场不一定好看，但他们很会把比赛拖进自己舒服的节奏。",
+        "新西兰最直接的威胁就是高球和定位球，盯克里斯·伍德就行。",
+        "塔雷米在禁区里很老练，防守人跟他贴太近就容易出事。",
+        "如果比赛很碎，可以说：这种球就是谁先犯错谁难受。"
+      ],
+      "dontSay": "别把这场说成没球星就没看点。小组赛出线形势往往就是靠这种比赛拉开。",
+      "sourceLinks": [
+        {
+          "label": "百度搜索：伊朗 新西兰 世界杯",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%20%E6%96%B0%E8%A5%BF%E5%85%B0%20%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "type": "搜索"
+        },
+        {
+          "label": "B站搜索：伊朗 新西兰 足球",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%20%E6%96%B0%E8%A5%BF%E5%85%B0%20%E8%B6%B3%E7%90%83",
+          "type": "B站"
+        }
+      ]
+    }
+  ],
+  "tomorrow": {
+    "displayDate": "2026 年 6 月 16 日",
+    "matches": [
+      {
+        "id": "france-senegal",
+        "kickoffTime": "15:00 ET",
+        "homeTeam": "法国",
+        "awayTeam": "塞内加尔",
+        "predictionMarket": {
+          "source": "Polymarket",
+          "status": "available",
+          "asOf": "2026-06-15T14:30:00Z",
+          "marketUrl": "https://polymarket.com/event/fifwc-fra-sen-2026-06-16",
+          "note": "明日预告赛前市场概率。",
+          "outcomes": [
+            {
+              "label": "法国胜",
+              "probability": 67
+            },
+            {
+              "label": "平局",
+              "probability": 22
+            },
+            {
+              "label": "塞内加尔胜",
+              "probability": 13
+            }
+          ]
+        }
+      },
+      {
+        "id": "iraq-norway",
+        "kickoffTime": "18:00 ET",
+        "homeTeam": "伊拉克",
+        "awayTeam": "挪威",
+        "predictionMarket": {
+          "source": "Polymarket",
+          "status": "available",
+          "asOf": "2026-06-15T14:30:00Z",
+          "marketUrl": "https://polymarket.com/event/fifwc-irq-nor-2026-06-16",
+          "note": "明日预告赛前市场概率。",
+          "outcomes": [
+            {
+              "label": "伊拉克胜",
+              "probability": 6
+            },
+            {
+              "label": "平局",
+              "probability": 13
+            },
+            {
+              "label": "挪威胜",
+              "probability": 83
+            }
+          ]
+        }
+      },
+      {
+        "id": "argentina-algeria",
+        "kickoffTime": "21:00 ET",
+        "homeTeam": "阿根廷",
+        "awayTeam": "阿尔及利亚",
+        "predictionMarket": {
+          "source": "Polymarket",
+          "status": "available",
+          "asOf": "2026-06-15T14:30:00Z",
+          "marketUrl": "https://polymarket.com/event/fifwc-arg-alg-2026-06-16",
+          "note": "明日预告赛前市场概率。",
+          "outcomes": [
+            {
+              "label": "阿根廷胜",
+              "probability": 71
+            },
+            {
+              "label": "平局",
+              "probability": 21
+            },
+            {
+              "label": "阿尔及利亚胜",
+              "probability": 10
+            }
+          ]
+        }
+      },
+      {
+        "id": "austria-jordan",
+        "kickoffTime": "00:00 ET",
+        "homeTeam": "奥地利",
+        "awayTeam": "约旦",
+        "predictionMarket": {
+          "source": "Polymarket",
+          "status": "unavailable",
+          "asOf": "2026-06-15T14:30:00Z",
+          "note": "暂未找到奥地利 vs 约旦对应的 Polymarket 单场胜平负市场，先不硬编概率。",
+          "outcomes": []
+        }
+      }
+    ]
+  }
+}
