@@ -44,6 +44,17 @@
                     "type": "搜索"
                   }
                 ]
+              },
+              {
+                "title": "嘴损一句",
+                "detail": "可以吐槽：他像前场瑞士军刀，啥都能干一点，但你要他一整场都像核武器就容易失望。",
+                "links": [
+                  {
+                    "label": "B站搜索：哈弗茨 梗",
+                    "url": "https://search.bilibili.com/all?keyword=%E5%93%88%E5%BC%97%E8%8C%A8%20%E6%A2%97",
+                    "type": "B站"
+                  }
+                ]
               }
             ],
             "rosterStatus": "confirmed",
@@ -67,6 +78,17 @@
                   {
                     "label": "B站搜索：穆西亚拉 盘带",
                     "url": "https://search.bilibili.com/all?keyword=%E7%A9%86%E8%A5%BF%E4%BA%9A%E6%8B%89%20%E7%9B%98%E5%B8%A6",
+                    "type": "B站"
+                  }
+                ]
+              },
+              {
+                "title": "嘴损一句",
+                "detail": "可以说他盘带像开了小地图，但有时候也像把全队节奏带进单机模式。",
+                "links": [
+                  {
+                    "label": "B站搜索：穆西亚拉 梗",
+                    "url": "https://search.bilibili.com/all?keyword=%E7%A9%86%E8%A5%BF%E4%BA%9A%E6%8B%89%20%E6%A2%97",
                     "type": "B站"
                   }
                 ]
@@ -108,6 +130,17 @@
                     "label": "百科搜索：库拉索国家足球队",
                     "url": "https://www.baidu.com/s?wd=%E5%BA%93%E6%8B%89%E7%B4%A2%E5%9B%BD%E5%AE%B6%E8%B6%B3%E7%90%83%E9%98%9F",
                     "type": "百科"
+                  }
+                ]
+              },
+              {
+                "title": "嘴损一句",
+                "detail": "可以说他是库拉索的老江湖：镜头不一定追着他跑，但队友慌的时候他得像说明书一样管用。",
+                "links": [
+                  {
+                    "label": "百度搜索：巴库纳 库拉索",
+                    "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%BA%93%E7%BA%B3%20%E5%BA%93%E6%8B%89%E7%B4%A2",
+                    "type": "搜索"
                   }
                 ]
               }
@@ -181,6 +214,17 @@
                     "type": "搜索"
                   }
                 ]
+              },
+              {
+                "title": "嘴损一句",
+                "detail": "可以说加克波是荷兰前场的温度计：热起来全队像开机，冷下来就像橙色壁纸。",
+                "links": [
+                  {
+                    "label": "B站搜索：加克波 梗",
+                    "url": "https://search.bilibili.com/all?keyword=%E5%8A%A0%E5%85%8B%E6%B3%A2%20%E6%A2%97",
+                    "type": "B站"
+                  }
+                ]
               }
             ],
             "rosterStatus": "confirmed",
@@ -205,6 +249,17 @@
                     "label": "B站搜索：范戴克 防守",
                     "url": "https://search.bilibili.com/all?keyword=%E8%8C%83%E6%88%B4%E5%85%8B%20%E9%98%B2%E5%AE%88",
                     "type": "B站"
+                  }
+                ]
+              },
+              {
+                "title": "嘴损一句",
+                "detail": "可以吐槽：世一卫的牌子还在，但真被小个子连续晃两下，弹幕立刻开始查保修。",
+                "links": [
+                  {
+                    "label": "百度搜索：范戴克 世一中卫",
+                    "url": "https://www.baidu.com/s?wd=%E8%8C%83%E6%88%B4%E5%85%8B%20%E4%B8%96%E4%B8%80%E4%B8%AD%E5%8D%AB",
+                    "type": "搜索"
                   }
                 ]
               }
@@ -251,6 +306,17 @@
                     "label": "百科搜索",
                     "url": "https://www.baidu.com/s?wd=%E4%B9%85%E4%BF%9D%E5%BB%BA%E8%8B%B1",
                     "type": "百科"
+                  }
+                ]
+              },
+              {
+                "title": "嘴损一句",
+                "detail": "可以说他是“日本梅西”这类称号的受害者：一拿球大家等魔法，没过人就像广告加载失败。",
+                "links": [
+                  {
+                    "label": "百度搜索：久保建英 日本梅西",
+                    "url": "https://www.baidu.com/s?wd=%E4%B9%85%E4%BF%9D%E5%BB%BA%E8%8B%B1%20%E6%97%A5%E6%9C%AC%E6%A2%85%E8%A5%BF",
+                    "type": "搜索"
                   }
                 ]
               }
@@ -338,6 +404,17 @@
                     "type": "搜索"
                   }
                 ]
+              },
+              {
+                "title": "嘴损一句",
+                "detail": "可以说这是未来股看盘时间：冲起来像涨停，处理最后一下还像新手村教程。",
+                "links": [
+                  {
+                    "label": "百度搜索：迪奥曼德 科特迪瓦",
+                    "url": "https://www.baidu.com/s?wd=%E8%BF%AA%E5%A5%A5%E6%9B%BC%E5%BE%B7%20%E7%A7%91%E7%89%B9%E8%BF%AA%E7%93%A6",
+                    "type": "搜索"
+                  }
+                ]
               }
             ],
             "rosterStatus": "confirmed",
@@ -360,6 +437,17 @@
                   {
                     "label": "B站搜索：阿丁格拉 集锦",
                     "url": "https://search.bilibili.com/all?keyword=%E9%98%BF%E4%B8%81%E6%A0%BC%E6%8B%89%20%E9%9B%86%E9%94%A6",
+                    "type": "B站"
+                  }
+                ]
+              },
+              {
+                "title": "嘴损一句",
+                "detail": "可以说他踢法很直接：拿球先踩油门，至于导航有没有开，等冲完再说。",
+                "links": [
+                  {
+                    "label": "B站搜索：阿丁格拉 梗",
+                    "url": "https://search.bilibili.com/all?keyword=%E9%98%BF%E4%B8%81%E6%A0%BC%E6%8B%89%20%E6%A2%97",
                     "type": "B站"
                   }
                 ]
@@ -398,6 +486,17 @@
                     "type": "B站"
                   }
                 ]
+              },
+              {
+                "title": "嘴损一句",
+                "detail": "可以吐槽：年轻硬货最怕上头，一秒像铁门，下一秒可能自己把警报拉响。",
+                "links": [
+                  {
+                    "label": "B站搜索：因卡皮耶 勒沃库森",
+                    "url": "https://search.bilibili.com/all?keyword=%E5%9B%A0%E5%8D%A1%E7%9A%AE%E8%80%B6%20%E5%8B%92%E6%B2%83%E5%BA%93%E6%A3%AE",
+                    "type": "B站"
+                  }
+                ]
               }
             ],
             "rosterStatus": "confirmed",
@@ -421,6 +520,17 @@
                   {
                     "label": "B站搜索：帕乔 足球",
                     "url": "https://search.bilibili.com/all?keyword=%E5%B8%95%E4%B9%94%20%E8%B6%B3%E7%90%83",
+                    "type": "B站"
+                  }
+                ]
+              },
+              {
+                "title": "嘴损一句",
+                "detail": "可以说帕乔这种中卫赢了没人夸，漏一次镜头就像被开会投影到全场。",
+                "links": [
+                  {
+                    "label": "B站搜索：帕乔 防守",
+                    "url": "https://search.bilibili.com/all?keyword=%E5%B8%95%E4%B9%94%20%E9%98%B2%E5%AE%88",
                     "type": "B站"
                   }
                 ]
@@ -509,6 +619,17 @@
                     "type": "搜索"
                   }
                 ]
+              },
+              {
+                "title": "嘴损一句",
+                "detail": "可以说伊萨克高级感是有的，但高级前锋也怕断电：丝滑两下不进球，观众就开始问电费谁交。",
+                "links": [
+                  {
+                    "label": "B站搜索：伊萨克 梗",
+                    "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E8%90%A8%E5%85%8B%20%E6%A2%97",
+                    "type": "B站"
+                  }
+                ]
               }
             ],
             "rosterStatus": "confirmed",
@@ -533,6 +654,17 @@
                     "label": "B站搜索：约克雷斯 集锦",
                     "url": "https://search.bilibili.com/all?keyword=%E7%BA%A6%E5%85%8B%E9%9B%B7%E6%96%AF%20%E9%9B%86%E9%94%A6",
                     "type": "B站"
+                  }
+                ]
+              },
+              {
+                "title": "嘴损一句",
+                "detail": "可以说他像重型跑车，冲起来很吓人；要是被堵住，就容易变成原地轰油门。",
+                "links": [
+                  {
+                    "label": "百度搜索：约克雷斯 面具 庆祝",
+                    "url": "https://www.baidu.com/s?wd=%E7%BA%A6%E5%85%8B%E9%9B%B7%E6%96%AF%20%E9%9D%A2%E5%85%B7%20%E5%BA%86%E7%A5%9D",
+                    "type": "搜索"
                   }
                 ]
               }
@@ -570,6 +702,17 @@
                     "type": "B站"
                   }
                 ]
+              },
+              {
+                "title": "嘴损一句",
+                "detail": "可以说他是中场家政型球员：脏活都包了，但真要上热搜基本得靠别人犯错。",
+                "links": [
+                  {
+                    "label": "B站搜索：斯希里 突尼斯",
+                    "url": "https://search.bilibili.com/all?keyword=%E6%96%AF%E5%B8%8C%E9%87%8C%20%E7%AA%81%E5%B0%BC%E6%96%AF",
+                    "type": "B站"
+                  }
+                ]
               }
             ],
             "rosterStatus": "confirmed",
@@ -593,6 +736,17 @@
                   {
                     "label": "B站搜索：汉尼拔 梅布里",
                     "url": "https://search.bilibili.com/all?keyword=%E6%B1%89%E5%B0%BC%E6%8B%94%20%E6%A2%85%E5%B8%83%E9%87%8C",
+                    "type": "B站"
+                  }
+                ]
+              },
+              {
+                "title": "嘴损一句",
+                "detail": "可以吐槽：他名字和发型自带流量，问题是踢球内容也得跟上，不然只剩认脸成功。",
+                "links": [
+                  {
+                    "label": "B站搜索：汉尼拔 梅布里 梗",
+                    "url": "https://search.bilibili.com/all?keyword=%E6%B1%89%E5%B0%BC%E6%8B%94%20%E6%A2%85%E5%B8%83%E9%87%8C%20%E6%A2%97",
                     "type": "B站"
                   }
                 ]
