@@ -44,8 +44,9 @@
             "rosterStatus": "confirmed",
             "shirtNumber": "10",
             "imageAlt": "姆巴佩 照片",
-            "imageCredit": "占位头像",
-            "imageStatus": "placeholder",
+            "imageCredit": "Wikimedia Commons",
+            "imageStatus": "licensed",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Picture%20with%20Mbapp%C3%A9%20%28cropped%20and%20rotated%29.jpg",
             "position": "前锋",
             "imageFocus": "50% 18%"
           }
@@ -89,8 +90,9 @@
             "rosterStatus": "confirmed",
             "shirtNumber": "10",
             "imageAlt": "马内 照片",
-            "imageCredit": "占位头像",
-            "imageStatus": "placeholder",
+            "imageCredit": "Wikimedia Commons",
+            "imageStatus": "licensed",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sadio%20Mane%20Al-Nassr.jpg",
             "position": "前锋",
             "imageFocus": "50% 18%"
           }
@@ -179,8 +181,9 @@
             "rosterStatus": "confirmed",
             "shirtNumber": "18",
             "imageAlt": "艾曼·侯赛因 照片",
-            "imageCredit": "占位头像",
-            "imageStatus": "placeholder",
+            "imageCredit": "Wikimedia Commons",
+            "imageStatus": "licensed",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/4822953%20AE7I9053%20%28cropped2%29.jpg",
             "position": "前锋",
             "imageFocus": "50% 18%"
           }
@@ -224,8 +227,9 @@
             "rosterStatus": "confirmed",
             "shirtNumber": "9",
             "imageAlt": "哈兰德 照片",
-            "imageCredit": "占位头像",
-            "imageStatus": "placeholder",
+            "imageCredit": "Wikimedia Commons",
+            "imageStatus": "licensed",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Erling%20Haaland%20June%202025.jpg",
             "position": "前锋",
             "imageFocus": "50% 18%"
           },
@@ -260,8 +264,9 @@
             "rosterStatus": "confirmed",
             "shirtNumber": "10",
             "imageAlt": "厄德高 照片",
-            "imageCredit": "占位头像",
-            "imageStatus": "placeholder",
+            "imageCredit": "Wikimedia Commons",
+            "imageStatus": "licensed",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Norway%20Italy%20-%20June%202025%20E%2004.jpg",
             "position": "中场",
             "imageFocus": "50% 18%"
           }
@@ -350,8 +355,9 @@
             "rosterStatus": "confirmed",
             "shirtNumber": "10",
             "imageAlt": "梅西 照片",
-            "imageCredit": "占位头像",
-            "imageStatus": "placeholder",
+            "imageCredit": "Wikimedia Commons",
+            "imageStatus": "licensed",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lionel%20Messi%20NE%20Revolution%20Inter%20Miami%207.9.25-178.jpg",
             "position": "前锋",
             "imageFocus": "50% 18%"
           },
@@ -386,8 +392,9 @@
             "rosterStatus": "confirmed",
             "shirtNumber": "22",
             "imageAlt": "劳塔罗 照片",
-            "imageCredit": "占位头像",
-            "imageStatus": "placeholder",
+            "imageCredit": "Wikimedia Commons",
+            "imageStatus": "licensed",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lautaro%20Martinez%20ARGENTINA%20VS%20VENEZUELA%202017.jpg",
             "position": "前锋",
             "imageFocus": "50% 18%"
           }
@@ -431,8 +438,9 @@
             "rosterStatus": "confirmed",
             "shirtNumber": "7",
             "imageAlt": "马赫雷斯 照片",
-            "imageCredit": "占位头像",
-            "imageStatus": "placeholder",
+            "imageCredit": "Wikimedia Commons",
+            "imageStatus": "licensed",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mahrez%202021.jpg",
             "position": "前锋",
             "imageFocus": "50% 18%"
           }
@@ -521,8 +529,9 @@
             "rosterStatus": "confirmed",
             "shirtNumber": "19",
             "imageAlt": "鲍姆加特纳 照片",
-            "imageCredit": "占位头像",
-            "imageStatus": "placeholder",
+            "imageCredit": "Wikimedia Commons",
+            "imageStatus": "licensed",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Austria%20national%20under-21%20football%20team%20-%20Teamcamp%20October%202019%20%2861%29%20%28cropped%29.jpg",
             "position": "中场",
             "imageFocus": "50% 18%"
           }
@@ -566,8 +575,9 @@
             "rosterStatus": "confirmed",
             "shirtNumber": "10",
             "imageAlt": "穆萨·塔马里 照片",
-            "imageCredit": "占位头像",
-            "imageStatus": "placeholder",
+            "imageCredit": "Wikimedia Commons",
+            "imageStatus": "licensed",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Musa%20Al-Taamari%202023.jpg",
             "position": "前锋",
             "imageFocus": "50% 18%"
           }
