@@ -1,4 +1,6 @@
-import dailyGuideData from "../content/published/2026-06-16.json";
+import guide20260614Data from "../content/published/2026-06-14.json";
+import guide20260615Data from "../content/published/2026-06-15.json";
+import guide20260616Data from "../content/published/2026-06-16.json";
 import type {
   DailyGuide,
   KeyPlayer,
@@ -9,9 +11,25 @@ import type {
   TeamGuide,
 } from "./types";
 
-const dailyGuide = dailyGuideData as DailyGuide;
+const publishedGuides = [
+  guide20260614Data,
+  guide20260615Data,
+  guide20260616Data,
+] as DailyGuide[];
+
+const guidesByDate = new Map(publishedGuides.map((guide) => [guide.date, guide]));
+const latestGuide = publishedGuides[publishedGuides.length - 1];
+
+function getDateFromPath() {
+  const path = window.location.pathname.replace(/^\/+|\/+$/g, "");
+  return /^\d{4}-\d{2}-\d{2}$/.test(path) ? path : null;
+}
 
 function App() {
+  const requestedDate = getDateFromPath();
+  const dailyGuide = requestedDate ? guidesByDate.get(requestedDate) ?? latestGuide : latestGuide;
+  const missingDate = requestedDate && !guidesByDate.has(requestedDate) ? requestedDate : null;
+
   return (
     <main className="page-shell">
       <header className="site-header">
@@ -25,6 +43,8 @@ function App() {
           <strong>{dailyGuide.matches.length} 场</strong>
         </div>
       </header>
+
+      {missingDate ? <MissingDateNotice date={missingDate} latestDate={latestGuide.displayDate} /> : null}
 
       {dailyGuide.matches.length > 0 ? (
         <section className="match-list" aria-label="今日比赛小抄">
@@ -41,11 +61,22 @@ function App() {
         matches={dailyGuide.tomorrow.matches}
       />
 
+      <HistoryNav currentDate={dailyGuide.date} guides={publishedGuides} />
+
       <footer className="site-footer">
         <span>作者</span>
         <strong>CK</strong>
       </footer>
     </main>
+  );
+}
+
+function MissingDateNotice({ date, latestDate }: { date: string; latestDate: string }) {
+  return (
+    <section className="notice-card" aria-label="日期未找到">
+      <strong>{date} 还没有小抄</strong>
+      <span>先给你看最新一期：{latestDate}</span>
+    </section>
   );
 }
 
@@ -254,6 +285,36 @@ function SourceLinks({
         </a>
       ))}
     </div>
+  );
+}
+
+function HistoryNav({
+  currentDate,
+  guides,
+}: {
+  currentDate: string;
+  guides: DailyGuide[];
+}) {
+  return (
+    <nav className="history-card" aria-label="历史小抄">
+      <div>
+        <p className="label">历史小抄</p>
+        <h2>往期入口</h2>
+      </div>
+      <div className="history-links">
+        {[...guides].reverse().map((guide, index) => (
+          <a
+            key={guide.date}
+            className={guide.date === currentDate ? "history-link history-link--active" : "history-link"}
+            href={`/${guide.date}`}
+            aria-current={guide.date === currentDate ? "page" : undefined}
+          >
+            <strong>{guide.displayDate}</strong>
+            <span>{index === 0 ? "最新" : `${guide.matches.length} 场`}</span>
+          </a>
+        ))}
+      </div>
+    </nav>
   );
 }
 
