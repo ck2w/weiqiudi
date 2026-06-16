@@ -49,6 +49,43 @@
             "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Picture%20with%20Mbapp%C3%A9%20%28cropped%20and%20rotated%29.jpg",
             "position": "前锋",
             "imageFocus": "50% 18%"
+          },
+          {
+            "name": "登贝莱",
+            "nameEn": "Ousmane Dembélé",
+            "persona": "法国右路爆点，双脚都能处理球，状态好时像突然把比赛调成高速模式",
+            "hooks": [
+              {
+                "title": "双脚随机门",
+                "detail": "看到他在右路拿球，可以说：登贝莱麻烦就麻烦在防守人有时也不知道他下一步用哪只脚。",
+                "links": [
+                  {
+                    "label": "B站搜索：登贝莱 集锦",
+                    "url": "https://search.bilibili.com/all?keyword=%E7%99%BB%E8%B4%9D%E8%8E%B1%20%E9%9B%86%E9%94%A6",
+                    "type": "B站"
+                  }
+                ]
+              },
+              {
+                "title": "嘴损一句",
+                "detail": "可以吐槽：登贝莱踢顺了像遥控器没延迟，踢别扭了就像手柄漂移，精彩和离谱都很突然。",
+                "links": [
+                  {
+                    "label": "百度搜索：登贝莱 梗",
+                    "url": "https://www.baidu.com/s?wd=%E7%99%BB%E8%B4%9D%E8%8E%B1%20%E6%A2%97",
+                    "type": "搜索"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "11",
+            "imageAlt": "登贝莱 照片",
+            "imageCredit": "Wikimedia Commons",
+            "imageStatus": "licensed",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ousmane%20Demb%C3%A9l%C3%A9%202018%20%28cropped%29.jpg",
+            "position": "前锋",
+            "imageFocus": "50% 18%"
           }
         ]
       },
@@ -122,9 +159,9 @@
       },
       "conversationLines": [
         "法国这场不只是看控球，主要看姆巴佩什么时候把速度拉满。",
+        "登贝莱如果右路连续拿球，塞内加尔防线会被迫一直横向移动。",
         "塞内加尔身体对抗不怂，法国不会像打训练赛一样舒服。",
-        "如果法国早早进球，比赛可能会变成姆巴佩冲刺秀。",
-        "如果塞内加尔顶住前 30 分钟，可以说：法国最怕这种节奏被拖住。"
+        "如果法国早早进球，比赛可能会变成姆巴佩和登贝莱的冲刺秀。"
       ],
       "dontSay": "别把塞内加尔说成纯弱队。他们有球星、有对抗，也有非洲冠军底子。",
       "sourceLinks": [
