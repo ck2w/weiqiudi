@@ -228,6 +228,29 @@ h2 {
   font-weight: 850;
 }
 
+.copy-one-liner {
+  display: inline-flex;
+  align-items: center;
+  margin-left: 8px;
+  border: 3px solid #111111;
+  background: #ffffff;
+  color: #111111;
+  padding: 2px 7px;
+  font: inherit;
+  font-size: 0.78rem;
+  font-weight: 950;
+  line-height: 1.25;
+  vertical-align: 0.12em;
+  cursor: pointer;
+  box-shadow: 2px 2px 0 #111111;
+}
+
+.copy-one-liner:hover,
+.copy-one-liner:focus-visible {
+  transform: translate(-1px, -1px);
+  box-shadow: 3px 3px 0 #111111;
+}
+
 .prediction-card {
   display: flex;
   flex-wrap: nowrap;

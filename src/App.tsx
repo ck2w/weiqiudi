@@ -1,3 +1,4 @@
+import { useState } from "react";
 import guide20260614Data from "../content/published/2026-06-14.json";
 import guide20260615Data from "../content/published/2026-06-15.json";
 import guide20260616Data from "../content/published/2026-06-16.json";
@@ -82,6 +83,13 @@ function MissingDateNotice({ date, latestDate }: { date: string; latestDate: str
 
 function MatchCard({ match }: { match: MatchGuide }) {
   const sharePath = `#${match.id}`;
+  const [copyState, setCopyState] = useState<"idle" | "copied" | "failed">("idle");
+
+  async function handleCopyOneLiner() {
+    const didCopy = await copyTextToClipboard(match.oneLiner);
+    setCopyState(didCopy ? "copied" : "failed");
+    window.setTimeout(() => setCopyState("idle"), 1500);
+  }
 
   return (
     <article className="match-card" id={match.id}>
@@ -102,7 +110,17 @@ function MatchCard({ match }: { match: MatchGuide }) {
 
       <section className="one-liner">
         <span>一句话装懂</span>
-        <p>{match.oneLiner}</p>
+        <p>
+          {match.oneLiner}
+          <button
+            className="copy-one-liner"
+            type="button"
+            onClick={handleCopyOneLiner}
+            aria-label={`复制${match.homeTeam.shortName}对${match.awayTeam.shortName}的一句话装懂`}
+          >
+            {copyState === "copied" ? "已复制" : copyState === "failed" ? "复制失败" : "复制"}
+          </button>
+        </p>
       </section>
 
       {match.predictionMarket ? (
@@ -136,6 +154,33 @@ function MatchCard({ match }: { match: MatchGuide }) {
       </footer>
     </article>
   );
+}
+
+async function copyTextToClipboard(text: string) {
+  if (navigator.clipboard?.writeText) {
+    try {
+      await navigator.clipboard.writeText(text);
+      return true;
+    } catch {
+      // Fall back below for browsers that expose Clipboard API but block it.
+    }
+  }
+
+  const textarea = document.createElement("textarea");
+  textarea.value = text;
+  textarea.style.position = "fixed";
+  textarea.style.top = "-9999px";
+  textarea.style.left = "-9999px";
+  document.body.appendChild(textarea);
+  textarea.focus();
+  textarea.select();
+  textarea.setSelectionRange(0, textarea.value.length);
+
+  try {
+    return document.execCommand("copy");
+  } finally {
+    document.body.removeChild(textarea);
+  }
 }
 
 function PredictionMarketCard({
