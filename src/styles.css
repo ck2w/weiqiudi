@@ -20,8 +20,8 @@ body {
   margin: 0;
   min-width: 320px;
   background:
-    linear-gradient(90deg, rgba(17, 17, 17, 0.08) 1px, transparent 1px),
-    linear-gradient(rgba(17, 17, 17, 0.08) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(17, 17, 17, 0.055) 1px, transparent 1px),
+    linear-gradient(rgba(17, 17, 17, 0.055) 1px, transparent 1px),
     #ffd400;
   background-size: 28px 28px;
 }
@@ -110,13 +110,13 @@ h2 {
   justify-content: center;
   min-width: 78px;
   padding: 8px 12px;
-  border: 4px solid #111111;
+  border: 3px solid #111111;
   background: #ff5c8a;
 }
 
 .match-list {
   display: grid;
-  gap: 28px;
+  gap: 34px;
 }
 
 .empty-card {
@@ -149,7 +149,7 @@ h2 {
 }
 
 .notice-card strong {
-  border: 3px solid #111111;
+  border: 2px solid #111111;
   background: #ffffff;
   padding: 3px 8px;
 }
@@ -176,7 +176,7 @@ h2 {
 
 .kickoff {
   flex: 0 0 auto;
-  border: 4px solid #ffd400;
+  border: 3px solid #ffd400;
   background: #ffffff;
   color: #111111;
   padding: 8px 10px;
@@ -188,31 +188,31 @@ h2 {
   display: flex;
   flex-wrap: wrap;
   gap: 10px;
-  padding: 16px 18px 0;
+  padding: 18px 22px 0;
 }
 
 .shirt-badge {
   display: inline-flex;
   align-items: center;
   gap: 8px;
-  border: 4px solid #111111;
+  border: 3px solid #111111;
   background: #fff7c2;
-  padding: 8px 10px;
+  padding: 7px 10px;
   font-weight: 900;
 }
 
 .shirt-swatch {
   width: 22px;
   height: 22px;
-  border: 3px solid #111111;
+  border: 2px solid #111111;
 }
 
 .one-liner {
   display: grid;
   gap: 8px;
-  margin: 18px;
+  margin: 20px 22px;
   padding: 16px;
-  border: 5px solid #111111;
+  border: 4px solid #111111;
   background: #ffd400;
 }
 
@@ -232,7 +232,7 @@ h2 {
   display: inline-flex;
   align-items: center;
   margin-left: 8px;
-  border: 3px solid #111111;
+  border: 2px solid #111111;
   background: #ffffff;
   color: #111111;
   padding: 2px 7px;
@@ -242,13 +242,13 @@ h2 {
   line-height: 1.25;
   vertical-align: 0.12em;
   cursor: pointer;
-  box-shadow: 2px 2px 0 #111111;
+  box-shadow: 1px 1px 0 #111111;
 }
 
 .copy-one-liner:hover,
 .copy-one-liner:focus-visible {
   transform: translate(-1px, -1px);
-  box-shadow: 3px 3px 0 #111111;
+  box-shadow: 2px 2px 0 #111111;
 }
 
 .prediction-card {
@@ -256,8 +256,8 @@ h2 {
   flex-wrap: nowrap;
   align-items: center;
   gap: 8px 10px;
-  margin: 0 18px 18px;
-  border: 4px solid #111111;
+  margin: 0 22px 22px;
+  border: 3px solid #111111;
   background: #fff7c2;
   padding: 8px 10px;
   font-size: 0.92rem;
@@ -280,7 +280,7 @@ h2 {
 .prediction-note,
 .prediction-card a {
   flex: 0 0 auto;
-  border: 3px solid #111111;
+  border: 2px solid #111111;
   padding: 2px 6px;
   font-weight: 950;
 }
@@ -300,22 +300,21 @@ h2 {
   background: #71d7ff;
   color: #111111;
   text-decoration: none;
-  box-shadow: 2px 2px 0 #111111;
 }
 
 .match-grid {
   display: grid;
-  gap: 18px;
-  padding: 0 18px 18px;
+  gap: 22px;
+  padding: 0 22px 22px;
 }
 
 .talk-card,
 .team-panel,
 .warning-card {
   position: relative;
-  border: 5px solid #111111;
+  border: 3px solid #111111;
   background: #ffffff;
-  padding: 26px 16px 16px;
+  padding: 28px 18px 18px;
 }
 
 .talk-card {
@@ -324,10 +323,10 @@ h2 {
 
 .sticker {
   position: absolute;
-  top: -17px;
+  top: -14px;
   left: 16px;
-  border: 5px solid #111111;
-  padding: 4px 12px;
+  border: 3px solid #111111;
+  padding: 3px 11px;
   font-weight: 950;
 }
 
@@ -350,12 +349,12 @@ h2 {
 .player-list,
 .hook-list {
   display: grid;
-  gap: 14px;
+  gap: 16px;
 }
 
 .player-card {
-  border-top: 4px solid #111111;
-  padding-top: 12px;
+  border-top: 2px solid #111111;
+  padding-top: 14px;
 }
 
 .player-card:first-child {
@@ -379,10 +378,10 @@ h2 {
   display: block;
   width: 66px;
   height: 66px;
-  border: 4px solid #111111;
+  border: 3px solid #111111;
   background: #fff7c2;
   object-fit: cover;
-  box-shadow: 4px 4px 0 #111111;
+  box-shadow: 2px 2px 0 #111111;
 }
 
 .player-photo--placeholder {
@@ -398,12 +397,11 @@ h2 {
   right: -2px;
   bottom: -8px;
   z-index: 1;
-  border: 3px solid #111111;
+  border: 2px solid #111111;
   background: #ffd400;
   padding: 1px 5px;
   font-size: 0.76rem;
   font-weight: 950;
-  box-shadow: 2px 2px 0 #111111;
 }
 
 .player-heading {
@@ -435,7 +433,7 @@ h2 {
 .roster-pill,
 .position-pill {
   display: inline-flex;
-  border: 3px solid #111111;
+  border: 2px solid #111111;
   padding: 2px 6px;
   font-size: 0.78rem;
   font-weight: 950;
@@ -458,9 +456,9 @@ h2 {
 }
 
 .hook {
-  border: 3px solid #111111;
+  border: 2px solid #111111;
   background: #fff7c2;
-  padding: 12px;
+  padding: 13px;
 }
 
 .hook strong {
@@ -478,7 +476,7 @@ h2 {
   display: grid;
   grid-template-columns: auto 1fr;
   gap: 12px;
-  margin: 0 18px 18px;
+  margin: 0 22px 22px;
   padding: 14px;
   background: #ff5c8a;
 }
@@ -487,7 +485,7 @@ h2 {
   display: flex;
   flex-direction: column;
   gap: 14px;
-  padding: 0 18px 18px;
+  padding: 0 22px 22px;
 }
 
 .source-links {
@@ -500,13 +498,12 @@ h2 {
   display: inline-flex;
   align-items: center;
   gap: 6px;
-  border: 3px solid #111111;
+  border: 2px solid #111111;
   background: #ffffff;
   padding: 7px 9px;
   text-decoration: none;
   font-size: 0.92rem;
   font-weight: 850;
-  box-shadow: 3px 3px 0 #111111;
 }
 
 .source-links a:hover,
@@ -515,12 +512,12 @@ h2 {
 .prediction-card a:focus-visible,
 .share-link:hover,
 .share-link:focus-visible {
-  transform: translate(-2px, -2px);
-  box-shadow: 5px 5px 0 #111111;
+  transform: translate(-1px, -1px);
+  box-shadow: 3px 3px 0 #111111;
 }
 
 .source-links span {
-  border: 2px solid #111111;
+  border: 1px solid #111111;
   background: #71d7ff;
   padding: 1px 4px;
   font-size: 0.75rem;
@@ -533,12 +530,12 @@ h2 {
 
 .share-link {
   align-self: flex-start;
-  border: 4px solid #111111;
+  border: 3px solid #111111;
   background: #71d7ff;
   padding: 10px 14px;
   text-decoration: none;
   font-weight: 950;
-  box-shadow: 4px 4px 0 #111111;
+  box-shadow: 3px 3px 0 #111111;
 }
 
 .tomorrow-card {
@@ -560,9 +557,9 @@ h2 {
   display: flex;
   align-items: center;
   gap: 12px;
-  border: 4px solid #111111;
+  border: 3px solid #111111;
   background: #ffffff;
-  padding: 5px 10px;
+  padding: 7px 10px;
   font-weight: 900;
 }
 
@@ -613,18 +610,18 @@ h2 {
   display: inline-grid;
   gap: 2px;
   min-width: 150px;
-  border: 4px solid #111111;
+  border: 3px solid #111111;
   background: #fff7c2;
   padding: 9px 12px;
   color: #111111;
   text-decoration: none;
-  box-shadow: 4px 4px 0 #111111;
+  box-shadow: 2px 2px 0 #111111;
 }
 
 .history-link:hover,
 .history-link:focus-visible {
-  transform: translate(-2px, -2px);
-  box-shadow: 6px 6px 0 #111111;
+  transform: translate(-1px, -1px);
+  box-shadow: 3px 3px 0 #111111;
 }
 
 .history-link--active {
@@ -647,10 +644,10 @@ h2 {
   align-items: center;
   gap: 10px;
   margin-top: 28px;
-  border: 5px solid #111111;
+  border: 4px solid #111111;
   background: #ffffff;
   padding: 10px 14px;
-  box-shadow: 6px 6px 0 #111111;
+  box-shadow: 4px 4px 0 #111111;
   font-weight: 950;
 }
 
@@ -659,7 +656,7 @@ h2 {
 }
 
 .site-footer strong {
-  border: 3px solid #111111;
+  border: 2px solid #111111;
   background: #ffd400;
   padding: 2px 8px;
 }
