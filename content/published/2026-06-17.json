@@ -5,7 +5,7 @@
   "matches": [
     {
       "id": "portugal-dr-congo",
-      "kickoffTime": "16:00 ET",
+      "kickoffTime": "13:00 ET",
       "homeTeam": {
         "name": "葡萄牙",
         "nameEn": "Portugal",
@@ -153,10 +153,24 @@
       "oneLiner": "葡萄牙牌面明显更强，但这场别只看 C罗：B费怎么喂球、刚果（金）能不能用维萨打身后，才是聊天抓手。",
       "predictionMarket": {
         "source": "Polymarket",
-        "status": "unavailable",
-        "asOf": "2026-06-17T14:00:00Z",
-        "note": "暂未找到葡萄牙 vs 刚果民主共和国对应的 Polymarket 单场胜平负市场，先不硬编概率。",
-        "outcomes": []
+        "status": "available",
+        "asOf": "2026-06-17T06:46:49Z",
+        "marketUrl": "https://polymarket.com/event/fifwc-prt-cdr-2026-06-17",
+        "note": "Polymarket 赛前 moneyline 明显偏葡萄牙，刚果（金）是冷门线。",
+        "outcomes": [
+          {
+            "label": "葡萄牙胜",
+            "probability": 75.5
+          },
+          {
+            "label": "平局",
+            "probability": 17.5
+          },
+          {
+            "label": "刚果（金）胜",
+            "probability": 7.5
+          }
+        ]
       },
       "conversationLines": [
         "葡萄牙这阵容不缺技术，关键是别把比赛踢成所有人都等 C罗 镜头。",
@@ -179,171 +193,8 @@
       ]
     },
     {
-      "id": "ghana-panama",
-      "kickoffTime": "19:00 ET",
-      "homeTeam": {
-        "name": "加纳",
-        "nameEn": "Ghana",
-        "shortName": "加纳",
-        "shirtColor": "#FFFFFF",
-        "shirtLabel": "白衣",
-        "players": [
-          {
-            "name": "库杜斯",
-            "nameEn": "Mohammed Kudus",
-            "persona": "加纳前场最有爆点的人，能带、能冲、也能突然来一脚",
-            "hooks": [
-              {
-                "title": "左脚爆点",
-                "detail": "看到他在肋部拿球就可以说：加纳要想把比赛踢活，库杜斯必须把单点爆破打出来。",
-                "links": [
-                  {
-                    "label": "B站搜索：库杜斯 集锦",
-                    "url": "https://search.bilibili.com/all?keyword=%E5%BA%93%E6%9D%9C%E6%96%AF%20%E9%9B%86%E9%94%A6",
-                    "type": "B站"
-                  }
-                ]
-              },
-              {
-                "title": "嘴损一句",
-                "detail": "可以吐槽：加纳这场最怕库杜斯一个人把镜头感拉满，队友还没跟上剧情。",
-                "links": [
-                  {
-                    "label": "百度搜索：库杜斯 加纳",
-                    "url": "https://www.baidu.com/s?wd=%E5%BA%93%E6%9D%9C%E6%96%AF%20%E5%8A%A0%E7%BA%B3",
-                    "type": "搜索"
-                  }
-                ]
-              }
-            ],
-            "rosterStatus": "confirmed",
-            "shirtNumber": "20",
-            "position": "前场",
-            "imageStatus": "licensed",
-            "imageAlt": "库杜斯 照片",
-            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mohammed%20Kudus%20of%20West%20Ham%20United.jpeg",
-            "imageCredit": "Wikimedia Commons",
-            "imageFocus": "50% 18%"
-          },
-          {
-            "name": "托马斯·帕尔特伊",
-            "nameEn": "Thomas Partey",
-            "persona": "加纳中场压舱石，比赛乱不乱很大程度看他能不能稳住第一脚出球",
-            "hooks": [
-              {
-                "title": "中场刹车",
-                "detail": "巴拿马如果把对抗提上来，可以说：这时候就看帕尔特伊能不能让加纳别跟着一起乱。",
-                "links": [
-                  {
-                    "label": "百度搜索：托马斯 帕尔特伊 加纳",
-                    "url": "https://www.baidu.com/s?wd=%E6%89%98%E9%A9%AC%E6%96%AF%20%E5%B8%95%E5%B0%94%E7%89%B9%E4%BC%8A%20%E5%8A%A0%E7%BA%B3",
-                    "type": "搜索"
-                  }
-                ]
-              }
-            ],
-            "rosterStatus": "confirmed",
-            "shirtNumber": "5",
-            "position": "中场",
-            "imageStatus": "licensed",
-            "imageAlt": "托马斯·帕尔特伊 照片",
-            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/ATL-Madrid-Lokomotiv001-Thomas%20(cropped).jpg",
-            "imageCredit": "Wikimedia Commons",
-            "imageFocus": "50% 18%"
-          }
-        ]
-      },
-      "awayTeam": {
-        "name": "巴拿马",
-        "nameEn": "Panama",
-        "shortName": "巴拿马",
-        "shirtColor": "#D71920",
-        "shirtLabel": "红衣",
-        "players": [
-          {
-            "name": "卡拉斯基利亚",
-            "nameEn": "Adalberto Carrasquilla",
-            "persona": "巴拿马中场核心，队友负责拼，他负责把球处理得像有计划",
-            "hooks": [
-              {
-                "title": "小队大脑",
-                "detail": "不懂巴拿马就盯他：他能不能把球从压力里摘出来，决定巴拿马是不是只剩硬扛。",
-                "links": [
-                  {
-                    "label": "B站搜索：卡拉斯基利亚 巴拿马",
-                    "url": "https://search.bilibili.com/all?keyword=%E5%8D%A1%E6%8B%89%E6%96%AF%E5%9F%BA%E5%88%A9%E4%BA%9A%20%E5%B7%B4%E6%8B%BF%E9%A9%AC",
-                    "type": "B站"
-                  }
-                ]
-              },
-              {
-                "title": "嘴损一句",
-                "detail": "可以说巴拿马不是没技术，只是经常踢着踢着就像把比赛切到肉搏频道。",
-                "links": [
-                  {
-                    "label": "百度搜索：卡拉斯基利亚 巴拿马",
-                    "url": "https://www.baidu.com/s?wd=%E5%8D%A1%E6%8B%89%E6%96%AF%E5%9F%BA%E5%88%A9%E4%BA%9A%20%E5%B7%B4%E6%8B%BF%E9%A9%AC",
-                    "type": "搜索"
-                  }
-                ]
-              }
-            ],
-            "rosterStatus": "confirmed",
-            "shirtNumber": "8",
-            "position": "中场",
-            "imageStatus": "licensed",
-            "imageAlt": "卡拉斯基利亚 照片",
-            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Inter%20Miami%20CF%203-1%20UNAM%20(6%20August%202025)%2027%20(cropped).jpg",
-            "imageCredit": "Wikimedia Commons",
-            "imageFocus": "50% 18%"
-          }
-        ]
-      },
-      "oneLiner": "这场别只说加纳身体好：加纳有库杜斯这种爆点，巴拿马也不是纯挨打，关键看中场能不能把对抗踢成节奏。",
-      "predictionMarket": {
-        "source": "Polymarket",
-        "status": "available",
-        "asOf": "2026-06-17T14:00:00Z",
-        "marketUrl": "https://polymarket.com/event/fifwc-gha-pan-2026-06-17",
-        "note": "赛前市场略偏加纳，但巴拿马平局线不低。",
-        "outcomes": [
-          {
-            "label": "加纳胜",
-            "probability": 45
-          },
-          {
-            "label": "平局",
-            "probability": 28
-          },
-          {
-            "label": "巴拿马胜",
-            "probability": 28
-          }
-        ]
-      },
-      "conversationLines": [
-        "加纳不是只靠身体，库杜斯这种前场持球点很适合把比赛突然提速。",
-        "巴拿马如果能把比赛切碎，加纳会踢得没那么舒服。",
-        "这场看起来星味不如英格兰和葡萄牙，但对抗强度可能很足。",
-        "如果卡拉斯基利亚能稳住中场，巴拿马就不会只是被动解围。"
-      ],
-      "dontSay": "别说巴拿马就是送分队。世界杯小组赛第一场，能把节奏拖乱的队很烦。",
-      "sourceLinks": [
-        {
-          "label": "百度搜索：加纳 巴拿马 世界杯",
-          "url": "https://www.baidu.com/s?wd=%E5%8A%A0%E7%BA%B3%20%E5%B7%B4%E6%8B%BF%E9%A9%AC%20%E4%B8%96%E7%95%8C%E6%9D%AF",
-          "type": "搜索"
-        },
-        {
-          "label": "B站搜索：加纳 巴拿马",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8A%A0%E7%BA%B3%20%E5%B7%B4%E6%8B%BF%E9%A9%AC",
-          "type": "B站"
-        }
-      ]
-    },
-    {
       "id": "england-croatia",
-      "kickoffTime": "21:00 ET",
+      "kickoffTime": "16:00 ET",
       "homeTeam": {
         "name": "英格兰",
         "nameEn": "England",
@@ -491,10 +342,24 @@
       "oneLiner": "这场是流量局：英格兰牌面更厚，克罗地亚经验更硬；盯凯恩和贝林厄姆怎么破莫德里奇的慢节奏。",
       "predictionMarket": {
         "source": "Polymarket",
-        "status": "unavailable",
-        "asOf": "2026-06-17T14:00:00Z",
-        "note": "暂未找到英格兰 vs 克罗地亚对应的 Polymarket 单场胜平负市场，先不硬编概率。",
-        "outcomes": []
+        "status": "available",
+        "asOf": "2026-06-17T06:46:49Z",
+        "marketUrl": "https://polymarket.com/event/fifwc-eng-hrv-2026-06-17",
+        "note": "Polymarket 赛前 moneyline 仍给英格兰优势，但平局价格不低，说明这不是纯碾压盘。",
+        "outcomes": [
+          {
+            "label": "英格兰胜",
+            "probability": 56.5
+          },
+          {
+            "label": "平局",
+            "probability": 25.5
+          },
+          {
+            "label": "克罗地亚胜",
+            "probability": 17.5
+          }
+        ]
       },
       "conversationLines": [
         "英格兰这场不能只堆天才，得看凯恩回撤以后谁去冲禁区。",
@@ -512,6 +377,169 @@
         {
           "label": "B站搜索：英格兰 克罗地亚",
           "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E6%A0%BC%E5%85%B0%20%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A",
+          "type": "B站"
+        }
+      ]
+    },
+    {
+      "id": "ghana-panama",
+      "kickoffTime": "19:00 ET",
+      "homeTeam": {
+        "name": "加纳",
+        "nameEn": "Ghana",
+        "shortName": "加纳",
+        "shirtColor": "#FFFFFF",
+        "shirtLabel": "白衣",
+        "players": [
+          {
+            "name": "库杜斯",
+            "nameEn": "Mohammed Kudus",
+            "persona": "加纳前场最有爆点的人，能带、能冲、也能突然来一脚",
+            "hooks": [
+              {
+                "title": "左脚爆点",
+                "detail": "看到他在肋部拿球就可以说：加纳要想把比赛踢活，库杜斯必须把单点爆破打出来。",
+                "links": [
+                  {
+                    "label": "B站搜索：库杜斯 集锦",
+                    "url": "https://search.bilibili.com/all?keyword=%E5%BA%93%E6%9D%9C%E6%96%AF%20%E9%9B%86%E9%94%A6",
+                    "type": "B站"
+                  }
+                ]
+              },
+              {
+                "title": "嘴损一句",
+                "detail": "可以吐槽：加纳这场最怕库杜斯一个人把镜头感拉满，队友还没跟上剧情。",
+                "links": [
+                  {
+                    "label": "百度搜索：库杜斯 加纳",
+                    "url": "https://www.baidu.com/s?wd=%E5%BA%93%E6%9D%9C%E6%96%AF%20%E5%8A%A0%E7%BA%B3",
+                    "type": "搜索"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "20",
+            "position": "前场",
+            "imageStatus": "licensed",
+            "imageAlt": "库杜斯 照片",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mohammed%20Kudus%20of%20West%20Ham%20United.jpeg",
+            "imageCredit": "Wikimedia Commons",
+            "imageFocus": "50% 18%"
+          },
+          {
+            "name": "托马斯·帕尔特伊",
+            "nameEn": "Thomas Partey",
+            "persona": "加纳中场压舱石，比赛乱不乱很大程度看他能不能稳住第一脚出球",
+            "hooks": [
+              {
+                "title": "中场刹车",
+                "detail": "巴拿马如果把对抗提上来，可以说：这时候就看帕尔特伊能不能让加纳别跟着一起乱。",
+                "links": [
+                  {
+                    "label": "百度搜索：托马斯 帕尔特伊 加纳",
+                    "url": "https://www.baidu.com/s?wd=%E6%89%98%E9%A9%AC%E6%96%AF%20%E5%B8%95%E5%B0%94%E7%89%B9%E4%BC%8A%20%E5%8A%A0%E7%BA%B3",
+                    "type": "搜索"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "5",
+            "position": "中场",
+            "imageStatus": "licensed",
+            "imageAlt": "托马斯·帕尔特伊 照片",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/ATL-Madrid-Lokomotiv001-Thomas%20(cropped).jpg",
+            "imageCredit": "Wikimedia Commons",
+            "imageFocus": "50% 18%"
+          }
+        ]
+      },
+      "awayTeam": {
+        "name": "巴拿马",
+        "nameEn": "Panama",
+        "shortName": "巴拿马",
+        "shirtColor": "#D71920",
+        "shirtLabel": "红衣",
+        "players": [
+          {
+            "name": "卡拉斯基利亚",
+            "nameEn": "Adalberto Carrasquilla",
+            "persona": "巴拿马中场核心，队友负责拼，他负责把球处理得像有计划",
+            "hooks": [
+              {
+                "title": "小队大脑",
+                "detail": "不懂巴拿马就盯他：他能不能把球从压力里摘出来，决定巴拿马是不是只剩硬扛。",
+                "links": [
+                  {
+                    "label": "B站搜索：卡拉斯基利亚 巴拿马",
+                    "url": "https://search.bilibili.com/all?keyword=%E5%8D%A1%E6%8B%89%E6%96%AF%E5%9F%BA%E5%88%A9%E4%BA%9A%20%E5%B7%B4%E6%8B%BF%E9%A9%AC",
+                    "type": "B站"
+                  }
+                ]
+              },
+              {
+                "title": "嘴损一句",
+                "detail": "可以说巴拿马不是没技术，只是经常踢着踢着就像把比赛切到肉搏频道。",
+                "links": [
+                  {
+                    "label": "百度搜索：卡拉斯基利亚 巴拿马",
+                    "url": "https://www.baidu.com/s?wd=%E5%8D%A1%E6%8B%89%E6%96%AF%E5%9F%BA%E5%88%A9%E4%BA%9A%20%E5%B7%B4%E6%8B%BF%E9%A9%AC",
+                    "type": "搜索"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "8",
+            "position": "中场",
+            "imageStatus": "licensed",
+            "imageAlt": "卡拉斯基利亚 照片",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Inter%20Miami%20CF%203-1%20UNAM%20(6%20August%202025)%2027%20(cropped).jpg",
+            "imageCredit": "Wikimedia Commons",
+            "imageFocus": "50% 18%"
+          }
+        ]
+      },
+      "oneLiner": "这场别只说加纳身体好：加纳有库杜斯这种爆点，巴拿马也不是纯挨打，关键看中场能不能把对抗踢成节奏。",
+      "predictionMarket": {
+        "source": "Polymarket",
+        "status": "available",
+        "asOf": "2026-06-17T06:46:49Z",
+        "marketUrl": "https://polymarket.com/event/fifwc-gha-pan-2026-06-17",
+        "note": "Polymarket 赛前 moneyline 略偏加纳，平局和巴拿马几乎同价，市场认为这场很容易打紧。",
+        "outcomes": [
+          {
+            "label": "加纳胜",
+            "probability": 41.5
+          },
+          {
+            "label": "平局",
+            "probability": 29.5
+          },
+          {
+            "label": "巴拿马胜",
+            "probability": 29.5
+          }
+        ]
+      },
+      "conversationLines": [
+        "加纳不是只靠身体，库杜斯这种前场持球点很适合把比赛突然提速。",
+        "巴拿马如果能把比赛切碎，加纳会踢得没那么舒服。",
+        "这场看起来星味不如英格兰和葡萄牙，但对抗强度可能很足。",
+        "如果卡拉斯基利亚能稳住中场，巴拿马就不会只是被动解围。"
+      ],
+      "dontSay": "别说巴拿马就是送分队。世界杯小组赛第一场，能把节奏拖乱的队很烦。",
+      "sourceLinks": [
+        {
+          "label": "百度搜索：加纳 巴拿马 世界杯",
+          "url": "https://www.baidu.com/s?wd=%E5%8A%A0%E7%BA%B3%20%E5%B7%B4%E6%8B%BF%E9%A9%AC%20%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "type": "搜索"
+        },
+        {
+          "label": "B站搜索：加纳 巴拿马",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8A%A0%E7%BA%B3%20%E5%B7%B4%E6%8B%BF%E9%A9%AC",
           "type": "B站"
         }
       ]
@@ -667,21 +695,21 @@
       "predictionMarket": {
         "source": "Polymarket",
         "status": "available",
-        "asOf": "2026-06-17T14:00:00Z",
+        "asOf": "2026-06-17T06:46:49Z",
         "marketUrl": "https://polymarket.com/event/fifwc-uzb-col-2026-06-17",
-        "note": "赛前市场明显偏向哥伦比亚，乌兹别克斯坦主要看反击和定位球冷门线。",
+        "note": "Polymarket 赛前 moneyline 明显看好哥伦比亚，乌兹别克斯坦主要是冷门和守平叙事。",
         "outcomes": [
           {
             "label": "乌兹别克斯坦胜",
-            "probability": 10
+            "probability": 9.5
           },
           {
             "label": "平局",
-            "probability": 21
+            "probability": 19.5
           },
           {
             "label": "哥伦比亚胜",
-            "probability": 71
+            "probability": 70.5
           }
         ]
       },
@@ -711,54 +739,110 @@
     "matches": [
       {
         "id": "czechia-south-africa",
-        "kickoffTime": "待确认 ET",
+        "kickoffTime": "12:00 ET",
         "homeTeam": "捷克",
         "awayTeam": "南非",
         "predictionMarket": {
           "source": "Polymarket",
-          "status": "unavailable",
-          "asOf": "2026-06-17T14:00:00Z",
-          "note": "暂未找到捷克 vs 南非对应的 Polymarket 单场胜平负市场，先不硬编概率。",
-          "outcomes": []
+          "status": "available",
+          "asOf": "2026-06-17T06:46:49Z",
+          "marketUrl": "https://polymarket.com/event/fifwc-cze-rsa-2026-06-18",
+          "note": "Polymarket 赛前 moneyline 看好捷克，南非是明显下风，平局仍有不低空间。",
+          "outcomes": [
+            {
+              "label": "捷克胜",
+              "probability": 54.5
+            },
+            {
+              "label": "平局",
+              "probability": 25.5
+            },
+            {
+              "label": "南非胜",
+              "probability": 20.5
+            }
+          ]
         }
       },
       {
         "id": "switzerland-bosnia",
-        "kickoffTime": "待确认 ET",
+        "kickoffTime": "15:00 ET",
         "homeTeam": "瑞士",
         "awayTeam": "波黑",
         "predictionMarket": {
           "source": "Polymarket",
-          "status": "unavailable",
-          "asOf": "2026-06-17T14:00:00Z",
-          "note": "暂未找到瑞士 vs 波黑对应的 Polymarket 单场胜平负市场，先不硬编概率。",
-          "outcomes": []
+          "status": "available",
+          "asOf": "2026-06-17T06:46:49Z",
+          "marketUrl": "https://polymarket.com/event/fifwc-che-bih-2026-06-18",
+          "note": "Polymarket 赛前 moneyline 明显偏瑞士，波黑胜赔对应概率偏低。",
+          "outcomes": [
+            {
+              "label": "瑞士胜",
+              "probability": 62.5
+            },
+            {
+              "label": "平局",
+              "probability": 23.5
+            },
+            {
+              "label": "波黑胜",
+              "probability": 14.5
+            }
+          ]
         }
       },
       {
         "id": "canada-qatar",
-        "kickoffTime": "待确认 ET",
+        "kickoffTime": "18:00 ET",
         "homeTeam": "加拿大",
         "awayTeam": "卡塔尔",
         "predictionMarket": {
           "source": "Polymarket",
-          "status": "unavailable",
-          "asOf": "2026-06-17T14:00:00Z",
-          "note": "暂未找到加拿大 vs 卡塔尔对应的 Polymarket 单场胜平负市场，先不硬编概率。",
-          "outcomes": []
+          "status": "available",
+          "asOf": "2026-06-17T06:46:49Z",
+          "marketUrl": "https://polymarket.com/event/fifwc-can-qat-2026-06-18",
+          "note": "Polymarket 赛前 moneyline 极度看好加拿大，卡塔尔是四场里最明显的冷门线之一。",
+          "outcomes": [
+            {
+              "label": "加拿大胜",
+              "probability": 75.5
+            },
+            {
+              "label": "平局",
+              "probability": 16.5
+            },
+            {
+              "label": "卡塔尔胜",
+              "probability": 8.5
+            }
+          ]
         }
       },
       {
         "id": "mexico-korea-republic",
-        "kickoffTime": "待确认 ET",
+        "kickoffTime": "21:00 ET",
         "homeTeam": "墨西哥",
         "awayTeam": "韩国",
         "predictionMarket": {
           "source": "Polymarket",
-          "status": "unavailable",
-          "asOf": "2026-06-17T14:00:00Z",
-          "note": "暂未找到墨西哥 vs 韩国对应的 Polymarket 单场胜平负市场，先不硬编概率。",
-          "outcomes": []
+          "status": "available",
+          "asOf": "2026-06-17T06:46:49Z",
+          "marketUrl": "https://polymarket.com/event/fifwc-mex-kr-2026-06-18",
+          "note": "Polymarket 赛前 moneyline 略偏墨西哥，但韩国和平局都不低，属于明天最接近的盘之一。",
+          "outcomes": [
+            {
+              "label": "墨西哥胜",
+              "probability": 48.5
+            },
+            {
+              "label": "平局",
+              "probability": 28.5
+            },
+            {
+              "label": "韩国胜",
+              "probability": 24.5
+            }
+          ]
         }
       }
     ]
