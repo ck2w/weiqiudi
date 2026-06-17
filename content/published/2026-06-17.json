@@ -1,0 +1,766 @@
+{
+  "date": "2026-06-17",
+  "displayDate": "2026 年 6 月 17 日",
+  "headline": "今天 K 组和 L 组开张：英格兰、葡萄牙最吸睛，另外两场别只看队名。",
+  "matches": [
+    {
+      "id": "portugal-dr-congo",
+      "kickoffTime": "16:00 ET",
+      "homeTeam": {
+        "name": "葡萄牙",
+        "nameEn": "Portugal",
+        "shortName": "葡萄牙",
+        "shirtColor": "#C8102E",
+        "shirtLabel": "红衣",
+        "players": [
+          {
+            "name": "C罗",
+            "nameEn": "Cristiano Ronaldo",
+            "persona": "葡萄牙最大流量，也是最后一届世界杯叙事的天然主角",
+            "hooks": [
+              {
+                "title": "第六届世界杯",
+                "detail": "只要镜头给到他，就可以说：葡萄牙这届不只是争成绩，也在给 C罗 的世界杯故事收尾。",
+                "links": [
+                  {
+                    "label": "B站搜索：C罗 世界杯",
+                    "url": "https://search.bilibili.com/all?keyword=C%E7%BD%97%20%E4%B8%96%E7%95%8C%E6%9D%AF",
+                    "type": "B站"
+                  }
+                ]
+              },
+              {
+                "title": "嘴损一句",
+                "detail": "可以吐槽：葡萄牙最难的不是没人会踢，是全队怎么在致敬传奇和踢出现代足球之间找平衡。",
+                "links": [
+                  {
+                    "label": "百度搜索：C罗 葡萄牙 梗",
+                    "url": "https://www.baidu.com/s?wd=C%E7%BD%97%20%E8%91%A1%E8%90%84%E7%89%99%20%E6%A2%97",
+                    "type": "搜索"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "7",
+            "position": "前锋",
+            "imageStatus": "licensed",
+            "imageAlt": "C罗 照片",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/President%20Donald%20Trump%20meets%20with%20Cristiano%20Ronaldo%20in%20the%20Oval%20Office%20(54933344262)%20(cropped%20and%20rotated).jpg",
+            "imageCredit": "Wikimedia Commons",
+            "imageFocus": "50% 18%"
+          },
+          {
+            "name": "布鲁诺·费尔南德斯",
+            "nameEn": "Bruno Fernandes",
+            "persona": "葡萄牙中前场发动机，传威胁球和远射都很抢镜",
+            "hooks": [
+              {
+                "title": "葡萄牙说明书",
+                "detail": "如果葡萄牙围攻，可以说：B费这脚最后一传质量，决定他们是压制还是纯倒脚。",
+                "links": [
+                  {
+                    "label": "B站搜索：布鲁诺 费尔南德斯 葡萄牙",
+                    "url": "https://search.bilibili.com/all?keyword=%E5%B8%83%E9%B2%81%E8%AF%BA%20%E8%B4%B9%E5%B0%94%E5%8D%97%E5%BE%B7%E6%96%AF%20%E8%91%A1%E8%90%84%E7%89%99",
+                    "type": "B站"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "8",
+            "position": "中场",
+            "imageStatus": "licensed",
+            "imageAlt": "布鲁诺·费尔南德斯 照片",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bruno%20Fernandes%20USMNT%20v%20Portugal%20Mar%2031%202026-27%20(cropped).jpg",
+            "imageCredit": "Wikimedia Commons",
+            "imageFocus": "50% 18%"
+          }
+        ]
+      },
+      "awayTeam": {
+        "name": "刚果民主共和国",
+        "nameEn": "DR Congo",
+        "shortName": "刚果（金）",
+        "shirtColor": "#007FFF",
+        "shirtLabel": "蓝衣",
+        "players": [
+          {
+            "name": "维萨",
+            "nameEn": "Yoane Wissa",
+            "persona": "刚果（金）前场反击点，跑起来以后能把葡萄牙后防拖进回追",
+            "hooks": [
+              {
+                "title": "反击别漏人",
+                "detail": "葡萄牙压上时可以盯他：刚果（金）要偷机会，最现实就是找维萨身后的冲刺。",
+                "links": [
+                  {
+                    "label": "百度搜索：维萨 刚果民主共和国 足球",
+                    "url": "https://www.baidu.com/s?wd=%E7%BB%B4%E8%90%A8%20%E5%88%9A%E6%9E%9C%E6%B0%91%E4%B8%BB%E5%85%B1%E5%92%8C%E5%9B%BD%20%E8%B6%B3%E7%90%83",
+                    "type": "搜索"
+                  }
+                ]
+              },
+              {
+                "title": "嘴损一句",
+                "detail": "可以说刚果（金）最想要的不是控球，是让葡萄牙后卫突然发现自己站得太靠前。",
+                "links": [
+                  {
+                    "label": "B站搜索：维萨 集锦",
+                    "url": "https://search.bilibili.com/all?keyword=%E7%BB%B4%E8%90%A8%20%E9%9B%86%E9%94%A6",
+                    "type": "B站"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "20",
+            "position": "前锋",
+            "imageStatus": "licensed",
+            "imageAlt": "维萨 照片",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/CAN%202023RD%20Congo%202-1%20Guin%C3%A9e%209939%20(cropped).jpg",
+            "imageCredit": "Wikimedia Commons",
+            "imageFocus": "50% 16%"
+          },
+          {
+            "name": "姆本巴",
+            "nameEn": "Chancel Mbemba",
+            "persona": "刚果（金）后防领袖，最需要他把禁区对抗撑住",
+            "hooks": [
+              {
+                "title": "禁区老大",
+                "detail": "葡萄牙传中变多时可以说：姆本巴这场就是刚果（金）禁区里的消防队长。",
+                "links": [
+                  {
+                    "label": "百度搜索：姆本巴 刚果民主共和国",
+                    "url": "https://www.baidu.com/s?wd=%E5%A7%86%E6%9C%AC%E5%B7%B4%20%E5%88%9A%E6%9E%9C%E6%B0%91%E4%B8%BB%E5%85%B1%E5%92%8C%E5%9B%BD",
+                    "type": "搜索"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "22",
+            "position": "后卫",
+            "imageStatus": "licensed",
+            "imageAlt": "姆本巴 照片",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/24BBRW%20-%2053535940590%20(cropped).jpg",
+            "imageCredit": "Wikimedia Commons",
+            "imageFocus": "50% 18%"
+          }
+        ]
+      },
+      "oneLiner": "葡萄牙牌面明显更强，但这场别只看 C罗：B费怎么喂球、刚果（金）能不能用维萨打身后，才是聊天抓手。",
+      "predictionMarket": {
+        "source": "Polymarket",
+        "status": "unavailable",
+        "asOf": "2026-06-17T14:00:00Z",
+        "note": "暂未找到葡萄牙 vs 刚果民主共和国对应的 Polymarket 单场胜平负市场，先不硬编概率。",
+        "outcomes": []
+      },
+      "conversationLines": [
+        "葡萄牙这阵容不缺技术，关键是别把比赛踢成所有人都等 C罗 镜头。",
+        "B费如果能在禁区前沿持续送威胁球，刚果（金）会很难一直缩住。",
+        "刚果（金）最现实的机会是反击和定位球，不会跟葡萄牙比控球好看。",
+        "葡萄牙压得越靠上，越要小心身后被维萨这种速度点钻一下。"
+      ],
+      "dontSay": "别说葡萄牙只剩 C罗。现在葡萄牙中后场人才很厚，C罗是最大叙事，但不是唯一战术点。",
+      "sourceLinks": [
+        {
+          "label": "百度搜索：葡萄牙 刚果民主共和国 世界杯",
+          "url": "https://www.baidu.com/s?wd=%E8%91%A1%E8%90%84%E7%89%99%20%E5%88%9A%E6%9E%9C%E6%B0%91%E4%B8%BB%E5%85%B1%E5%92%8C%E5%9B%BD%20%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "type": "搜索"
+        },
+        {
+          "label": "B站搜索：葡萄牙 刚果民主共和国",
+          "url": "https://search.bilibili.com/all?keyword=%E8%91%A1%E8%90%84%E7%89%99%20%E5%88%9A%E6%9E%9C%E6%B0%91%E4%B8%BB%E5%85%B1%E5%92%8C%E5%9B%BD",
+          "type": "B站"
+        }
+      ]
+    },
+    {
+      "id": "ghana-panama",
+      "kickoffTime": "19:00 ET",
+      "homeTeam": {
+        "name": "加纳",
+        "nameEn": "Ghana",
+        "shortName": "加纳",
+        "shirtColor": "#FFFFFF",
+        "shirtLabel": "白衣",
+        "players": [
+          {
+            "name": "库杜斯",
+            "nameEn": "Mohammed Kudus",
+            "persona": "加纳前场最有爆点的人，能带、能冲、也能突然来一脚",
+            "hooks": [
+              {
+                "title": "左脚爆点",
+                "detail": "看到他在肋部拿球就可以说：加纳要想把比赛踢活，库杜斯必须把单点爆破打出来。",
+                "links": [
+                  {
+                    "label": "B站搜索：库杜斯 集锦",
+                    "url": "https://search.bilibili.com/all?keyword=%E5%BA%93%E6%9D%9C%E6%96%AF%20%E9%9B%86%E9%94%A6",
+                    "type": "B站"
+                  }
+                ]
+              },
+              {
+                "title": "嘴损一句",
+                "detail": "可以吐槽：加纳这场最怕库杜斯一个人把镜头感拉满，队友还没跟上剧情。",
+                "links": [
+                  {
+                    "label": "百度搜索：库杜斯 加纳",
+                    "url": "https://www.baidu.com/s?wd=%E5%BA%93%E6%9D%9C%E6%96%AF%20%E5%8A%A0%E7%BA%B3",
+                    "type": "搜索"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "20",
+            "position": "前场",
+            "imageStatus": "licensed",
+            "imageAlt": "库杜斯 照片",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mohammed%20Kudus%20of%20West%20Ham%20United.jpeg",
+            "imageCredit": "Wikimedia Commons",
+            "imageFocus": "50% 18%"
+          },
+          {
+            "name": "托马斯·帕尔特伊",
+            "nameEn": "Thomas Partey",
+            "persona": "加纳中场压舱石，比赛乱不乱很大程度看他能不能稳住第一脚出球",
+            "hooks": [
+              {
+                "title": "中场刹车",
+                "detail": "巴拿马如果把对抗提上来，可以说：这时候就看帕尔特伊能不能让加纳别跟着一起乱。",
+                "links": [
+                  {
+                    "label": "百度搜索：托马斯 帕尔特伊 加纳",
+                    "url": "https://www.baidu.com/s?wd=%E6%89%98%E9%A9%AC%E6%96%AF%20%E5%B8%95%E5%B0%94%E7%89%B9%E4%BC%8A%20%E5%8A%A0%E7%BA%B3",
+                    "type": "搜索"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "5",
+            "position": "中场",
+            "imageStatus": "licensed",
+            "imageAlt": "托马斯·帕尔特伊 照片",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/ATL-Madrid-Lokomotiv001-Thomas%20(cropped).jpg",
+            "imageCredit": "Wikimedia Commons",
+            "imageFocus": "50% 18%"
+          }
+        ]
+      },
+      "awayTeam": {
+        "name": "巴拿马",
+        "nameEn": "Panama",
+        "shortName": "巴拿马",
+        "shirtColor": "#D71920",
+        "shirtLabel": "红衣",
+        "players": [
+          {
+            "name": "卡拉斯基利亚",
+            "nameEn": "Adalberto Carrasquilla",
+            "persona": "巴拿马中场核心，队友负责拼，他负责把球处理得像有计划",
+            "hooks": [
+              {
+                "title": "小队大脑",
+                "detail": "不懂巴拿马就盯他：他能不能把球从压力里摘出来，决定巴拿马是不是只剩硬扛。",
+                "links": [
+                  {
+                    "label": "B站搜索：卡拉斯基利亚 巴拿马",
+                    "url": "https://search.bilibili.com/all?keyword=%E5%8D%A1%E6%8B%89%E6%96%AF%E5%9F%BA%E5%88%A9%E4%BA%9A%20%E5%B7%B4%E6%8B%BF%E9%A9%AC",
+                    "type": "B站"
+                  }
+                ]
+              },
+              {
+                "title": "嘴损一句",
+                "detail": "可以说巴拿马不是没技术，只是经常踢着踢着就像把比赛切到肉搏频道。",
+                "links": [
+                  {
+                    "label": "百度搜索：卡拉斯基利亚 巴拿马",
+                    "url": "https://www.baidu.com/s?wd=%E5%8D%A1%E6%8B%89%E6%96%AF%E5%9F%BA%E5%88%A9%E4%BA%9A%20%E5%B7%B4%E6%8B%BF%E9%A9%AC",
+                    "type": "搜索"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "8",
+            "position": "中场",
+            "imageStatus": "licensed",
+            "imageAlt": "卡拉斯基利亚 照片",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Inter%20Miami%20CF%203-1%20UNAM%20(6%20August%202025)%2027%20(cropped).jpg",
+            "imageCredit": "Wikimedia Commons",
+            "imageFocus": "50% 18%"
+          }
+        ]
+      },
+      "oneLiner": "这场别只说加纳身体好：加纳有库杜斯这种爆点，巴拿马也不是纯挨打，关键看中场能不能把对抗踢成节奏。",
+      "predictionMarket": {
+        "source": "Polymarket",
+        "status": "available",
+        "asOf": "2026-06-17T14:00:00Z",
+        "marketUrl": "https://polymarket.com/event/fifwc-gha-pan-2026-06-17",
+        "note": "赛前市场略偏加纳，但巴拿马平局线不低。",
+        "outcomes": [
+          {
+            "label": "加纳胜",
+            "probability": 45
+          },
+          {
+            "label": "平局",
+            "probability": 28
+          },
+          {
+            "label": "巴拿马胜",
+            "probability": 28
+          }
+        ]
+      },
+      "conversationLines": [
+        "加纳不是只靠身体，库杜斯这种前场持球点很适合把比赛突然提速。",
+        "巴拿马如果能把比赛切碎，加纳会踢得没那么舒服。",
+        "这场看起来星味不如英格兰和葡萄牙，但对抗强度可能很足。",
+        "如果卡拉斯基利亚能稳住中场，巴拿马就不会只是被动解围。"
+      ],
+      "dontSay": "别说巴拿马就是送分队。世界杯小组赛第一场，能把节奏拖乱的队很烦。",
+      "sourceLinks": [
+        {
+          "label": "百度搜索：加纳 巴拿马 世界杯",
+          "url": "https://www.baidu.com/s?wd=%E5%8A%A0%E7%BA%B3%20%E5%B7%B4%E6%8B%BF%E9%A9%AC%20%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "type": "搜索"
+        },
+        {
+          "label": "B站搜索：加纳 巴拿马",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8A%A0%E7%BA%B3%20%E5%B7%B4%E6%8B%BF%E9%A9%AC",
+          "type": "B站"
+        }
+      ]
+    },
+    {
+      "id": "england-croatia",
+      "kickoffTime": "21:00 ET",
+      "homeTeam": {
+        "name": "英格兰",
+        "nameEn": "England",
+        "shortName": "英格兰",
+        "shirtColor": "#FFFFFF",
+        "shirtLabel": "白衣",
+        "players": [
+          {
+            "name": "凯恩",
+            "nameEn": "Harry Kane",
+            "persona": "英格兰队长和头号射手，不只等吃饼，也会回撤当半个组织者",
+            "hooks": [
+              {
+                "title": "中锋兼路由器",
+                "detail": "看到凯恩回撤拿球，可以说：英格兰不是没人传球，是凯恩自己也想当一次进攻路由器。",
+                "links": [
+                  {
+                    "label": "B站搜索：凯恩 英格兰 集锦",
+                    "url": "https://search.bilibili.com/all?keyword=%E5%87%AF%E6%81%A9%20%E8%8B%B1%E6%A0%BC%E5%85%B0%20%E9%9B%86%E9%94%A6",
+                    "type": "B站"
+                  }
+                ]
+              },
+              {
+                "title": "嘴损一句",
+                "detail": "可以吐槽：英格兰球迷最怕的不是凯恩没机会，是全队又开始把希望写成玄学论文。",
+                "links": [
+                  {
+                    "label": "百度搜索：凯恩 英格兰 梗",
+                    "url": "https://www.baidu.com/s?wd=%E5%87%AF%E6%81%A9%20%E8%8B%B1%E6%A0%BC%E5%85%B0%20%E6%A2%97",
+                    "type": "搜索"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "9",
+            "position": "前锋",
+            "imageStatus": "licensed",
+            "imageAlt": "凯恩 照片",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Harry%20Kane%20on%20October%2010%2C%202023.jpg",
+            "imageCredit": "Wikimedia Commons",
+            "imageFocus": "50% 18%"
+          },
+          {
+            "name": "贝林厄姆",
+            "nameEn": "Jude Bellingham",
+            "persona": "英格兰中前场最有巨星相的推进点，镜头感和存在感都很强",
+            "hooks": [
+              {
+                "title": "大场面脸",
+                "detail": "他只要在禁区前沿拿球，就可以说：这就是贝林厄姆的价值，英格兰需要有人把中场推进成威胁。",
+                "links": [
+                  {
+                    "label": "B站搜索：贝林厄姆 集锦",
+                    "url": "https://search.bilibili.com/all?keyword=%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%20%E9%9B%86%E9%94%A6",
+                    "type": "B站"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "10",
+            "position": "中场",
+            "imageStatus": "licensed",
+            "imageAlt": "贝林厄姆 照片",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/25th%20Laureus%20World%20Sports%20Awards%20-%20Red%20Carpet%20-%20Jude%20Bellingham%20-%20240422%20190551-2%20(cropped).jpg",
+            "imageCredit": "Wikimedia Commons",
+            "imageFocus": "50% 18%"
+          }
+        ]
+      },
+      "awayTeam": {
+        "name": "克罗地亚",
+        "nameEn": "Croatia",
+        "shortName": "克罗地亚",
+        "shirtColor": "#D71920",
+        "shirtLabel": "红白格",
+        "players": [
+          {
+            "name": "莫德里奇",
+            "nameEn": "Luka Modric",
+            "persona": "克罗地亚精神图腾，年龄越大越像比赛节奏管理员",
+            "hooks": [
+              {
+                "title": "老大师控速",
+                "detail": "看到莫德里奇慢悠悠转身，可以说：他不是慢，是在逼英格兰按他的节拍器走。",
+                "links": [
+                  {
+                    "label": "B站搜索：莫德里奇 克罗地亚",
+                    "url": "https://search.bilibili.com/all?keyword=%E8%8E%AB%E5%BE%B7%E9%87%8C%E5%A5%87%20%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A",
+                    "type": "B站"
+                  }
+                ]
+              },
+              {
+                "title": "嘴损一句",
+                "detail": "可以吐槽：克罗地亚这批人最可怕的地方，是你觉得他们该老了，他们又把比赛拖进加时的感觉踢出来。",
+                "links": [
+                  {
+                    "label": "百度搜索：莫德里奇 克罗地亚 梗",
+                    "url": "https://www.baidu.com/s?wd=%E8%8E%AB%E5%BE%B7%E9%87%8C%E5%A5%87%20%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%20%E6%A2%97",
+                    "type": "搜索"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "10",
+            "position": "中场",
+            "imageStatus": "licensed",
+            "imageAlt": "莫德里奇 照片",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ofrenda%20de%20la%20Liga%20y%20la%20Champions-57-L.Mill%C3%A1n%20(52109310843)%20(Luka%20Modri%C4%87).jpg",
+            "imageCredit": "Wikimedia Commons",
+            "imageFocus": "50% 18%"
+          },
+          {
+            "name": "格瓦迪奥尔",
+            "nameEn": "Josko Gvardiol",
+            "persona": "克罗地亚后防新门面，能防也能把球带到前面去",
+            "hooks": [
+              {
+                "title": "后卫会推进",
+                "detail": "英格兰如果压得太高，可以盯格瓦迪奥尔：他一旦带出来，克罗地亚反而能绕过第一道逼抢。",
+                "links": [
+                  {
+                    "label": "百度搜索：格瓦迪奥尔 克罗地亚",
+                    "url": "https://www.baidu.com/s?wd=%E6%A0%BC%E7%93%A6%E8%BF%AA%E5%A5%A5%E5%B0%94%20%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A",
+                    "type": "搜索"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "4",
+            "position": "后卫",
+            "imageStatus": "licensed",
+            "imageAlt": "格瓦迪奥尔 照片",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/2023-10-04%20Fu%C3%9Fball%2C%20M%C3%A4nner%2C%20UEFA%20Champions%20League%2C%20RB%20Leipzig%20-%20Manchester%20City%20FC%201DX%202611%20(Jo%C5%A1ko%20Gvardiol).jpg",
+            "imageCredit": "Wikimedia Commons",
+            "imageFocus": "50% 18%"
+          }
+        ]
+      },
+      "oneLiner": "这场是流量局：英格兰牌面更厚，克罗地亚经验更硬；盯凯恩和贝林厄姆怎么破莫德里奇的慢节奏。",
+      "predictionMarket": {
+        "source": "Polymarket",
+        "status": "unavailable",
+        "asOf": "2026-06-17T14:00:00Z",
+        "note": "暂未找到英格兰 vs 克罗地亚对应的 Polymarket 单场胜平负市场，先不硬编概率。",
+        "outcomes": []
+      },
+      "conversationLines": [
+        "英格兰这场不能只堆天才，得看凯恩回撤以后谁去冲禁区。",
+        "贝林厄姆如果能连续正面推进，克罗地亚中场会被迫退得更深。",
+        "克罗地亚最会把热门队拖进他们熟悉的慢节奏。",
+        "莫德里奇只要还在场上，克罗地亚就不会慌得太早。"
+      ],
+      "dontSay": "别只拿“英格兰纸面实力强”当结论。克罗地亚专治这种赛前看起来很好讲的比赛。",
+      "sourceLinks": [
+        {
+          "label": "百度搜索：英格兰 克罗地亚 世界杯",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E6%A0%BC%E5%85%B0%20%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%20%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "type": "搜索"
+        },
+        {
+          "label": "B站搜索：英格兰 克罗地亚",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E6%A0%BC%E5%85%B0%20%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A",
+          "type": "B站"
+        }
+      ]
+    },
+    {
+      "id": "uzbekistan-colombia",
+      "kickoffTime": "22:00 ET",
+      "homeTeam": {
+        "name": "乌兹别克斯坦",
+        "nameEn": "Uzbekistan",
+        "shortName": "乌兹别克斯坦",
+        "shirtColor": "#1E90FF",
+        "shirtLabel": "蓝衣",
+        "players": [
+          {
+            "name": "肖穆罗多夫",
+            "nameEn": "Eldor Shomurodov",
+            "persona": "乌兹别克斯坦锋线招牌，经验和支点作用都很关键",
+            "hooks": [
+              {
+                "title": "队史门面",
+                "detail": "看到乌兹别克斯坦长传找前场，可以说：肖穆罗多夫能不能把第一点拿住，是他们能不能喘口气的关键。",
+                "links": [
+                  {
+                    "label": "B站搜索：肖穆罗多夫 乌兹别克斯坦",
+                    "url": "https://search.bilibili.com/all?keyword=%E8%82%96%E7%A9%86%E7%BD%97%E5%A4%9A%E5%A4%AB%20%E4%B9%8C%E5%85%B9%E5%88%AB%E5%85%8B%E6%96%AF%E5%9D%A6",
+                    "type": "B站"
+                  }
+                ]
+              },
+              {
+                "title": "嘴损一句",
+                "detail": "可以吐槽：乌兹别克斯坦最怕不是没人拼，是拼了半天球又回到哥伦比亚脚下。",
+                "links": [
+                  {
+                    "label": "百度搜索：肖穆罗多夫 乌兹别克斯坦",
+                    "url": "https://www.baidu.com/s?wd=%E8%82%96%E7%A9%86%E7%BD%97%E5%A4%9A%E5%A4%AB%20%E4%B9%8C%E5%85%B9%E5%88%AB%E5%85%8B%E6%96%AF%E5%9D%A6",
+                    "type": "搜索"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "14",
+            "position": "前锋",
+            "imageStatus": "licensed",
+            "imageAlt": "肖穆罗多夫 照片",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Eldor%20Shomurodov%2014%20%C4%B0stanbul%20Ba%C5%9Fak%C5%9Fehir%20FK%2020250731%20(10)%20(cropped).jpg",
+            "imageCredit": "Wikimedia Commons",
+            "imageFocus": "50% 18%"
+          },
+          {
+            "name": "法伊祖拉耶夫",
+            "nameEn": "Abbosbek Fayzullaev",
+            "persona": "乌兹别克斯坦年轻前场活力点，能在边路和肋部制造一点意外",
+            "hooks": [
+              {
+                "title": "年轻变量",
+                "detail": "如果乌兹别克斯坦想打出反击层次，可以盯法伊祖拉耶夫的第一脚推进。",
+                "links": [
+                  {
+                    "label": "百度搜索：法伊祖拉耶夫 乌兹别克斯坦",
+                    "url": "https://www.baidu.com/s?wd=%E6%B3%95%E4%BC%8A%E7%A5%96%E6%8B%89%E8%80%B6%E5%A4%AB%20%E4%B9%8C%E5%85%B9%E5%88%AB%E5%85%8B%E6%96%AF%E5%9D%A6",
+                    "type": "搜索"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "22",
+            "position": "前场",
+            "imageStatus": "licensed",
+            "imageAlt": "法伊祖拉耶夫 照片",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Abbosbek%20Fayzullaev%2011%20%C4%B0stanbul%20Ba%C5%9Fak%C5%9Fehir%20FK%20UECL%2020250821%20(5).jpg",
+            "imageCredit": "Wikimedia Commons",
+            "imageFocus": "50% 18%"
+          }
+        ]
+      },
+      "awayTeam": {
+        "name": "哥伦比亚",
+        "nameEn": "Colombia",
+        "shortName": "哥伦比亚",
+        "shirtColor": "#FFD100",
+        "shirtLabel": "黄衣",
+        "players": [
+          {
+            "name": "路易斯·迪亚斯",
+            "nameEn": "Luis Diaz",
+            "persona": "哥伦比亚边路头号爆点，单挑能力和冲刺都很容易看懂",
+            "hooks": [
+              {
+                "title": "边路开锁",
+                "detail": "看到他左路拿球就可以说：迪亚斯这种一对一，就是哥伦比亚最直接的开锁方式。",
+                "links": [
+                  {
+                    "label": "B站搜索：路易斯 迪亚斯 哥伦比亚",
+                    "url": "https://search.bilibili.com/all?keyword=%E8%B7%AF%E6%98%93%E6%96%AF%20%E8%BF%AA%E4%BA%9A%E6%96%AF%20%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A",
+                    "type": "B站"
+                  }
+                ]
+              },
+              {
+                "title": "嘴损一句",
+                "detail": "可以吐槽：乌兹别克斯坦后卫最不想看到的画面，就是迪亚斯开始反复要求单挑。",
+                "links": [
+                  {
+                    "label": "百度搜索：路易斯 迪亚斯 哥伦比亚 梗",
+                    "url": "https://www.baidu.com/s?wd=%E8%B7%AF%E6%98%93%E6%96%AF%20%E8%BF%AA%E4%BA%9A%E6%96%AF%20%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%20%E6%A2%97",
+                    "type": "搜索"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "7",
+            "position": "前锋",
+            "imageStatus": "licensed",
+            "imageAlt": "路易斯·迪亚斯 照片",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/FC%20RB%20Salzburg%20gegen%20FC%20Bayern%20M%C3%BCnchen%20(2026-01-06%20Testspiel)%2040%20(Luiz%20D%C3%ADaz).jpg",
+            "imageCredit": "Wikimedia Commons",
+            "imageFocus": "50% 18%"
+          },
+          {
+            "name": "哈梅斯·罗德里格斯",
+            "nameEn": "James Rodriguez",
+            "persona": "哥伦比亚经典十号，左脚传球和定位球还是很有故事感",
+            "hooks": [
+              {
+                "title": "老十号滤镜",
+                "detail": "如果他送出斜传，可以说：哈梅斯现在不是全场飞奔型，但左脚视野还在。",
+                "links": [
+                  {
+                    "label": "B站搜索：哈梅斯 哥伦比亚",
+                    "url": "https://search.bilibili.com/all?keyword=%E5%93%88%E6%A2%85%E6%96%AF%20%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A",
+                    "type": "B站"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "10",
+            "position": "中场",
+            "imageStatus": "licensed",
+            "imageAlt": "哈梅斯·罗德里格斯 照片",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/James%20Rodriguez%202018.jpg",
+            "imageCredit": "Wikimedia Commons",
+            "imageFocus": "50% 18%"
+          }
+        ]
+      },
+      "oneLiner": "哥伦比亚更像热门，乌兹别克斯坦是世界杯新鲜感；看迪亚斯能不能早早打穿边路，乌兹别克斯坦能不能靠肖穆罗多夫顶住压力。",
+      "predictionMarket": {
+        "source": "Polymarket",
+        "status": "available",
+        "asOf": "2026-06-17T14:00:00Z",
+        "marketUrl": "https://polymarket.com/event/fifwc-uzb-col-2026-06-17",
+        "note": "赛前市场明显偏向哥伦比亚，乌兹别克斯坦主要看反击和定位球冷门线。",
+        "outcomes": [
+          {
+            "label": "乌兹别克斯坦胜",
+            "probability": 10
+          },
+          {
+            "label": "平局",
+            "probability": 21
+          },
+          {
+            "label": "哥伦比亚胜",
+            "probability": 71
+          }
+        ]
+      },
+      "conversationLines": [
+        "哥伦比亚这场最直接的威胁就是迪亚斯左路单挑。",
+        "乌兹别克斯坦不能一直退，退太深只会让哥伦比亚反复传中和二点进攻。",
+        "肖穆罗多夫如果能把长传第一点拿住，乌兹别克斯坦才有反击呼吸权。",
+        "哈梅斯现在看的是脚法和视野，不是让他全场硬跑。"
+      ],
+      "dontSay": "别把乌兹别克斯坦说成完全没机会。世界杯第一场，只要防线能撑住前 30 分钟，热门队也会急。",
+      "sourceLinks": [
+        {
+          "label": "百度搜索：乌兹别克斯坦 哥伦比亚 世界杯",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%B9%E5%88%AB%E5%85%8B%E6%96%AF%E5%9D%A6%20%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%20%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "type": "搜索"
+        },
+        {
+          "label": "B站搜索：乌兹别克斯坦 哥伦比亚",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B9%8C%E5%85%B9%E5%88%AB%E5%85%8B%E6%96%AF%E5%9D%A6%20%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A",
+          "type": "B站"
+        }
+      ]
+    }
+  ],
+  "tomorrow": {
+    "displayDate": "2026 年 6 月 18 日",
+    "matches": [
+      {
+        "id": "czechia-south-africa",
+        "kickoffTime": "待确认 ET",
+        "homeTeam": "捷克",
+        "awayTeam": "南非",
+        "predictionMarket": {
+          "source": "Polymarket",
+          "status": "unavailable",
+          "asOf": "2026-06-17T14:00:00Z",
+          "note": "暂未找到捷克 vs 南非对应的 Polymarket 单场胜平负市场，先不硬编概率。",
+          "outcomes": []
+        }
+      },
+      {
+        "id": "switzerland-bosnia",
+        "kickoffTime": "待确认 ET",
+        "homeTeam": "瑞士",
+        "awayTeam": "波黑",
+        "predictionMarket": {
+          "source": "Polymarket",
+          "status": "unavailable",
+          "asOf": "2026-06-17T14:00:00Z",
+          "note": "暂未找到瑞士 vs 波黑对应的 Polymarket 单场胜平负市场，先不硬编概率。",
+          "outcomes": []
+        }
+      },
+      {
+        "id": "canada-qatar",
+        "kickoffTime": "待确认 ET",
+        "homeTeam": "加拿大",
+        "awayTeam": "卡塔尔",
+        "predictionMarket": {
+          "source": "Polymarket",
+          "status": "unavailable",
+          "asOf": "2026-06-17T14:00:00Z",
+          "note": "暂未找到加拿大 vs 卡塔尔对应的 Polymarket 单场胜平负市场，先不硬编概率。",
+          "outcomes": []
+        }
+      },
+      {
+        "id": "mexico-korea-republic",
+        "kickoffTime": "待确认 ET",
+        "homeTeam": "墨西哥",
+        "awayTeam": "韩国",
+        "predictionMarket": {
+          "source": "Polymarket",
+          "status": "unavailable",
+          "asOf": "2026-06-17T14:00:00Z",
+          "note": "暂未找到墨西哥 vs 韩国对应的 Polymarket 单场胜平负市场，先不硬编概率。",
+          "outcomes": []
+        }
+      }
+    ]
+  }
+}
