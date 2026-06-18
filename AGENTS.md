@@ -26,5 +26,8 @@ The non-negotiable rules are:
   viewers. Do not present market probabilities as betting advice.
 - Run `npm run validate:content` and `npm run build` before committing. Do not
   commit or push when either command fails.
+- Do not start a local dev server, open a browser, or provide a preview for a
+  routine daily content update unless the user explicitly requests a preview.
 - Review the diff for accidental changes, then commit and push only the files
-  belonging to the requested update.
+  belonging to the requested update. Commit and push are the default final
+  steps for daily content updates; do not wait for a separate request.

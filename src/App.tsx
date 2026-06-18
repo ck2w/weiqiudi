@@ -3,6 +3,7 @@ import guide20260614Data from "../content/published/2026-06-14.json";
 import guide20260615Data from "../content/published/2026-06-15.json";
 import guide20260616Data from "../content/published/2026-06-16.json";
 import guide20260617Data from "../content/published/2026-06-17.json";
+import guide20260618Data from "../content/published/2026-06-18.json";
 import type {
   DailyGuide,
   KeyPlayer,
@@ -18,6 +19,7 @@ const publishedGuides = [
   guide20260615Data,
   guide20260616Data,
   guide20260617Data,
+  guide20260618Data,
 ] as DailyGuide[];
 
 const guidesByDate = new Map(publishedGuides.map((guide) => [guide.date, guide]));

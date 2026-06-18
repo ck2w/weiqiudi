@@ -18,7 +18,7 @@ A complete update covers:
 - concise Chinese conversation hooks and source links;
 - fresh Polymarket moneyline probabilities for every match where a market
   exists;
-- repository validation, build, commit, and push when requested.
+- repository validation, build, commit, and push.
 
 Unless the user explicitly asks for a visual or schema change, update content
 only. Preserve the existing React components, types, and page styling.
@@ -209,9 +209,13 @@ Validation passing is necessary but not sufficient: the validator cannot prove
 that a photo shows the right person, a market belongs to the right match, or a
 schedule source is current.
 
-## Commit and Push
+## Preview, Commit, and Push
 
-When commit and push are requested:
+Do not start a local development server, open a browser, or provide a preview
+for a routine daily content update unless the user explicitly asks for one.
+Validation and a production build are the default verification path.
+
+Commit and push are the default final steps for every daily content update:
 
 1. Check `git status` and inspect the diff.
 2. Stage only files belonging to the update.
