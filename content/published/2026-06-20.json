@@ -1,0 +1,504 @@
+{
+  "date": "2026-06-20",
+  "displayDate": "2026 年 6 月 20 日",
+  "headline": "今天从欧洲强强对话看到午夜：荷兰碰瑞典最均衡，德国和厄瓜多尔更被市场看好，日本最后压轴。",
+  "matches": [
+    {
+      "id": "netherlands-sweden",
+      "kickoffTime": "13:00 ET",
+      "homeTeam": {
+        "name": "荷兰",
+        "nameEn": "Netherlands",
+        "shortName": "荷兰",
+        "shirtColor": "#F36C21",
+        "shirtLabel": "橙衣",
+        "players": [
+          {
+            "name": "维吉尔·范戴克",
+            "nameEn": "Virgil van Dijk",
+            "persona": "荷兰后防的定海神针，既负责正面防守，也承担从后场把球稳稳送出去",
+            "hooks": [
+              {
+                "title": "后场指挥官",
+                "detail": "荷兰压上时盯住他：范戴克站位越靠前，说明球队越敢把瑞典压在半场。",
+                "links": [
+                  {
+                    "label": "B站搜索：范戴克 荷兰",
+                    "url": "https://search.bilibili.com/all?keyword=范戴克%20荷兰",
+                    "type": "B站"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "4",
+            "position": "后卫",
+            "imageStatus": "licensed",
+            "imageAlt": "维吉尔·范戴克比赛照片",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Virgil%20van%20Dijk%2004012026%20(2).jpg",
+            "imageCredit": "Timmy96 / Wikimedia Commons",
+            "imageFocus": "50% 16%"
+          }
+        ]
+      },
+      "awayTeam": {
+        "name": "瑞典",
+        "nameEn": "Sweden",
+        "shortName": "瑞典",
+        "shirtColor": "#FFCD00",
+        "shirtLabel": "黄衣",
+        "players": [
+          {
+            "name": "亚历山大·伊萨克",
+            "nameEn": "Alexander Isak",
+            "persona": "瑞典锋线最灵活的终结点，既能背身接球，也会突然钻进中卫身后的空当",
+            "hooks": [
+              {
+                "title": "移动型中锋",
+                "detail": "伊萨克拉到边路时别以为他远离球门，他经常靠这一步先把中卫带出位置。",
+                "links": [
+                  {
+                    "label": "百度搜索：伊萨克 瑞典",
+                    "url": "https://www.baidu.com/s?wd=伊萨克%20瑞典",
+                    "type": "搜索"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "9",
+            "position": "前锋",
+            "imageStatus": "licensed",
+            "imageAlt": "亚历山大·伊萨克代表瑞典比赛的照片",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Alexander%20Isak%20-%20Sweden%20-%20Greece21%20(cropped).jpg",
+            "imageCredit": "Mikael Hervestad / Wikimedia Commons",
+            "imageFocus": "50% 16%"
+          }
+        ]
+      },
+      "oneLiner": "荷兰想靠控球和边路持续施压，瑞典则会用更直接的纵向推进寻找伊萨克。",
+      "predictionMarket": {
+        "source": "Polymarket",
+        "status": "available",
+        "asOf": "2026-06-20T04:11:22Z",
+        "marketUrl": "https://polymarket.com/event/fifwc-nld-swe-2026-06-20",
+        "note": "Polymarket 赛前 moneyline 偏荷兰，但瑞典仍有接近两成胜率。",
+        "outcomes": [
+          { "label": "荷兰胜", "probability": 57.5 },
+          { "label": "平局", "probability": 23.5 },
+          { "label": "瑞典胜", "probability": 19.5 }
+        ]
+      },
+      "conversationLines": [
+        "荷兰能不能把阵线压高，先看范戴克是否敢长期站到中圈附近。",
+        "瑞典反击最值得盯的是伊萨克的第一步，他不需要太多空间就能完成转身。",
+        "市场虽然偏荷兰，但这是今天四场里胜负最没有拉开的对决。"
+      ],
+      "dontSay": "别把瑞典理解成只会高球轰炸。他们的前锋移动和快速直塞同样是主要武器。",
+      "sourceLinks": [
+        {
+          "label": "百度搜索：荷兰 瑞典 世界杯",
+          "url": "https://www.baidu.com/s?wd=荷兰%20瑞典%20世界杯",
+          "type": "搜索"
+        },
+        {
+          "label": "B站搜索：荷兰 瑞典 足球",
+          "url": "https://search.bilibili.com/all?keyword=荷兰%20瑞典%20足球",
+          "type": "B站"
+        }
+      ]
+    },
+    {
+      "id": "germany-cote-divoire",
+      "kickoffTime": "16:00 ET",
+      "homeTeam": {
+        "name": "德国",
+        "nameEn": "Germany",
+        "shortName": "德国",
+        "shirtColor": "#FFFFFF",
+        "shirtLabel": "白衣",
+        "players": [
+          {
+            "name": "弗洛里安·维尔茨",
+            "nameEn": "Florian Wirtz",
+            "persona": "德国前场最会在狭小空间里转身的人，能用一脚传球突然改变进攻方向",
+            "hooks": [
+              {
+                "title": "肋部解题人",
+                "detail": "维尔茨在两条防线之间接到球时可以说：德国最危险的进攻往往从这次转身开始。",
+                "links": [
+                  {
+                    "label": "B站搜索：维尔茨 德国 集锦",
+                    "url": "https://search.bilibili.com/all?keyword=维尔茨%20德国%20集锦",
+                    "type": "B站"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "17",
+            "position": "中场",
+            "imageStatus": "licensed",
+            "imageAlt": "弗洛里安·维尔茨比赛照片",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Florian%20Wirtz%2004012026%20(1).jpg",
+            "imageCredit": "Timmy96 / Wikimedia Commons",
+            "imageFocus": "50% 14%"
+          }
+        ]
+      },
+      "awayTeam": {
+        "name": "科特迪瓦",
+        "nameEn": "Cote d'Ivoire",
+        "shortName": "科特迪瓦",
+        "shirtColor": "#F77F00",
+        "shirtLabel": "橙衣",
+        "players": [
+          {
+            "name": "阿马德·迪亚洛",
+            "nameEn": "Amad Diallo",
+            "persona": "科特迪瓦右路的左脚突破点，带球内切时能自己射，也能给队友送出最后一传",
+            "hooks": [
+              {
+                "title": "反击出口",
+                "detail": "科特迪瓦抢断后第一时间找阿马德很合理，他是最能把一次解围变成进攻的人。",
+                "links": [
+                  {
+                    "label": "百度搜索：阿马德 迪亚洛 科特迪瓦",
+                    "url": "https://www.baidu.com/s?wd=阿马德%20迪亚洛%20科特迪瓦",
+                    "type": "搜索"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "15",
+            "position": "前锋",
+            "imageStatus": "licensed",
+            "imageAlt": "阿马德·迪亚洛比赛照片",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Manchester%20United%20v%20BSC%20Young%20Boys%2C%208%20December%202021%20(17)%20(cropped).jpg",
+            "imageCredit": "Ardfern / Wikimedia Commons",
+            "imageFocus": "50% 14%"
+          }
+        ]
+      },
+      "oneLiner": "德国会围绕禁区耐心找缝，科特迪瓦最现实的机会来自抢断后的快速推进。",
+      "predictionMarket": {
+        "source": "Polymarket",
+        "status": "available",
+        "asOf": "2026-06-20T04:11:22Z",
+        "marketUrl": "https://polymarket.com/event/fifwc-ger-civ-2026-06-20",
+        "note": "Polymarket 赛前 moneyline 明显偏德国，科特迪瓦处在下风线。",
+        "outcomes": [
+          { "label": "德国胜", "probability": 64.5 },
+          { "label": "平局", "probability": 20.5 },
+          { "label": "科特迪瓦胜", "probability": 15.5 }
+        ]
+      },
+      "conversationLines": [
+        "德国面对密集防守时，维尔茨在肋部的接球和转身会决定进攻能否提速。",
+        "科特迪瓦一旦抢下球，阿马德的左脚内切就是最直接的反击线路。",
+        "德国是明显热门，但身后空间给得太多，科特迪瓦有速度可以惩罚。"
+      ],
+      "dontSay": "别把科特迪瓦只归结为身体强。他们的边路球员有细腻脚下，也能完成快速小范围配合。",
+      "sourceLinks": [
+        {
+          "label": "百度搜索：德国 科特迪瓦 世界杯",
+          "url": "https://www.baidu.com/s?wd=德国%20科特迪瓦%20世界杯",
+          "type": "搜索"
+        },
+        {
+          "label": "B站搜索：德国 科特迪瓦 足球",
+          "url": "https://search.bilibili.com/all?keyword=德国%20科特迪瓦%20足球",
+          "type": "B站"
+        }
+      ]
+    },
+    {
+      "id": "ecuador-curacao",
+      "kickoffTime": "20:00 ET",
+      "homeTeam": {
+        "name": "厄瓜多尔",
+        "nameEn": "Ecuador",
+        "shortName": "厄瓜多尔",
+        "shirtColor": "#FFD100",
+        "shirtLabel": "黄衣",
+        "players": [
+          {
+            "name": "莫伊塞斯·凯塞多",
+            "nameEn": "Moises Caicedo",
+            "persona": "厄瓜多尔中场的覆盖核心，抢球、保护后场和把球向前送都离不开他",
+            "hooks": [
+              {
+                "title": "中场扫荡者",
+                "detail": "凯塞多如果不断在前场夺回球权，库拉索就很难真正把防线推出去。",
+                "links": [
+                  {
+                    "label": "B站搜索：凯塞多 厄瓜多尔",
+                    "url": "https://search.bilibili.com/all?keyword=凯塞多%20厄瓜多尔",
+                    "type": "B站"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "23",
+            "position": "中场",
+            "imageStatus": "licensed",
+            "imageAlt": "莫伊塞斯·凯塞多比赛照片",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Moises%20Caicedo%202022%20(cropped).jpg",
+            "imageCredit": "jamesboyes / Wikimedia Commons",
+            "imageFocus": "50% 15%"
+          }
+        ]
+      },
+      "awayTeam": {
+        "name": "库拉索",
+        "nameEn": "Curacao",
+        "shortName": "库拉索",
+        "shirtColor": "#002B7F",
+        "shirtLabel": "蓝衣",
+        "players": [
+          {
+            "name": "莱安德罗·巴库纳",
+            "nameEn": "Leandro Bacuna",
+            "persona": "库拉索中场最有经验的组织点，远射和定位球也是他们制造意外的办法",
+            "hooks": [
+              {
+                "title": "经验支点",
+                "detail": "库拉索控球机会不多，巴库纳每次定位球都可能是他们最接近球门的一刻。",
+                "links": [
+                  {
+                    "label": "百度搜索：巴库纳 库拉索",
+                    "url": "https://www.baidu.com/s?wd=巴库纳%20库拉索",
+                    "type": "搜索"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "10",
+            "position": "中场",
+            "imageStatus": "licensed",
+            "imageAlt": "莱安德罗·巴库纳比赛照片",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Leandro%20Bacuna.jpg",
+            "imageCredit": "Ben Sutherland / Wikimedia Commons",
+            "imageFocus": "50% 15%"
+          }
+        ]
+      },
+      "oneLiner": "厄瓜多尔会用压迫和跑动持续挤压空间，首次参赛的库拉索需要把有限反击做到极致。",
+      "predictionMarket": {
+        "source": "Polymarket",
+        "status": "available",
+        "asOf": "2026-06-20T04:11:22Z",
+        "marketUrl": "https://polymarket.com/event/fifwc-ecu-kor-2026-06-20",
+        "note": "Polymarket 赛前 moneyline 压倒性偏厄瓜多尔，库拉索是极深冷门。",
+        "outcomes": [
+          { "label": "厄瓜多尔胜", "probability": 87.5 },
+          { "label": "平局", "probability": 9.5 },
+          { "label": "库拉索胜", "probability": 4.15 }
+        ]
+      },
+      "conversationLines": [
+        "厄瓜多尔的优势不只在速度，凯塞多能让他们丢球后很快重新拿回控制。",
+        "库拉索想把比赛拖住，首先得减少后场出球时的无谓失误。",
+        "如果库拉索拿到前场定位球，巴库纳的处理会是最值得期待的冷门入口。"
+      ],
+      "dontSay": "别因为双方名气差距就说比赛没有看点。库拉索首次登上世界杯，本身就是这场最清楚的故事线。",
+      "sourceLinks": [
+        {
+          "label": "百度搜索：厄瓜多尔 库拉索 世界杯",
+          "url": "https://www.baidu.com/s?wd=厄瓜多尔%20库拉索%20世界杯",
+          "type": "搜索"
+        },
+        {
+          "label": "B站搜索：厄瓜多尔 库拉索 足球",
+          "url": "https://search.bilibili.com/all?keyword=厄瓜多尔%20库拉索%20足球",
+          "type": "B站"
+        }
+      ]
+    },
+    {
+      "id": "tunisia-japan",
+      "kickoffTime": "00:00 ET",
+      "homeTeam": {
+        "name": "突尼斯",
+        "nameEn": "Tunisia",
+        "shortName": "突尼斯",
+        "shirtColor": "#E70013",
+        "shirtLabel": "红衣",
+        "players": [
+          {
+            "name": "埃利耶斯·斯希里",
+            "nameEn": "Ellyes Skhiri",
+            "persona": "突尼斯中场的防守屏障，最擅长保护中路、争第二点并维持球队阵型",
+            "hooks": [
+              {
+                "title": "中路防波堤",
+                "detail": "日本在禁区前连续传递时盯住斯希里，他能否封住中路会决定突尼斯能守多久。",
+                "links": [
+                  {
+                    "label": "百度搜索：斯希里 突尼斯",
+                    "url": "https://www.baidu.com/s?wd=斯希里%20突尼斯",
+                    "type": "搜索"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "17",
+            "position": "中场",
+            "imageStatus": "licensed",
+            "imageAlt": "埃利耶斯·斯希里比赛照片",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/2021-08-08%20FC%20Carl%20Zeiss%20Jena%20gegen%201.%20FC%20K%C3%B6ln%20(DFB-Pokal)%20by%20Sandro%20Halank%E2%80%93182%20(cropped2).jpg",
+            "imageCredit": "Sandro Halank / Wikimedia Commons",
+            "imageFocus": "50% 13%"
+          }
+        ]
+      },
+      "awayTeam": {
+        "name": "日本",
+        "nameEn": "Japan",
+        "shortName": "日本",
+        "shirtColor": "#001E62",
+        "shirtLabel": "蓝衣",
+        "players": [
+          {
+            "name": "久保建英",
+            "nameEn": "Takefusa Kubo",
+            "persona": "日本前场最灵巧的左脚创造者，能在边路内切，也能钻进中路串联进攻",
+            "hooks": [
+              {
+                "title": "左脚创意点",
+                "detail": "久保在右侧拿球时可以看他下一步：往里走是射门和直塞，往外走则给队友腾出肋部。",
+                "links": [
+                  {
+                    "label": "B站搜索：久保建英 日本 集锦",
+                    "url": "https://search.bilibili.com/all?keyword=久保建英%20日本%20集锦",
+                    "type": "B站"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "8",
+            "position": "中场",
+            "imageStatus": "licensed",
+            "imageAlt": "久保建英照片",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Takefusa%20Kubo%202019.png",
+            "imageCredit": "Real Madrid / Wikimedia Commons",
+            "imageFocus": "50% 14%"
+          }
+        ]
+      },
+      "oneLiner": "突尼斯会收紧中路耐心防守，日本则靠连续跑位和短传寻找防线身后的缝隙。",
+      "predictionMarket": {
+        "source": "Polymarket",
+        "status": "available",
+        "asOf": "2026-06-20T04:11:22Z",
+        "marketUrl": "https://polymarket.com/event/fifwc-tun-jpn-2026-06-21",
+        "note": "Polymarket 赛前 moneyline 明显偏日本，突尼斯主要依靠防守制造悬念。",
+        "outcomes": [
+          { "label": "突尼斯胜", "probability": 13.5 },
+          { "label": "平局", "probability": 23.5 },
+          { "label": "日本胜", "probability": 63.5 }
+        ]
+      },
+      "conversationLines": [
+        "突尼斯的计划很清楚：先让中路保持紧凑，再等日本传球失误。",
+        "日本需要有人在两线之间接球，久保的左脚能让进攻方向突然改变。",
+        "这场名义上是午夜开球，按实际比赛顺序排在今天最后一场。"
+      ],
+      "dontSay": "别把日本的优势简单说成跑得多。他们真正难防的是跑位、接球和出球之间衔接得很快。",
+      "sourceLinks": [
+        {
+          "label": "百度搜索：突尼斯 日本 世界杯",
+          "url": "https://www.baidu.com/s?wd=突尼斯%20日本%20世界杯",
+          "type": "搜索"
+        },
+        {
+          "label": "B站搜索：突尼斯 日本 足球",
+          "url": "https://search.bilibili.com/all?keyword=突尼斯%20日本%20足球",
+          "type": "B站"
+        }
+      ]
+    }
+  ],
+  "tomorrow": {
+    "displayDate": "2026 年 6 月 21 日",
+    "matches": [
+      {
+        "id": "spain-saudi-arabia",
+        "kickoffTime": "12:00 ET",
+        "homeTeam": "西班牙",
+        "awayTeam": "沙特阿拉伯",
+        "predictionMarket": {
+          "source": "Polymarket",
+          "status": "available",
+          "asOf": "2026-06-20T04:11:22Z",
+          "marketUrl": "https://polymarket.com/event/fifwc-esp-ksa-2026-06-21",
+          "note": "Polymarket 赛前 moneyline 压倒性偏西班牙，沙特阿拉伯是极深冷门。",
+          "outcomes": [
+            { "label": "西班牙胜", "probability": 88.5 },
+            { "label": "平局", "probability": 8.5 },
+            { "label": "沙特阿拉伯胜", "probability": 3.75 }
+          ]
+        }
+      },
+      {
+        "id": "belgium-iran",
+        "kickoffTime": "15:00 ET",
+        "homeTeam": "比利时",
+        "awayTeam": "伊朗",
+        "predictionMarket": {
+          "source": "Polymarket",
+          "status": "available",
+          "asOf": "2026-06-20T04:11:22Z",
+          "marketUrl": "https://polymarket.com/event/fifwc-bel-irn-2026-06-21",
+          "note": "Polymarket 赛前 moneyline 明显偏比利时，伊朗处在下风线。",
+          "outcomes": [
+            { "label": "比利时胜", "probability": 67.5 },
+            { "label": "平局", "probability": 20.5 },
+            { "label": "伊朗胜", "probability": 11.5 }
+          ]
+        }
+      },
+      {
+        "id": "uruguay-cabo-verde",
+        "kickoffTime": "18:00 ET",
+        "homeTeam": "乌拉圭",
+        "awayTeam": "佛得角",
+        "predictionMarket": {
+          "source": "Polymarket",
+          "status": "available",
+          "asOf": "2026-06-20T04:11:22Z",
+          "marketUrl": "https://polymarket.com/event/fifwc-ury-cvi-2026-06-21",
+          "note": "Polymarket 赛前 moneyline 偏乌拉圭，佛得角需要制造明显冷门。",
+          "outcomes": [
+            { "label": "乌拉圭胜", "probability": 67.5 },
+            { "label": "平局", "probability": 22.5 },
+            { "label": "佛得角胜", "probability": 10.5 }
+          ]
+        }
+      },
+      {
+        "id": "new-zealand-egypt",
+        "kickoffTime": "21:00 ET",
+        "homeTeam": "新西兰",
+        "awayTeam": "埃及",
+        "predictionMarket": {
+          "source": "Polymarket",
+          "status": "available",
+          "asOf": "2026-06-20T04:11:22Z",
+          "marketUrl": "https://polymarket.com/event/fifwc-nzl-egy-2026-06-21",
+          "note": "Polymarket 赛前 moneyline 明显偏埃及，新西兰是下风方。",
+          "outcomes": [
+            { "label": "新西兰胜", "probability": 16.5 },
+            { "label": "平局", "probability": 23.5 },
+            { "label": "埃及胜", "probability": 60.5 }
+          ]
+        }
+      }
+    ]
+  }
+}
