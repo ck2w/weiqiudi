@@ -1,0 +1,504 @@
+{
+  "date": "2026-06-21",
+  "displayDate": "2026 年 6 月 21 日",
+  "headline": "今天从西班牙的控球看到萨拉赫压轴：比利时和乌拉圭各遇硬骨头，新西兰对埃及关系到出线主动权。",
+  "matches": [
+    {
+      "id": "spain-saudi-arabia",
+      "kickoffTime": "12:00 ET",
+      "homeTeam": {
+        "name": "西班牙",
+        "nameEn": "Spain",
+        "shortName": "西班牙",
+        "shirtColor": "#AA151B",
+        "shirtLabel": "红衣",
+        "players": [
+          {
+            "name": "拉明·亚马尔",
+            "nameEn": "Lamine Yamal",
+            "persona": "西班牙右路最有想象力的爆点，左脚内切既能射门，也能突然送出穿透防线的传球",
+            "hooks": [
+              {
+                "title": "右路解题人",
+                "detail": "亚马尔拿球后如果吸引两个人，西班牙真正的机会往往会出现在另一侧。",
+                "links": [
+                  {
+                    "label": "B站搜索：亚马尔 西班牙 集锦",
+                    "url": "https://search.bilibili.com/all?keyword=亚马尔%20西班牙%20集锦",
+                    "type": "B站"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "19",
+            "position": "前锋",
+            "imageStatus": "licensed",
+            "imageAlt": "拉明·亚马尔代表西班牙比赛的照片",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lamine%20Yamal%20in%202025.jpg",
+            "imageCredit": "Biso / Wikimedia Commons",
+            "imageFocus": "50% 15%"
+          }
+        ]
+      },
+      "awayTeam": {
+        "name": "沙特阿拉伯",
+        "nameEn": "Saudi Arabia",
+        "shortName": "沙特",
+        "shirtColor": "#006C35",
+        "shirtLabel": "绿衣",
+        "players": [
+          {
+            "name": "萨利姆·达瓦萨里",
+            "nameEn": "Salem Al-Dawsari",
+            "persona": "沙特前场最有经验的持球核心，反击时能自己推进，也敢在禁区外直接处理",
+            "hooks": [
+              {
+                "title": "冷门记忆点",
+                "detail": "沙特一旦抢到反击空间可以盯住达瓦萨里，他最懂怎样把少数机会变成真正威胁。",
+                "links": [
+                  {
+                    "label": "百度搜索：达瓦萨里 沙特",
+                    "url": "https://www.baidu.com/s?wd=达瓦萨里%20沙特",
+                    "type": "搜索"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "10",
+            "position": "前锋",
+            "imageStatus": "licensed",
+            "imageAlt": "萨利姆·达瓦萨里代表沙特阿拉伯比赛的照片",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Salem%20Al-Dawsari%202018.jpg",
+            "imageCredit": "Svetlana Beketova / Wikimedia Commons",
+            "imageFocus": "50% 12%"
+          }
+        ]
+      },
+      "oneLiner": "西班牙会长期围着禁区传控，沙特要靠紧凑防守和少数几次快速反击寻找机会。",
+      "predictionMarket": {
+        "source": "Polymarket",
+        "status": "available",
+        "asOf": "2026-06-21T06:01:29Z",
+        "marketUrl": "https://polymarket.com/event/fifwc-esp-ksa-2026-06-21",
+        "note": "Polymarket 赛前 moneyline 压倒性偏西班牙，沙特是极深冷门。",
+        "outcomes": [
+          { "label": "西班牙胜", "probability": 88.5 },
+          { "label": "平局", "probability": 8.5 },
+          { "label": "沙特阿拉伯胜", "probability": 3.5 }
+        ]
+      },
+      "conversationLines": [
+        "西班牙想打穿低位防守，亚马尔能否在右侧制造一对一是最直接的突破口。",
+        "沙特不需要很多控球，但达瓦萨里拿球时必须有人迅速跟上形成反击层次。",
+        "市场差距很大，比赛悬念更多在西班牙多久能把控球换成真正射门。"
+      ],
+      "dontSay": "别把西班牙的控球自动等同于进球。面对密集防守，传球速度和禁区内终结才决定效果。",
+      "sourceLinks": [
+        {
+          "label": "百度搜索：西班牙 沙特 世界杯",
+          "url": "https://www.baidu.com/s?wd=西班牙%20沙特%20世界杯",
+          "type": "搜索"
+        },
+        {
+          "label": "B站搜索：西班牙 沙特 足球",
+          "url": "https://search.bilibili.com/all?keyword=西班牙%20沙特%20足球",
+          "type": "B站"
+        }
+      ]
+    },
+    {
+      "id": "belgium-iran",
+      "kickoffTime": "15:00 ET",
+      "homeTeam": {
+        "name": "比利时",
+        "nameEn": "Belgium",
+        "shortName": "比利时",
+        "shirtColor": "#E30613",
+        "shirtLabel": "红衣",
+        "players": [
+          {
+            "name": "凯文·德布劳内",
+            "nameEn": "Kevin De Bruyne",
+            "persona": "比利时中场的传球发动机，只要抬头看到空当，就能直接把球送到防线身后",
+            "hooks": [
+              {
+                "title": "一脚提速",
+                "detail": "德布劳内横向带球时可以看前锋的跑位，他最擅长用一脚直塞跳过整条中场线。",
+                "links": [
+                  {
+                    "label": "B站搜索：德布劳内 比利时",
+                    "url": "https://search.bilibili.com/all?keyword=德布劳内%20比利时",
+                    "type": "B站"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "7",
+            "position": "中场",
+            "imageStatus": "licensed",
+            "imageAlt": "凯文·德布劳内比赛照片",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kevin%20De%20Bruyne%203493.JPG",
+            "imageCredit": "Amarhgil / Wikimedia Commons",
+            "imageFocus": "50% 18%"
+          }
+        ]
+      },
+      "awayTeam": {
+        "name": "伊朗",
+        "nameEn": "IR Iran",
+        "shortName": "伊朗",
+        "shirtColor": "#FFFFFF",
+        "shirtLabel": "白衣",
+        "players": [
+          {
+            "name": "迈赫迪·塔雷米",
+            "nameEn": "Mehdi Taremi",
+            "persona": "伊朗锋线最成熟的支点，既能背身做球，也会在防线注意力松动时寻找射门位置",
+            "hooks": [
+              {
+                "title": "反击支点",
+                "detail": "伊朗长传找塔雷米不是简单解围，他能把球留下，让整支球队获得向前移动的时间。",
+                "links": [
+                  {
+                    "label": "百度搜索：塔雷米 伊朗",
+                    "url": "https://www.baidu.com/s?wd=塔雷米%20伊朗",
+                    "type": "搜索"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "9",
+            "position": "前锋",
+            "imageStatus": "licensed",
+            "imageAlt": "迈赫迪·塔雷米代表伊朗训练的照片",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mehdi%20Taremi.jpg",
+            "imageCredit": "Mahdi Zare / Fars News Agency / Wikimedia Commons",
+            "imageFocus": "50% 14%"
+          }
+        ]
+      },
+      "oneLiner": "比利时负责控球和创造，伊朗会压缩中路，再通过塔雷米把防守迅速接到反击。",
+      "predictionMarket": {
+        "source": "Polymarket",
+        "status": "available",
+        "asOf": "2026-06-21T06:01:29Z",
+        "marketUrl": "https://polymarket.com/event/fifwc-bel-irn-2026-06-21",
+        "note": "Polymarket 赛前 moneyline 明显偏比利时，伊朗仍有防守拖住比赛的空间。",
+        "outcomes": [
+          { "label": "比利时胜", "probability": 67.5 },
+          { "label": "平局", "probability": 20.5 },
+          { "label": "伊朗胜", "probability": 11.5 }
+        ]
+      },
+      "conversationLines": [
+        "伊朗会尽量堵住禁区正面，德布劳内需要通过斜传和边路转移把防线拉开。",
+        "塔雷米能不能顶住第一下对抗，决定伊朗反击是继续推进还是立刻结束。",
+        "比利时是热门，但面对耐心收缩的对手，先丢球会让比赛突然变难。"
+      ],
+      "dontSay": "别把伊朗只说成摆大巴。他们防守后的第一次出球和前锋支点都有明确设计。",
+      "sourceLinks": [
+        {
+          "label": "百度搜索：比利时 伊朗 世界杯",
+          "url": "https://www.baidu.com/s?wd=比利时%20伊朗%20世界杯",
+          "type": "搜索"
+        },
+        {
+          "label": "B站搜索：比利时 伊朗 足球",
+          "url": "https://search.bilibili.com/all?keyword=比利时%20伊朗%20足球",
+          "type": "B站"
+        }
+      ]
+    },
+    {
+      "id": "uruguay-cabo-verde",
+      "kickoffTime": "18:00 ET",
+      "homeTeam": {
+        "name": "乌拉圭",
+        "nameEn": "Uruguay",
+        "shortName": "乌拉圭",
+        "shirtColor": "#6CCFF6",
+        "shirtLabel": "天蓝衣",
+        "players": [
+          {
+            "name": "费德里科·巴尔韦德",
+            "nameEn": "Federico Valverde",
+            "persona": "乌拉圭中场的全能推进器，覆盖范围大，远射和突然前插都能直接改变比赛",
+            "hooks": [
+              {
+                "title": "中场加速器",
+                "detail": "巴尔韦德开始向前带球时，乌拉圭往往会从慢节奏瞬间切换成正面冲击。",
+                "links": [
+                  {
+                    "label": "B站搜索：巴尔韦德 乌拉圭",
+                    "url": "https://search.bilibili.com/all?keyword=巴尔韦德%20乌拉圭",
+                    "type": "B站"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "8",
+            "position": "中场",
+            "imageStatus": "licensed",
+            "imageAlt": "费德里科·巴尔韦德代表乌拉圭比赛的照片",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Federico%20Valverde%2020171010.jpg",
+            "imageCredit": "Jimmy Baikovicius / Wikimedia Commons",
+            "imageFocus": "50% 12%"
+          }
+        ]
+      },
+      "awayTeam": {
+        "name": "佛得角",
+        "nameEn": "Cabo Verde",
+        "shortName": "佛得角",
+        "shirtColor": "#003893",
+        "shirtLabel": "蓝衣",
+        "players": [
+          {
+            "name": "贾米罗·蒙泰罗",
+            "nameEn": "Jamiro Monteiro",
+            "persona": "佛得角中场最可靠的连接点，能在压力下护住球，再把反击送向两侧",
+            "hooks": [
+              {
+                "title": "反击连接器",
+                "detail": "佛得角抢到球后先找蒙泰罗很合理，他负责把仓促解围变成一次有方向的进攻。",
+                "links": [
+                  {
+                    "label": "百度搜索：贾米罗 蒙泰罗 佛得角",
+                    "url": "https://www.baidu.com/s?wd=贾米罗%20蒙泰罗%20佛得角",
+                    "type": "搜索"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "10",
+            "position": "中场",
+            "imageStatus": "licensed",
+            "imageAlt": "贾米罗·蒙泰罗比赛照片",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jamiro%20Monteiro%20Philadelphia%20Union%202019.jpg",
+            "imageCredit": "Morgan Tencza / Wikimedia Commons",
+            "imageFocus": "50% 12%"
+          }
+        ]
+      },
+      "oneLiner": "乌拉圭会用中场压迫和纵向冲击掌握主动，佛得角则要把有限控球转成快速反击。",
+      "predictionMarket": {
+        "source": "Polymarket",
+        "status": "available",
+        "asOf": "2026-06-21T06:01:29Z",
+        "marketUrl": "https://polymarket.com/event/fifwc-ury-cvi-2026-06-21",
+        "note": "Polymarket 赛前 moneyline 明显偏乌拉圭，佛得角是下风方。",
+        "outcomes": [
+          { "label": "乌拉圭胜", "probability": 66.5 },
+          { "label": "平局", "probability": 22.5 },
+          { "label": "佛得角胜", "probability": 10.5 }
+        ]
+      },
+      "conversationLines": [
+        "巴尔韦德的覆盖能让乌拉圭放心压上，他既负责追回球，也负责把进攻推到前场。",
+        "佛得角想摆脱持续防守，蒙泰罗接到第一脚传球后不能轻易丢失球权。",
+        "乌拉圭更被看好，但佛得角的身体对抗和快速边路不会让比赛轻松。"
+      ],
+      "dontSay": "别把首次参赛的佛得角当成临时拼出的球队，他们的球员分布广，整体防守也有成熟结构。",
+      "sourceLinks": [
+        {
+          "label": "百度搜索：乌拉圭 佛得角 世界杯",
+          "url": "https://www.baidu.com/s?wd=乌拉圭%20佛得角%20世界杯",
+          "type": "搜索"
+        },
+        {
+          "label": "B站搜索：乌拉圭 佛得角 足球",
+          "url": "https://search.bilibili.com/all?keyword=乌拉圭%20佛得角%20足球",
+          "type": "B站"
+        }
+      ]
+    },
+    {
+      "id": "new-zealand-egypt",
+      "kickoffTime": "21:00 ET",
+      "homeTeam": {
+        "name": "新西兰",
+        "nameEn": "New Zealand",
+        "shortName": "新西兰",
+        "shirtColor": "#FFFFFF",
+        "shirtLabel": "白衣",
+        "players": [
+          {
+            "name": "克里斯·伍德",
+            "nameEn": "Chris Wood",
+            "persona": "新西兰锋线最直接的支点，背身对抗、头球和禁区内抢点都是球队的主要出口",
+            "hooks": [
+              {
+                "title": "空中支点",
+                "detail": "新西兰后场直接找伍德不是放弃进攻，他能争下第一点，让队友围上来拿第二点。",
+                "links": [
+                  {
+                    "label": "百度搜索：克里斯 伍德 新西兰",
+                    "url": "https://www.baidu.com/s?wd=克里斯%20伍德%20新西兰",
+                    "type": "搜索"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "9",
+            "position": "前锋",
+            "imageStatus": "licensed",
+            "imageAlt": "克里斯·伍德代表新西兰比赛的照片",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/2017%20Confederation%20Cup%20-%20MEXNZL%20-%20Chris%20Wood.jpg",
+            "imageCredit": "Oleg Bkhambri / Wikimedia Commons",
+            "imageFocus": "50% 10%"
+          }
+        ]
+      },
+      "awayTeam": {
+        "name": "埃及",
+        "nameEn": "Egypt",
+        "shortName": "埃及",
+        "shirtColor": "#CE1126",
+        "shirtLabel": "红衣",
+        "players": [
+          {
+            "name": "穆罕默德·萨拉赫",
+            "nameEn": "Mohamed Salah",
+            "persona": "埃及最有决定性的进攻核心，从右路内切后的射门和最后一传都是头号威胁",
+            "hooks": [
+              {
+                "title": "右路王牌",
+                "detail": "萨拉赫往中路移动时，新西兰左侧必须有人补位，否则他会直接获得面向球门的空间。",
+                "links": [
+                  {
+                    "label": "B站搜索：萨拉赫 埃及 集锦",
+                    "url": "https://search.bilibili.com/all?keyword=萨拉赫%20埃及%20集锦",
+                    "type": "B站"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "10",
+            "position": "前锋",
+            "imageStatus": "licensed",
+            "imageAlt": "穆罕默德·萨拉赫训练照片",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mo%20Salah%202018.jpg",
+            "imageCredit": "Kevin Walsh / Wikimedia Commons",
+            "imageFocus": "55% 20%"
+          }
+        ]
+      },
+      "oneLiner": "新西兰靠伍德和定位球走直接路线，埃及则会把更多进攻交给萨拉赫的右路突破。",
+      "predictionMarket": {
+        "source": "Polymarket",
+        "status": "available",
+        "asOf": "2026-06-21T06:01:29Z",
+        "marketUrl": "https://polymarket.com/event/fifwc-nzl-egy-2026-06-21",
+        "note": "Polymarket 赛前 moneyline 明显偏埃及，新西兰主要依靠直接打法制造悬念。",
+        "outcomes": [
+          { "label": "新西兰胜", "probability": 16.5 },
+          { "label": "平局", "probability": 23.5 },
+          { "label": "埃及胜", "probability": 60.5 }
+        ]
+      },
+      "conversationLines": [
+        "新西兰最实际的办法是尽快找到伍德，再围绕他的第一点争夺第二落点。",
+        "埃及的进攻重心很清楚，萨拉赫每次拿球都会迫使新西兰左侧提前收缩。",
+        "埃及是热门，但如果迟迟进不了球，新西兰的定位球会让最后阶段很紧张。"
+      ],
+      "dontSay": "别把新西兰只说成高举高打。他们的直接路线有明确接应，重点是伍德身边谁来拿第二点。",
+      "sourceLinks": [
+        {
+          "label": "百度搜索：新西兰 埃及 世界杯",
+          "url": "https://www.baidu.com/s?wd=新西兰%20埃及%20世界杯",
+          "type": "搜索"
+        },
+        {
+          "label": "B站搜索：新西兰 埃及 足球",
+          "url": "https://search.bilibili.com/all?keyword=新西兰%20埃及%20足球",
+          "type": "B站"
+        }
+      ]
+    }
+  ],
+  "tomorrow": {
+    "displayDate": "2026 年 6 月 22 日",
+    "matches": [
+      {
+        "id": "argentina-austria",
+        "kickoffTime": "13:00 ET",
+        "homeTeam": "阿根廷",
+        "awayTeam": "奥地利",
+        "predictionMarket": {
+          "source": "Polymarket",
+          "status": "available",
+          "asOf": "2026-06-21T06:01:29Z",
+          "marketUrl": "https://polymarket.com/event/fifwc-arg-aut-2026-06-22",
+          "note": "Polymarket 赛前 moneyline 明显偏阿根廷，奥地利是下风方。",
+          "outcomes": [
+            { "label": "阿根廷胜", "probability": 63.5 },
+            { "label": "平局", "probability": 22.5 },
+            { "label": "奥地利胜", "probability": 13.5 }
+          ]
+        }
+      },
+      {
+        "id": "france-iraq",
+        "kickoffTime": "17:00 ET",
+        "homeTeam": "法国",
+        "awayTeam": "伊拉克",
+        "predictionMarket": {
+          "source": "Polymarket",
+          "status": "available",
+          "asOf": "2026-06-21T06:01:29Z",
+          "marketUrl": "https://polymarket.com/event/fifwc-fra-irq-2026-06-22",
+          "note": "Polymarket 赛前 moneyline 压倒性偏法国，伊拉克是极深冷门。",
+          "outcomes": [
+            { "label": "法国胜", "probability": 90.5 },
+            { "label": "平局", "probability": 7.5 },
+            { "label": "伊拉克胜", "probability": 2.75 }
+          ]
+        }
+      },
+      {
+        "id": "norway-senegal",
+        "kickoffTime": "20:00 ET",
+        "homeTeam": "挪威",
+        "awayTeam": "塞内加尔",
+        "predictionMarket": {
+          "source": "Polymarket",
+          "status": "available",
+          "asOf": "2026-06-21T06:01:29Z",
+          "marketUrl": "https://polymarket.com/event/fifwc-nor-sen-2026-06-22",
+          "note": "Polymarket 赛前 moneyline 略偏挪威，塞内加尔和平局都保留较大空间。",
+          "outcomes": [
+            { "label": "挪威胜", "probability": 42.5 },
+            { "label": "平局", "probability": 27.5 },
+            { "label": "塞内加尔胜", "probability": 30.5 }
+          ]
+        }
+      },
+      {
+        "id": "jordan-algeria",
+        "kickoffTime": "23:00 ET",
+        "homeTeam": "约旦",
+        "awayTeam": "阿尔及利亚",
+        "predictionMarket": {
+          "source": "Polymarket",
+          "status": "available",
+          "asOf": "2026-06-21T06:01:29Z",
+          "marketUrl": "https://polymarket.com/event/fifwc-jor-alg-2026-06-22",
+          "note": "Polymarket 赛前 moneyline 明显偏阿尔及利亚，约旦处在下风线。",
+          "outcomes": [
+            { "label": "约旦胜", "probability": 15.5 },
+            { "label": "平局", "probability": 23.5 },
+            { "label": "阿尔及利亚胜", "probability": 61.5 }
+          ]
+        }
+      }
+    ]
+  }
+}
