@@ -1,0 +1,745 @@
+{
+  "date": "2026-06-24",
+  "displayDate": "2026 年 6 月 24 日",
+  "headline": "今天六场分三档开球：加拿大、巴西、墨西哥这些话题队都登场，晚场更像出线排序的算盘局。",
+  "matches": [
+    {
+      "id": "switzerland-canada",
+      "kickoffTime": "15:00 ET",
+      "homeTeam": {
+        "name": "瑞士",
+        "nameEn": "Switzerland",
+        "shortName": "瑞士",
+        "shirtColor": "#D52B1E",
+        "shirtLabel": "红衣",
+        "players": [
+          {
+            "name": "格拉尼特·扎卡",
+            "nameEn": "Granit Xhaka",
+            "persona": "瑞士中场节拍器，也是全队情绪和对抗强度的开关",
+            "hooks": [
+              {
+                "title": "中场遥控器",
+                "detail": "瑞士推进顺时可以说：扎卡不一定冲到最前，但球往哪边走基本先过他这一关。",
+                "links": [
+                  {
+                    "label": "B站搜索：扎卡 瑞士 集锦",
+                    "url": "https://search.bilibili.com/all?keyword=%E6%89%8E%E5%8D%A1%20%E7%91%9E%E5%A3%AB%20%E9%9B%86%E9%94%A6",
+                    "type": "B站"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "10",
+            "position": "中场",
+            "imageStatus": "licensed",
+            "imageAlt": "格拉尼特·扎卡比赛照片",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Granit%20Xhaka%20(cropped).jpg",
+            "imageCredit": "Chelsea Debs / Wikimedia Commons",
+            "imageFocus": "50% 14%"
+          }
+        ]
+      },
+      "awayTeam": {
+        "name": "加拿大",
+        "nameEn": "Canada",
+        "shortName": "加拿大",
+        "shirtColor": "#FF0000",
+        "shirtLabel": "红衣",
+        "players": [
+          {
+            "name": "阿方索·戴维斯",
+            "nameEn": "Alphonso Davies",
+            "persona": "加拿大队长和左路推进器，能把一次普通边线球变成高速冲刺",
+            "hooks": [
+              {
+                "title": "左路加速键",
+                "detail": "戴维斯一启动，瑞士右路就要立刻有人补位，否则加拿大能直接把阵型冲散。",
+                "links": [
+                  {
+                    "label": "B站搜索：阿方索 戴维斯 加拿大",
+                    "url": "https://search.bilibili.com/all?keyword=%E9%98%BF%E6%96%B9%E7%B4%A2%20%E6%88%B4%E7%BB%B4%E6%96%AF%20%E5%8A%A0%E6%8B%BF%E5%A4%A7",
+                    "type": "B站"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "19",
+            "position": "后卫",
+            "imageStatus": "licensed",
+            "imageAlt": "阿方索·戴维斯代表加拿大比赛的照片",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Alphonso%20Davies%202018.jpg",
+            "imageCredit": "Chris McPhee / Wikimedia Commons",
+            "imageFocus": "50% 16%"
+          }
+        ]
+      },
+      "oneLiner": "瑞士靠扎卡控节奏和整体站位，加拿大靠戴维斯的速度把比赛拉成开放对冲。",
+      "predictionMarket": {
+        "source": "Polymarket",
+        "status": "available",
+        "asOf": "2026-06-25T01:57:06Z",
+        "marketUrl": "https://polymarket.com/event/fifwc-che-can-2026-06-24",
+        "note": "Polymarket moneyline 已完全指向瑞士，市场把加拿大和打平压到零附近。",
+        "outcomes": [
+          { "label": "瑞士胜", "probability": 100 },
+          { "label": "平局", "probability": 0 },
+          { "label": "加拿大胜", "probability": 0 }
+        ]
+      },
+      "conversationLines": [
+        "瑞士越能让扎卡舒服接球，加拿大越难把速度优势打出来。",
+        "加拿大最直接的办法就是让戴维斯冲瑞士防线身后，而不是跟瑞士慢慢磨中场。",
+        "这场看起来是节奏之争：瑞士想降速，加拿大想把边路跑起来。"
+      ],
+      "dontSay": "别把加拿大只说成东道主光环。戴维斯这一侧是真正能改变比赛速度的武器。",
+      "sourceLinks": [
+        {
+          "label": "百度搜索：瑞士 加拿大 世界杯",
+          "url": "https://www.baidu.com/s?wd=%E7%91%9E%E5%A3%AB%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%20%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "type": "搜索"
+        },
+        {
+          "label": "B站搜索：瑞士 加拿大 足球",
+          "url": "https://search.bilibili.com/all?keyword=%E7%91%9E%E5%A3%AB%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%20%E8%B6%B3%E7%90%83",
+          "type": "B站"
+        }
+      ]
+    },
+    {
+      "id": "bosnia-qatar",
+      "kickoffTime": "15:00 ET",
+      "homeTeam": {
+        "name": "波黑",
+        "nameEn": "Bosnia and Herzegovina",
+        "shortName": "波黑",
+        "shirtColor": "#1B4EA3",
+        "shirtLabel": "蓝衣",
+        "players": [
+          {
+            "name": "埃丁·哲科",
+            "nameEn": "Edin Dzeko",
+            "persona": "波黑队长和禁区支点，经验、背身和头球都是球队最稳定的出口",
+            "hooks": [
+              {
+                "title": "老派中锋",
+                "detail": "哲科不需要一直冲刺，他的价值在于把球护住，等身边队友插上。",
+                "links": [
+                  {
+                    "label": "百度搜索：哲科 波黑",
+                    "url": "https://www.baidu.com/s?wd=%E5%93%B2%E7%A7%91%20%E6%B3%A2%E9%BB%91",
+                    "type": "搜索"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "11",
+            "position": "前锋",
+            "imageStatus": "licensed",
+            "imageAlt": "埃丁·哲科代表波黑比赛的照片",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/20150331%202026%20AUT%20BIH%202177%20Edin%20D%C5%BEeko.jpg",
+            "imageCredit": "Ailura / Wikimedia Commons",
+            "imageFocus": "50% 16%"
+          }
+        ]
+      },
+      "awayTeam": {
+        "name": "卡塔尔",
+        "nameEn": "Qatar",
+        "shortName": "卡塔尔",
+        "shirtColor": "#8A1538",
+        "shirtLabel": "酒红衣",
+        "players": [
+          {
+            "name": "阿克拉姆·阿菲夫",
+            "nameEn": "Akram Afif",
+            "persona": "卡塔尔前场最会制造灵感的人，能在边路和肋部之间找最后一传",
+            "hooks": [
+              {
+                "title": "前场灵感点",
+                "detail": "卡塔尔如果能把球交到阿菲夫脚下，就不是单纯解围，而是有机会突然打出一脚直塞。",
+                "links": [
+                  {
+                    "label": "百度搜索：阿菲夫 卡塔尔",
+                    "url": "https://www.baidu.com/s?wd=%E9%98%BF%E8%8F%B2%E5%A4%AB%20%E5%8D%A1%E5%A1%94%E5%B0%94",
+                    "type": "搜索"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "11",
+            "position": "前锋",
+            "imageStatus": "licensed",
+            "imageAlt": "阿克拉姆·阿菲夫比赛照片",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Akram%20Afif%202018%20(cropped).jpg",
+            "imageCredit": "Wikimedia Commons",
+            "imageFocus": "50% 15%"
+          }
+        ]
+      },
+      "oneLiner": "波黑会围绕哲科打禁区支点，卡塔尔则要靠阿菲夫把少数反击处理得更精细。",
+      "predictionMarket": {
+        "source": "Polymarket",
+        "status": "available",
+        "asOf": "2026-06-25T01:57:06Z",
+        "marketUrl": "https://polymarket.com/event/fifwc-bih-qat-2026-06-24",
+        "note": "Polymarket moneyline 已完全偏向波黑，卡塔尔和打平被压到零附近。",
+        "outcomes": [
+          { "label": "波黑胜", "probability": 100 },
+          { "label": "平局", "probability": 0 },
+          { "label": "卡塔尔胜", "probability": 0 }
+        ]
+      },
+      "conversationLines": [
+        "波黑不一定需要踢得很花，把球送到哲科附近就能制造第一点和第二点。",
+        "卡塔尔想反击，阿菲夫的第一脚选择比速度本身更关键。",
+        "这场如果变成禁区争顶，波黑会舒服很多。"
+      ],
+      "dontSay": "别说哲科只是靠年龄和名气。他的支点动作仍然是波黑进攻最实用的部分。",
+      "sourceLinks": [
+        {
+          "label": "百度搜索：波黑 卡塔尔 世界杯",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%A2%E9%BB%91%20%E5%8D%A1%E5%A1%94%E5%B0%94%20%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "type": "搜索"
+        },
+        {
+          "label": "B站搜索：波黑 卡塔尔 足球",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B3%A2%E9%BB%91%20%E5%8D%A1%E5%A1%94%E5%B0%94%20%E8%B6%B3%E7%90%83",
+          "type": "B站"
+        }
+      ]
+    },
+    {
+      "id": "scotland-brazil",
+      "kickoffTime": "18:00 ET",
+      "homeTeam": {
+        "name": "苏格兰",
+        "nameEn": "Scotland",
+        "shortName": "苏格兰",
+        "shirtColor": "#002B7F",
+        "shirtLabel": "蓝衣",
+        "players": [
+          {
+            "name": "斯科特·麦克托米奈",
+            "nameEn": "Scott McTominay",
+            "persona": "苏格兰中场的冲击点，能从后排突然插进禁区制造混乱",
+            "hooks": [
+              {
+                "title": "后排插上",
+                "detail": "苏格兰推进到前场时盯麦克托米奈，他经常不是第一时间拿球的人，而是第二波冲进去的人。",
+                "links": [
+                  {
+                    "label": "B站搜索：麦克托米奈 苏格兰",
+                    "url": "https://search.bilibili.com/all?keyword=%E9%BA%A6%E5%85%8B%E6%89%98%E7%B1%B3%E5%A5%88%20%E8%8B%8F%E6%A0%BC%E5%85%B0",
+                    "type": "B站"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "4",
+            "position": "中场",
+            "imageStatus": "licensed",
+            "imageAlt": "斯科特·麦克托米奈比赛照片",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Scott%20McTominay%202021.jpg",
+            "imageCredit": "Ardfern / Wikimedia Commons",
+            "imageFocus": "50% 16%"
+          }
+        ]
+      },
+      "awayTeam": {
+        "name": "巴西",
+        "nameEn": "Brazil",
+        "shortName": "巴西",
+        "shirtColor": "#FEDD00",
+        "shirtLabel": "黄衣",
+        "players": [
+          {
+            "name": "维尼修斯·儒尼奥尔",
+            "nameEn": "Vinicius Junior",
+            "persona": "巴西左路爆点，单挑、变速和内切都能把防线拖到失衡",
+            "hooks": [
+              {
+                "title": "左路爆点",
+                "detail": "维尼修斯每次一对一都不是只想过人，他是在逼苏格兰补防，然后给中路创造空当。",
+                "links": [
+                  {
+                    "label": "B站搜索：维尼修斯 巴西 集锦",
+                    "url": "https://search.bilibili.com/all?keyword=%E7%BB%B4%E5%B0%BC%E4%BF%AE%E6%96%AF%20%E5%B7%B4%E8%A5%BF%20%E9%9B%86%E9%94%A6",
+                    "type": "B站"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "7",
+            "position": "前锋",
+            "imageStatus": "licensed",
+            "imageAlt": "维尼修斯·儒尼奥尔照片",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vinicius%20Junior%20(2025).jpg",
+            "imageCredit": "Tahas8677 / Wikimedia Commons",
+            "imageFocus": "50% 14%"
+          }
+        ]
+      },
+      "oneLiner": "苏格兰要靠中场硬度和后排插上撑住，巴西则用维尼修斯把比赛不断拉向边路单挑。",
+      "predictionMarket": {
+        "source": "Polymarket",
+        "status": "available",
+        "asOf": "2026-06-25T01:57:06Z",
+        "marketUrl": "https://polymarket.com/event/fifwc-sco-bra-2026-06-24",
+        "note": "Polymarket moneyline 已完全指向巴西，苏格兰和打平被压到零附近。",
+        "outcomes": [
+          { "label": "苏格兰胜", "probability": 0 },
+          { "label": "平局", "probability": 0 },
+          { "label": "巴西胜", "probability": 100 }
+        ]
+      },
+      "conversationLines": [
+        "苏格兰如果能把比赛变成大量身体对抗，巴西的节奏会被切碎。",
+        "巴西最直接的打开方式就是维尼修斯左路一对一，逼对手不断补防。",
+        "这场的关键不是巴西有没有球，而是他们能不能把控球变成持续冲击。"
+      ],
+      "dontSay": "别把苏格兰说成只会长传冲吊。麦克托米奈的后排插上是很明确的中路威胁。",
+      "sourceLinks": [
+        {
+          "label": "百度搜索：苏格兰 巴西 世界杯",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%8F%E6%A0%BC%E5%85%B0%20%E5%B7%B4%E8%A5%BF%20%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "type": "搜索"
+        },
+        {
+          "label": "B站搜索：苏格兰 巴西 足球",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%8F%E6%A0%BC%E5%85%B0%20%E5%B7%B4%E8%A5%BF%20%E8%B6%B3%E7%90%83",
+          "type": "B站"
+        }
+      ]
+    },
+    {
+      "id": "morocco-haiti",
+      "kickoffTime": "18:00 ET",
+      "homeTeam": {
+        "name": "摩洛哥",
+        "nameEn": "Morocco",
+        "shortName": "摩洛哥",
+        "shirtColor": "#C1272D",
+        "shirtLabel": "红衣",
+        "players": [
+          {
+            "name": "阿什拉夫·哈基米",
+            "nameEn": "Achraf Hakimi",
+            "persona": "摩洛哥右路最稳定的推进器，能从边后卫位置直接把节奏推到前场",
+            "hooks": [
+              {
+                "title": "右路发动机",
+                "detail": "哈基米前插时看海地边路怎么补，如果补慢一步，摩洛哥的进攻就能直接压进禁区。",
+                "links": [
+                  {
+                    "label": "B站搜索：哈基米 摩洛哥",
+                    "url": "https://search.bilibili.com/all?keyword=%E5%93%88%E5%9F%BA%E7%B1%B3%20%E6%91%A9%E6%B4%9B%E5%93%A5",
+                    "type": "B站"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "2",
+            "position": "后卫",
+            "imageStatus": "licensed",
+            "imageAlt": "阿什拉夫·哈基米照片",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/HakimiAchraf.jpg",
+            "imageCredit": "Nawfel Ajari / Wikimedia Commons",
+            "imageFocus": "50% 14%"
+          }
+        ]
+      },
+      "awayTeam": {
+        "name": "海地",
+        "nameEn": "Haiti",
+        "shortName": "海地",
+        "shirtColor": "#00209F",
+        "shirtLabel": "蓝衣",
+        "players": [
+          {
+            "name": "达肯斯·纳宗",
+            "nameEn": "Duckens Nazon",
+            "persona": "海地锋线队长，反击里的第一脚冲击和最后一脚终结都要靠他",
+            "hooks": [
+              {
+                "title": "反击终点",
+                "detail": "海地机会少，所以纳宗每次拿球都很贵：能不能把第一下处理好，决定反击有没有后续。",
+                "links": [
+                  {
+                    "label": "百度搜索：纳宗 海地 足球",
+                    "url": "https://www.baidu.com/s?wd=%E7%BA%B3%E5%AE%97%20%E6%B5%B7%E5%9C%B0%20%E8%B6%B3%E7%90%83",
+                    "type": "搜索"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "9",
+            "position": "前锋",
+            "imageStatus": "licensed",
+            "imageAlt": "达肯斯·纳宗照片",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Duckens%20Nazon.jpg",
+            "imageCredit": "Warrenfish / Wikimedia Commons",
+            "imageFocus": "50% 16%"
+          }
+        ]
+      },
+      "oneLiner": "摩洛哥会用哈基米这一侧不断提速，海地则要靠纳宗把反击变成真正威胁。",
+      "predictionMarket": {
+        "source": "Polymarket",
+        "status": "available",
+        "asOf": "2026-06-25T01:57:06Z",
+        "marketUrl": "https://polymarket.com/event/fifwc-mar-hai-2026-06-24",
+        "note": "Polymarket moneyline 已完全偏向摩洛哥，海地和打平被压到零附近。",
+        "outcomes": [
+          { "label": "摩洛哥胜", "probability": 100 },
+          { "label": "平局", "probability": 0 },
+          { "label": "海地胜", "probability": 0 }
+        ]
+      },
+      "conversationLines": [
+        "摩洛哥右路一旦跑起来，海地边锋也得回到很深的位置帮忙。",
+        "海地不能只解围，纳宗要能把球拿住，队友才有机会整体压上。",
+        "这场如果摩洛哥早进球，后面会更适合看哈基米怎样持续压边。"
+      ],
+      "dontSay": "别把海地说成完全没进攻。他们的反击出口很明确，只是机会数量会很有限。",
+      "sourceLinks": [
+        {
+          "label": "百度搜索：摩洛哥 海地 世界杯",
+          "url": "https://www.baidu.com/s?wd=%E6%91%A9%E6%B4%9B%E5%93%A5%20%E6%B5%B7%E5%9C%B0%20%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "type": "搜索"
+        },
+        {
+          "label": "B站搜索：摩洛哥 海地 足球",
+          "url": "https://search.bilibili.com/all?keyword=%E6%91%A9%E6%B4%9B%E5%93%A5%20%E6%B5%B7%E5%9C%B0%20%E8%B6%B3%E7%90%83",
+          "type": "B站"
+        }
+      ]
+    },
+    {
+      "id": "czechia-mexico",
+      "kickoffTime": "21:00 ET",
+      "homeTeam": {
+        "name": "捷克",
+        "nameEn": "Czechia",
+        "shortName": "捷克",
+        "shirtColor": "#D7141A",
+        "shirtLabel": "红衣",
+        "players": [
+          {
+            "name": "帕特里克·希克",
+            "nameEn": "Patrik Schick",
+            "persona": "捷克禁区里的头号终结点，左脚和高点都能直接改变比赛",
+            "hooks": [
+              {
+                "title": "禁区终结器",
+                "detail": "捷克把球送进禁区时盯住他：希克不需要很多触球，一次抢点就能让比赛换方向。",
+                "links": [
+                  {
+                    "label": "B站搜索：帕特里克 希克 集锦",
+                    "url": "https://search.bilibili.com/all?keyword=%E5%B8%95%E7%89%B9%E9%87%8C%E5%85%8B%20%E5%B8%8C%E5%85%8B%20%E9%9B%86%E9%94%A6",
+                    "type": "B站"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "10",
+            "position": "前锋",
+            "imageStatus": "licensed",
+            "imageAlt": "帕特里克·希克照片",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Patrik%20Schick%2C%20CZE-NIR%202019-10-14%20(3).jpg",
+            "imageCredit": "Tadeáš Bednarz / Wikimedia Commons",
+            "imageFocus": "50% 18%"
+          }
+        ]
+      },
+      "awayTeam": {
+        "name": "墨西哥",
+        "nameEn": "Mexico",
+        "shortName": "墨西哥",
+        "shirtColor": "#006341",
+        "shirtLabel": "绿衣",
+        "players": [
+          {
+            "name": "圣地亚哥·希门尼斯",
+            "nameEn": "Santiago Gimenez",
+            "persona": "墨西哥禁区里的主要终结点，跑位和第一脚射门决定球队能否把优势落到比分上",
+            "hooks": [
+              {
+                "title": "禁区答案",
+                "detail": "墨西哥如果把球推进到边路，最后要看希门尼斯有没有抢到中卫身前那一步。",
+                "links": [
+                  {
+                    "label": "百度搜索：圣地亚哥 希门尼斯 墨西哥",
+                    "url": "https://www.baidu.com/s?wd=%E5%9C%A3%E5%9C%B0%E4%BA%9A%E5%93%A5%20%E5%B8%8C%E9%97%A8%E5%B0%BC%E6%96%AF%20%E5%A2%A8%E8%A5%BF%E5%93%A5",
+                    "type": "搜索"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "11",
+            "position": "前锋",
+            "imageStatus": "licensed",
+            "imageAlt": "圣地亚哥·希门尼斯照片",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Santiago%20Gim%C3%A9nez%20-%202023.jpg",
+            "imageCredit": "Selección Nacional de México / Wikimedia Commons",
+            "imageFocus": "50% 14%"
+          }
+        ]
+      },
+      "oneLiner": "捷克会把希克当禁区终点，墨西哥则要用主场般的推进节奏持续找希门尼斯。",
+      "predictionMarket": {
+        "source": "Polymarket",
+        "status": "available",
+        "asOf": "2026-06-25T01:57:06Z",
+        "marketUrl": "https://polymarket.com/event/fifwc-cze-mex-2026-06-24",
+        "note": "Polymarket moneyline 略偏墨西哥，但平局价格很高，捷克也没有被完全看低。",
+        "outcomes": [
+          { "label": "捷克胜", "probability": 18.5 },
+          { "label": "平局", "probability": 38.5 },
+          { "label": "墨西哥胜", "probability": 43.5 }
+        ]
+      },
+      "conversationLines": [
+        "捷克最直接的办法还是找希克，传中质量比控球时间更重要。",
+        "墨西哥要把节奏提起来，不然捷克很容易把比赛拖成定位球和高球对抗。",
+        "市场把平局看得很重，这类小组末段比赛确实容易先算分再冒险。"
+      ],
+      "dontSay": "别把捷克说成只能守。只要希克附近有支援，他们的禁区效率很有威胁。",
+      "sourceLinks": [
+        {
+          "label": "百度搜索：捷克 墨西哥 世界杯",
+          "url": "https://www.baidu.com/s?wd=%E6%8D%B7%E5%85%8B%20%E5%A2%A8%E8%A5%BF%E5%93%A5%20%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "type": "搜索"
+        },
+        {
+          "label": "B站搜索：捷克 墨西哥 足球",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8D%B7%E5%85%8B%20%E5%A2%A8%E8%A5%BF%E5%93%A5%20%E8%B6%B3%E7%90%83",
+          "type": "B站"
+        }
+      ]
+    },
+    {
+      "id": "south-africa-korea-republic",
+      "kickoffTime": "21:00 ET",
+      "homeTeam": {
+        "name": "南非",
+        "nameEn": "South Africa",
+        "shortName": "南非",
+        "shirtColor": "#FFB81C",
+        "shirtLabel": "黄衣",
+        "players": [
+          {
+            "name": "莱尔·福斯特",
+            "nameEn": "Lyle Foster",
+            "persona": "南非最直接的锋线支点，能把反击第一下变成真正威胁",
+            "hooks": [
+              {
+                "title": "反击出口",
+                "detail": "南非抢下球后如果第一时间找他，福斯特能不能把球护住，决定反击是机会还是解围。",
+                "links": [
+                  {
+                    "label": "百度搜索：莱尔 福斯特 南非",
+                    "url": "https://www.baidu.com/s?wd=%E8%8E%B1%E5%B0%94%20%E7%A6%8F%E6%96%AF%E7%89%B9%20%E5%8D%97%E9%9D%9E",
+                    "type": "搜索"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "9",
+            "position": "前锋",
+            "imageStatus": "licensed",
+            "imageAlt": "莱尔·福斯特照片",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lyle%20Foster%2029112025%20(6).jpg",
+            "imageCredit": "Timmy96 / Wikimedia Commons",
+            "imageFocus": "50% 18%"
+          }
+        ]
+      },
+      "awayTeam": {
+        "name": "韩国",
+        "nameEn": "Korea Republic",
+        "shortName": "韩国",
+        "shirtColor": "#C60C30",
+        "shirtLabel": "红衣",
+        "players": [
+          {
+            "name": "孙兴慜",
+            "nameEn": "Son Heung-min",
+            "persona": "韩国队长和前场最稳定的终结点，反击、内切和定位球都能制造威胁",
+            "hooks": [
+              {
+                "title": "一脚提速",
+                "detail": "韩国反击时看孙兴慜第一脚触球，他能直接把南非后卫从站稳变成转身追。",
+                "links": [
+                  {
+                    "label": "B站搜索：孙兴慜 韩国 集锦",
+                    "url": "https://search.bilibili.com/all?keyword=%E5%AD%99%E5%85%B4%E6%85%9C%20%E9%9F%A9%E5%9B%BD%20%E9%9B%86%E9%94%A6",
+                    "type": "B站"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "7",
+            "position": "前锋",
+            "imageStatus": "licensed",
+            "imageAlt": "孙兴慜照片",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/BFA%202023%20-2%20Heung-Min%20Son%20(cropped).jpg",
+            "imageCredit": "Ujishadow / Wikimedia Commons",
+            "imageFocus": "50% 14%"
+          }
+        ]
+      },
+      "oneLiner": "南非想把比赛拖进身体对抗，韩国则靠孙兴慜的反击第一脚和终结质量找优势。",
+      "predictionMarket": {
+        "source": "Polymarket",
+        "status": "available",
+        "asOf": "2026-06-25T01:57:06Z",
+        "marketUrl": "https://polymarket.com/event/fifwc-rsa-kr-2026-06-24",
+        "note": "Polymarket moneyline 非常接近，平局价格反而最高，市场把这场看成胶着局。",
+        "outcomes": [
+          { "label": "南非胜", "probability": 24.5 },
+          { "label": "平局", "probability": 40.5 },
+          { "label": "韩国胜", "probability": 35.5 }
+        ]
+      },
+      "conversationLines": [
+        "南非要让福斯特把第一点拿住，不然反击只会变成解围。",
+        "韩国最有威胁的时刻，通常是孙兴慜在左路或中路拿到能转身的球。",
+        "这场平局价格很突出，说明双方都可能先保证不丢，再看对手犯错。"
+      ],
+      "dontSay": "别把韩国只说成孙兴慜一个人。他是终结点，但韩国的反击也靠中后场第一传质量。",
+      "sourceLinks": [
+        {
+          "label": "百度搜索：南非 韩国 世界杯",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%97%E9%9D%9E%20%E9%9F%A9%E5%9B%BD%20%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "type": "搜索"
+        },
+        {
+          "label": "B站搜索：南非 韩国 足球",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%97%E9%9D%9E%20%E9%9F%A9%E5%9B%BD%20%E8%B6%B3%E7%90%83",
+          "type": "B站"
+        }
+      ]
+    }
+  ],
+  "tomorrow": {
+    "displayDate": "6 月 25 日预告",
+    "matches": [
+      {
+        "id": "curacao-ivory-coast",
+        "kickoffTime": "16:00 ET",
+        "homeTeam": "库拉索",
+        "awayTeam": "科特迪瓦",
+        "predictionMarket": {
+          "source": "Polymarket",
+          "status": "unavailable",
+          "asOf": "2026-06-25T01:57:06Z",
+          "note": "已尝试 CUW/CUR/CIV/IVO、英文队名和 Gamma 搜索，未找到匹配这场的单场 moneyline 市场。",
+          "outcomes": []
+        }
+      },
+      {
+        "id": "ecuador-germany",
+        "kickoffTime": "16:00 ET",
+        "homeTeam": "厄瓜多尔",
+        "awayTeam": "德国",
+        "predictionMarket": {
+          "source": "Polymarket",
+          "status": "available",
+          "asOf": "2026-06-25T01:57:06Z",
+          "marketUrl": "https://polymarket.com/event/fifwc-ecu-ger-2026-06-25",
+          "note": "Polymarket moneyline 偏德国，厄瓜多尔和打平仍有一定价格。",
+          "outcomes": [
+            { "label": "厄瓜多尔胜", "probability": 21.95 },
+            { "label": "平局", "probability": 20.85 },
+            { "label": "德国胜", "probability": 57.85 }
+          ]
+        }
+      },
+      {
+        "id": "japan-sweden",
+        "kickoffTime": "19:00 ET",
+        "homeTeam": "日本",
+        "awayTeam": "瑞典",
+        "predictionMarket": {
+          "source": "Polymarket",
+          "status": "available",
+          "asOf": "2026-06-25T01:57:06Z",
+          "marketUrl": "https://polymarket.com/event/fifwc-jpn-swe-2026-06-25",
+          "note": "Polymarket moneyline 略偏日本，瑞典是下风方。",
+          "outcomes": [
+            { "label": "日本胜", "probability": 52.15 },
+            { "label": "平局", "probability": 26.95 },
+            { "label": "瑞典胜", "probability": 20.85 }
+          ]
+        }
+      },
+      {
+        "id": "tunisia-netherlands",
+        "kickoffTime": "19:00 ET",
+        "homeTeam": "突尼斯",
+        "awayTeam": "荷兰",
+        "predictionMarket": {
+          "source": "Polymarket",
+          "status": "available",
+          "asOf": "2026-06-25T01:57:06Z",
+          "marketUrl": "https://polymarket.com/event/fifwc-tun-nld-2026-06-25",
+          "note": "Polymarket moneyline 强烈偏荷兰，突尼斯是深冷门。",
+          "outcomes": [
+            { "label": "突尼斯胜", "probability": 3.35 },
+            { "label": "平局", "probability": 9.5 },
+            { "label": "荷兰胜", "probability": 88.5 }
+          ]
+        }
+      },
+      {
+        "id": "turkey-united-states",
+        "kickoffTime": "22:00 ET",
+        "homeTeam": "土耳其",
+        "awayTeam": "美国",
+        "predictionMarket": {
+          "source": "Polymarket",
+          "status": "available",
+          "asOf": "2026-06-25T01:57:06Z",
+          "marketUrl": "https://polymarket.com/event/fifwc-tur-usa-2026-06-25",
+          "note": "Polymarket moneyline 偏美国，土耳其和平局仍有明显价格。",
+          "outcomes": [
+            { "label": "土耳其胜", "probability": 26.5 },
+            { "label": "平局", "probability": 22.5 },
+            { "label": "美国胜", "probability": 50.5 }
+          ]
+        }
+      },
+      {
+        "id": "paraguay-australia",
+        "kickoffTime": "22:00 ET",
+        "homeTeam": "巴拉圭",
+        "awayTeam": "澳大利亚",
+        "predictionMarket": {
+          "source": "Polymarket",
+          "status": "available",
+          "asOf": "2026-06-25T01:57:06Z",
+          "marketUrl": "https://polymarket.com/event/fifwc-par-aus-2026-06-25",
+          "note": "Polymarket moneyline 把平局放得很高，巴拉圭略高于澳大利亚。",
+          "outcomes": [
+            { "label": "巴拉圭胜", "probability": 33.5 },
+            { "label": "平局", "probability": 42.5 },
+            { "label": "澳大利亚胜", "probability": 23.5 }
+          ]
+        }
+      }
+    ]
+  }
+}
