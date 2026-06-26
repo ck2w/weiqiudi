@@ -24,3 +24,8 @@ const tomorrowIndex = appSource.indexOf("<TomorrowPreview");
 assert.notEqual(fixturesIndex, -1, "App renders KnockoutFixtures");
 assert.notEqual(tomorrowIndex, -1, "App renders TomorrowPreview");
 assert.ok(fixturesIndex < tomorrowIndex, "KnockoutFixtures renders before TomorrowPreview");
+
+assert.ok(appSource.includes("getFixtureGridRow"), "App positions fixture cards on shared bracket rows");
+
+const styles = await readFile("src/styles.css", "utf8");
+assert.ok(styles.includes("grid-auto-rows"), "fixture lists use shared row units for bracket alignment");

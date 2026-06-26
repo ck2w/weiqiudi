@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { type CSSProperties, useState } from "react";
 import guide20260614Data from "../content/published/2026-06-14.json";
 import guide20260615Data from "../content/published/2026-06-15.json";
 import guide20260616Data from "../content/published/2026-06-16.json";
@@ -402,22 +402,18 @@ function KnockoutFixtures({ fixtures }: { fixtures: KnockoutFixturesData }) {
         </a>
       </div>
       <div className="fixtures-board" role="list">
-        {fixtures.rounds.map((round) => (
+        {fixtures.rounds.map((round, roundIndex) => (
           <section className="fixtures-round" key={round.name} role="listitem">
             <h3>{round.name}</h3>
             <div className="fixtures-list">
-              {round.fixtures.map((fixture) => (
-                <article className="fixture-match" key={fixture.id}>
-                  <div className="fixture-time">
-                    <span>{fixture.kickoffTime}</span>
-                    {fixture.matchNumber ? <strong>{fixture.matchNumber}</strong> : null}
-                  </div>
-                  <div className="fixture-teams">
-                    {fixture.teams.map((team, index) => (
-                      <FixtureTeam key={`${fixture.id}-${index}`} team={team} />
-                    ))}
-                  </div>
-                </article>
+              {round.fixtures.map((fixture, fixtureIndex) => (
+                <FixtureMatch
+                  fixture={fixture}
+                  fixtureIndex={fixtureIndex}
+                  isFinalRound={roundIndex === fixtures.rounds.length - 1}
+                  key={fixture.id}
+                  roundIndex={roundIndex}
+                />
               ))}
             </div>
           </section>
@@ -428,6 +424,110 @@ function KnockoutFixtures({ fixtures }: { fixtures: KnockoutFixturesData }) {
       </p>
     </section>
   );
+}
+
+function FixtureMatch({
+  fixture,
+  fixtureIndex,
+  isFinalRound,
+  roundIndex,
+}: {
+  fixture: KnockoutFixturesData["rounds"][number]["fixtures"][number];
+  fixtureIndex: number;
+  isFinalRound: boolean;
+  roundIndex: number;
+}) {
+  const bracketSlot = getFixtureBracketSlot(roundIndex, fixtureIndex, fixture.matchNumber);
+  const className = [
+    "fixture-match",
+    roundIndex > 0 ? "fixture-match--has-previous" : "",
+    !isFinalRound ? "fixture-match--has-next" : "",
+    !isFinalRound && bracketSlot % 2 === 0 ? "fixture-match--pair-top" : "",
+  ]
+    .filter(Boolean)
+    .join(" ");
+
+  return (
+    <article
+      className={className}
+      style={{
+        "--fixture-pair-step": `${getFixturePairStep(roundIndex)}px`,
+        gridRow: getFixtureGridRow(roundIndex, fixtureIndex, fixture.matchNumber),
+      } as CSSProperties}
+    >
+      <span className="fixture-connector" aria-hidden="true" />
+      <div className="fixture-time">
+        <span>{fixture.kickoffTime}</span>
+        {fixture.matchNumber ? <strong>{fixture.matchNumber}</strong> : null}
+      </div>
+      <div className="fixture-teams">
+        {fixture.teams.map((team, index) => (
+          <FixtureTeam key={`${fixture.id}-${index}`} team={team} />
+        ))}
+      </div>
+    </article>
+  );
+}
+
+function getFixtureGridRow(roundIndex: number, fixtureIndex: number, matchNumber?: string) {
+  const rowSpan = 2;
+  const bracketSlot = getFixtureBracketSlot(roundIndex, fixtureIndex, matchNumber);
+  const rowStep = 2 ** (roundIndex + 1);
+  const firstRow = roundIndex === 0 ? 1 : 2 ** roundIndex;
+  return `${firstRow + bracketSlot * rowStep} / span ${rowSpan}`;
+}
+
+function getFixtureBracketSlot(roundIndex: number, fixtureIndex: number, matchNumber?: string) {
+  const slotsByRound: Record<number, Record<string, number>> = {
+    0: {
+      M74: 0,
+      M77: 1,
+      M73: 2,
+      M75: 3,
+      M83: 4,
+      M84: 5,
+      M81: 6,
+      M82: 7,
+      M76: 8,
+      M78: 9,
+      M79: 10,
+      M80: 11,
+      M86: 12,
+      M88: 13,
+      M85: 14,
+      M87: 15,
+    },
+    1: {
+      M89: 0,
+      M90: 1,
+      M93: 2,
+      M94: 3,
+      M91: 4,
+      M92: 5,
+      M95: 6,
+      M96: 7,
+    },
+    2: {
+      M97: 0,
+      M98: 1,
+      M99: 2,
+      M100: 3,
+    },
+    3: {
+      M101: 0,
+      M102: 1,
+    },
+    4: {
+      M104: 0,
+    },
+  };
+
+  return matchNumber ? slotsByRound[roundIndex]?.[matchNumber] ?? fixtureIndex : fixtureIndex;
+}
+
+function getFixturePairStep(roundIndex: number) {
+  const fixtureRowStep = 61;
+  return 2 ** (roundIndex + 1) * fixtureRowStep;
 }
 
 function FixtureTeam({ team }: { team: KnockoutFixtureTeam }) {

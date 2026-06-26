@@ -540,6 +540,8 @@ h2 {
 }
 
 .fixtures-card {
+  --fixture-card-height: 108px;
+  --fixture-row-step: 61px;
   margin-top: 34px;
   padding: 18px;
   background: #ffffff;
@@ -600,12 +602,14 @@ h2 {
 
 .fixtures-list {
   display: grid;
-  gap: 14px;
+  grid-auto-rows: var(--fixture-row-step);
+  gap: 0;
 }
 
 .fixture-match {
   position: relative;
-  min-height: 108px;
+  height: var(--fixture-card-height);
+  min-height: 0;
   border: 3px solid #111111;
   border-radius: 8px;
   background: #f0f2f4;
@@ -613,17 +617,34 @@ h2 {
   box-shadow: 3px 3px 0 #111111;
 }
 
-.fixture-match::after {
+.fixture-match--has-previous::before,
+.fixture-match--has-next::after {
   content: "";
   position: absolute;
   top: 50%;
-  right: -25px;
   width: 22px;
   border-top: 2px solid rgba(17, 17, 17, 0.35);
 }
 
-.fixtures-round:last-child .fixture-match::after {
+.fixture-match--has-previous::before {
+  left: -25px;
+}
+
+.fixture-match--has-next::after {
+  right: -25px;
+}
+
+.fixture-connector {
   display: none;
+}
+
+.fixture-match--pair-top .fixture-connector {
+  display: block;
+  position: absolute;
+  top: 50%;
+  right: -25px;
+  height: var(--fixture-pair-step);
+  border-right: 2px solid rgba(17, 17, 17, 0.35);
 }
 
 .fixture-time {
