@@ -46,6 +46,7 @@ a {
 .title-card,
 .today-stamp,
 .match-card,
+.fixtures-card,
 .tomorrow-card,
 .history-card,
 .notice-card,
@@ -538,13 +539,159 @@ h2 {
   box-shadow: 3px 3px 0 #111111;
 }
 
+.fixtures-card {
+  margin-top: 34px;
+  padding: 18px;
+  background: #ffffff;
+  overflow: hidden;
+}
+
+.fixtures-card__header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.fixtures-card h2,
+.tomorrow-card h2 {
+  font-size: clamp(1.7rem, 5vw, 2.6rem);
+}
+
+.fixtures-card__header a {
+  border: 3px solid #111111;
+  background: #71d7ff;
+  padding: 7px 10px;
+  text-decoration: none;
+  font-weight: 950;
+  box-shadow: 2px 2px 0 #111111;
+}
+
+.fixtures-card__header a:hover,
+.fixtures-card__header a:focus-visible {
+  transform: translate(-1px, -1px);
+  box-shadow: 3px 3px 0 #111111;
+}
+
+.fixtures-board {
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: minmax(220px, 260px);
+  gap: 22px;
+  margin-top: 18px;
+  padding: 4px 4px 14px;
+  overflow-x: auto;
+  overscroll-behavior-inline: contain;
+  scrollbar-width: thin;
+}
+
+.fixtures-round {
+  min-width: 0;
+}
+
+.fixtures-round h3 {
+  margin: 0 0 12px;
+  border-bottom: 4px solid #111111;
+  padding-bottom: 6px;
+  font-size: 1rem;
+  text-align: center;
+}
+
+.fixtures-list {
+  display: grid;
+  gap: 14px;
+}
+
+.fixture-match {
+  position: relative;
+  min-height: 108px;
+  border: 3px solid #111111;
+  border-radius: 8px;
+  background: #f0f2f4;
+  padding: 10px 12px;
+  box-shadow: 3px 3px 0 #111111;
+}
+
+.fixture-match::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  right: -25px;
+  width: 22px;
+  border-top: 2px solid rgba(17, 17, 17, 0.35);
+}
+
+.fixtures-round:last-child .fixture-match::after {
+  display: none;
+}
+
+.fixture-time {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 8px;
+  margin-bottom: 8px;
+  color: #555555;
+  font-size: 0.86rem;
+  font-weight: 950;
+}
+
+.fixture-time strong {
+  color: #111111;
+  font-size: 0.74rem;
+}
+
+.fixture-teams {
+  display: grid;
+  gap: 6px;
+}
+
+.fixture-team {
+  display: flex;
+  min-width: 0;
+  align-items: center;
+  gap: 7px;
+  font-size: 1rem;
+  font-weight: 950;
+  line-height: 1.15;
+}
+
+.fixture-team span:last-child {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.fixture-flag {
+  flex: 0 0 auto;
+  width: 24px;
+  text-align: center;
+}
+
+.fixture-shield {
+  flex: 0 0 auto;
+  width: 18px;
+  height: 22px;
+  background: #555555;
+  clip-path: polygon(50% 0, 100% 18%, 92% 72%, 50% 100%, 8% 72%, 0 18%);
+}
+
+.fixture-team--tbd {
+  color: #333333;
+}
+
+.fixtures-note {
+  margin: 6px 0 0;
+  color: #555555;
+  font-size: 0.88rem;
+  font-weight: 850;
+}
+
 .tomorrow-card {
   margin-top: 34px;
   padding: 18px;
-}
-
-.tomorrow-card h2 {
-  font-size: clamp(1.7rem, 5vw, 2.6rem);
 }
 
 .preview-list {
@@ -710,6 +857,7 @@ h2 {
   .title-card,
   .today-stamp,
   .match-card,
+  .fixtures-card,
   .tomorrow-card,
   .history-card,
   .notice-card {

@@ -70,11 +70,37 @@ export interface PreviewMatch {
   predictionMarket?: PredictionMarket;
 }
 
+export interface KnockoutFixtureTeam {
+  name: string;
+  flag?: string;
+  status?: "confirmed" | "tbd";
+}
+
+export interface KnockoutFixture {
+  id: string;
+  matchNumber?: string;
+  kickoffTime: string;
+  teams: KnockoutFixtureTeam[];
+}
+
+export interface KnockoutRound {
+  name: string;
+  fixtures: KnockoutFixture[];
+}
+
+export interface KnockoutFixtures {
+  updatedAt: string;
+  sourceLabel: string;
+  sourceUrl: string;
+  rounds: KnockoutRound[];
+}
+
 export interface DailyGuide {
   date: string;
   displayDate: string;
   headline: string;
   matches: MatchGuide[];
+  knockoutFixtures?: KnockoutFixtures;
   tomorrow: {
     displayDate: string;
     matches: PreviewMatch[];

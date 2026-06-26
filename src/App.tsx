@@ -14,6 +14,8 @@ import guide20260625Data from "../content/published/2026-06-25.json";
 import guide20260626Data from "../content/published/2026-06-26.json";
 import type {
   DailyGuide,
+  KnockoutFixtures as KnockoutFixturesData,
+  KnockoutFixtureTeam,
   KeyPlayer,
   MatchGuide,
   PredictionMarket,
@@ -76,6 +78,10 @@ function App() {
       ) : (
         <NoMatchesCard />
       )}
+
+      {dailyGuide.knockoutFixtures ? (
+        <KnockoutFixtures fixtures={dailyGuide.knockoutFixtures} />
+      ) : null}
 
       <TomorrowPreview
         displayDate={dailyGuide.tomorrow.displayDate}
@@ -380,6 +386,64 @@ function HistoryNav({
         ))}
       </div>
     </nav>
+  );
+}
+
+function KnockoutFixtures({ fixtures }: { fixtures: KnockoutFixturesData }) {
+  return (
+    <section className="fixtures-card" aria-label="淘汰赛 fixtures">
+      <div className="fixtures-card__header">
+        <div>
+          <p className="label">Fixtures</p>
+          <h2>淘汰赛阶段</h2>
+        </div>
+        <a href={fixtures.sourceUrl} target="_blank" rel="noreferrer">
+          {fixtures.sourceLabel}
+        </a>
+      </div>
+      <div className="fixtures-board" role="list">
+        {fixtures.rounds.map((round) => (
+          <section className="fixtures-round" key={round.name} role="listitem">
+            <h3>{round.name}</h3>
+            <div className="fixtures-list">
+              {round.fixtures.map((fixture) => (
+                <article className="fixture-match" key={fixture.id}>
+                  <div className="fixture-time">
+                    <span>{fixture.kickoffTime}</span>
+                    {fixture.matchNumber ? <strong>{fixture.matchNumber}</strong> : null}
+                  </div>
+                  <div className="fixture-teams">
+                    {fixture.teams.map((team, index) => (
+                      <FixtureTeam key={`${fixture.id}-${index}`} team={team} />
+                    ))}
+                  </div>
+                </article>
+              ))}
+            </div>
+          </section>
+        ))}
+      </div>
+      <p className="fixtures-note">
+        未确定的对阵先标 TBD，等小组和前一轮结果落位后再更新。
+      </p>
+    </section>
+  );
+}
+
+function FixtureTeam({ team }: { team: KnockoutFixtureTeam }) {
+  const isTbd = team.status === "tbd" || team.name === "TBD";
+
+  return (
+    <div className={isTbd ? "fixture-team fixture-team--tbd" : "fixture-team"}>
+      {isTbd ? (
+        <span className="fixture-shield" aria-hidden="true" />
+      ) : (
+        <span className="fixture-flag" aria-hidden="true">
+          {team.flag}
+        </span>
+      )}
+      <span>{team.name}</span>
+    </div>
   );
 }
 

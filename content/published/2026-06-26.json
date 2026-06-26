@@ -634,6 +634,317 @@
       ]
     }
   ],
+  "knockoutFixtures": {
+    "updatedAt": "2026-06-26T18:00:00Z",
+    "sourceLabel": "SB Nation bracket update",
+    "sourceUrl": "https://www.sbnation.com/fifa-world-cup/1120327/2026-world-cup-round-of-32-full-list-of-matches-potential-round-of-16-games",
+    "rounds": [
+      {
+        "name": "Round of 32",
+        "fixtures": [
+          {
+            "id": "match-73",
+            "matchNumber": "M73",
+            "kickoffTime": "Sun, Jun 28, 3:00 PM",
+            "teams": [
+              { "name": "South Africa", "flag": "🇿🇦", "status": "confirmed" },
+              { "name": "Canada", "flag": "🇨🇦", "status": "confirmed" }
+            ]
+          },
+          {
+            "id": "match-75",
+            "matchNumber": "M75",
+            "kickoffTime": "Mon, Jun 29, 9:00 PM",
+            "teams": [
+              { "name": "Netherlands", "flag": "🇳🇱", "status": "confirmed" },
+              { "name": "Morocco", "flag": "🇲🇦", "status": "confirmed" }
+            ]
+          },
+          {
+            "id": "match-74",
+            "matchNumber": "M74",
+            "kickoffTime": "Mon, Jun 29, 4:30 PM",
+            "teams": [
+              { "name": "Germany", "flag": "🇩🇪", "status": "confirmed" },
+              { "name": "TBD", "status": "tbd" }
+            ]
+          },
+          {
+            "id": "match-77",
+            "matchNumber": "M77",
+            "kickoffTime": "Tue, Jun 30, 5:00 PM",
+            "teams": [
+              { "name": "TBD", "status": "tbd" },
+              { "name": "TBD", "status": "tbd" }
+            ]
+          },
+          {
+            "id": "match-83",
+            "matchNumber": "M83",
+            "kickoffTime": "Wed, Jul 1, 4:00 PM",
+            "teams": [
+              { "name": "TBD", "status": "tbd" },
+              { "name": "TBD", "status": "tbd" }
+            ]
+          },
+          {
+            "id": "match-81",
+            "matchNumber": "M81",
+            "kickoffTime": "Wed, Jul 1, 8:00 PM",
+            "teams": [
+              { "name": "USA", "flag": "🇺🇸", "status": "confirmed" },
+              { "name": "Bosnia and Herzegovina", "flag": "🇧🇦", "status": "confirmed" }
+            ]
+          },
+          {
+            "id": "match-84",
+            "matchNumber": "M84",
+            "kickoffTime": "Thu, Jul 2, 3:00 PM",
+            "teams": [
+              { "name": "TBD", "status": "tbd" },
+              { "name": "TBD", "status": "tbd" }
+            ]
+          },
+          {
+            "id": "match-82",
+            "matchNumber": "M82",
+            "kickoffTime": "Thu, Jul 2, 7:00 PM",
+            "teams": [
+              { "name": "TBD", "status": "tbd" },
+              { "name": "TBD", "status": "tbd" }
+            ]
+          },
+          {
+            "id": "match-76",
+            "matchNumber": "M76",
+            "kickoffTime": "Mon, Jun 29, TBD",
+            "teams": [
+              { "name": "Brazil", "flag": "🇧🇷", "status": "confirmed" },
+              { "name": "Japan", "flag": "🇯🇵", "status": "confirmed" }
+            ]
+          },
+          {
+            "id": "match-78",
+            "matchNumber": "M78",
+            "kickoffTime": "Tue, Jun 30, TBD",
+            "teams": [
+              { "name": "Ivory Coast", "flag": "🇨🇮", "status": "confirmed" },
+              { "name": "TBD", "status": "tbd" }
+            ]
+          },
+          {
+            "id": "match-79",
+            "matchNumber": "M79",
+            "kickoffTime": "Tue, Jun 30, TBD",
+            "teams": [
+              { "name": "Mexico", "flag": "🇲🇽", "status": "confirmed" },
+              { "name": "TBD", "status": "tbd" }
+            ]
+          },
+          {
+            "id": "match-80",
+            "matchNumber": "M80",
+            "kickoffTime": "Tue, Jun 30, TBD",
+            "teams": [
+              { "name": "TBD", "status": "tbd" },
+              { "name": "TBD", "status": "tbd" }
+            ]
+          },
+          {
+            "id": "match-86",
+            "matchNumber": "M86",
+            "kickoffTime": "Fri, Jul 3, TBD",
+            "teams": [
+              { "name": "Argentina", "flag": "🇦🇷", "status": "confirmed" },
+              { "name": "TBD", "status": "tbd" }
+            ]
+          },
+          {
+            "id": "match-88",
+            "matchNumber": "M88",
+            "kickoffTime": "Sat, Jul 4, TBD",
+            "teams": [
+              { "name": "Australia", "flag": "🇦🇺", "status": "confirmed" },
+              { "name": "TBD", "status": "tbd" }
+            ]
+          },
+          {
+            "id": "match-85",
+            "matchNumber": "M85",
+            "kickoffTime": "Fri, Jul 3, TBD",
+            "teams": [
+              { "name": "Switzerland", "flag": "🇨🇭", "status": "confirmed" },
+              { "name": "TBD", "status": "tbd" }
+            ]
+          },
+          {
+            "id": "match-87",
+            "matchNumber": "M87",
+            "kickoffTime": "Fri, Jul 3, TBD",
+            "teams": [
+              { "name": "TBD", "status": "tbd" },
+              { "name": "TBD", "status": "tbd" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Round of 16",
+        "fixtures": [
+          {
+            "id": "match-89",
+            "matchNumber": "M89",
+            "kickoffTime": "Sat, Jul 4, 1:00 PM",
+            "teams": [
+              { "name": "Winner M74", "status": "tbd" },
+              { "name": "Winner M77", "status": "tbd" }
+            ]
+          },
+          {
+            "id": "match-90",
+            "matchNumber": "M90",
+            "kickoffTime": "Sat, Jul 4, 5:00 PM",
+            "teams": [
+              { "name": "Winner M73", "status": "tbd" },
+              { "name": "Winner M75", "status": "tbd" }
+            ]
+          },
+          {
+            "id": "match-93",
+            "matchNumber": "M93",
+            "kickoffTime": "Mon, Jul 6, 8:00 PM",
+            "teams": [
+              { "name": "Winner M83", "status": "tbd" },
+              { "name": "Winner M84", "status": "tbd" }
+            ]
+          },
+          {
+            "id": "match-94",
+            "matchNumber": "M94",
+            "kickoffTime": "Mon, Jul 6, 3:00 PM",
+            "teams": [
+              { "name": "Winner M81", "status": "tbd" },
+              { "name": "Winner M82", "status": "tbd" }
+            ]
+          },
+          {
+            "id": "match-91",
+            "matchNumber": "M91",
+            "kickoffTime": "Sun, Jul 5, TBD",
+            "teams": [
+              { "name": "Winner M76", "status": "tbd" },
+              { "name": "Winner M78", "status": "tbd" }
+            ]
+          },
+          {
+            "id": "match-92",
+            "matchNumber": "M92",
+            "kickoffTime": "Sun, Jul 5, TBD",
+            "teams": [
+              { "name": "Winner M79", "status": "tbd" },
+              { "name": "Winner M80", "status": "tbd" }
+            ]
+          },
+          {
+            "id": "match-95",
+            "matchNumber": "M95",
+            "kickoffTime": "Tue, Jul 7, TBD",
+            "teams": [
+              { "name": "Winner M86", "status": "tbd" },
+              { "name": "Winner M88", "status": "tbd" }
+            ]
+          },
+          {
+            "id": "match-96",
+            "matchNumber": "M96",
+            "kickoffTime": "Tue, Jul 7, TBD",
+            "teams": [
+              { "name": "Winner M85", "status": "tbd" },
+              { "name": "Winner M87", "status": "tbd" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Quarterfinals",
+        "fixtures": [
+          {
+            "id": "match-97",
+            "matchNumber": "M97",
+            "kickoffTime": "Thu, Jul 9, TBD",
+            "teams": [
+              { "name": "Winner M89", "status": "tbd" },
+              { "name": "Winner M90", "status": "tbd" }
+            ]
+          },
+          {
+            "id": "match-98",
+            "matchNumber": "M98",
+            "kickoffTime": "Thu, Jul 9, TBD",
+            "teams": [
+              { "name": "Winner M93", "status": "tbd" },
+              { "name": "Winner M94", "status": "tbd" }
+            ]
+          },
+          {
+            "id": "match-99",
+            "matchNumber": "M99",
+            "kickoffTime": "Fri, Jul 10, TBD",
+            "teams": [
+              { "name": "Winner M91", "status": "tbd" },
+              { "name": "Winner M92", "status": "tbd" }
+            ]
+          },
+          {
+            "id": "match-100",
+            "matchNumber": "M100",
+            "kickoffTime": "Fri, Jul 10, TBD",
+            "teams": [
+              { "name": "Winner M95", "status": "tbd" },
+              { "name": "Winner M96", "status": "tbd" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Semifinals",
+        "fixtures": [
+          {
+            "id": "match-101",
+            "matchNumber": "M101",
+            "kickoffTime": "Tue, Jul 14, TBD",
+            "teams": [
+              { "name": "Winner M97", "status": "tbd" },
+              { "name": "Winner M99", "status": "tbd" }
+            ]
+          },
+          {
+            "id": "match-102",
+            "matchNumber": "M102",
+            "kickoffTime": "Wed, Jul 15, TBD",
+            "teams": [
+              { "name": "Winner M98", "status": "tbd" },
+              { "name": "Winner M100", "status": "tbd" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Final",
+        "fixtures": [
+          {
+            "id": "match-104",
+            "matchNumber": "M104",
+            "kickoffTime": "Sun, Jul 19, TBD",
+            "teams": [
+              { "name": "Winner M101", "status": "tbd" },
+              { "name": "Winner M102", "status": "tbd" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "tomorrow": {
     "displayDate": "6 月 27 日预告",
     "matches": [
