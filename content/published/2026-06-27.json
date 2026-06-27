@@ -819,8 +819,8 @@
     }
   ],
   "knockoutFixtures": {
-    "updatedAt": "2026-06-27T07:31:14Z",
-    "sourceLabel": "FIFA calendar and current knockout bracket",
+    "updatedAt": "2026-06-27T07:43:30Z",
+    "sourceLabel": "FIFA official match calendar",
     "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/schedule",
     "rounds": [
       {
@@ -844,6 +844,23 @@
             ]
           },
           {
+            "id": "match-74",
+            "matchNumber": "M74",
+            "kickoffTime": "Mon, Jun 29, 4:30 PM",
+            "teams": [
+              {
+                "name": "Germany",
+                "flag": "🇩🇪",
+                "status": "confirmed"
+              },
+              {
+                "name": "Paraguay",
+                "flag": "🇵🇾",
+                "status": "confirmed"
+              }
+            ]
+          },
+          {
             "id": "match-75",
             "matchNumber": "M75",
             "kickoffTime": "Mon, Jun 29, 9:00 PM",
@@ -861,18 +878,19 @@
             ]
           },
           {
-            "id": "match-74",
-            "matchNumber": "M74",
-            "kickoffTime": "Mon, Jun 29, 4:30 PM",
+            "id": "match-76",
+            "matchNumber": "M76",
+            "kickoffTime": "Mon, Jun 29, 1:00 PM",
             "teams": [
               {
-                "name": "Germany",
-                "flag": "🇩🇪",
+                "name": "Brazil",
+                "flag": "🇧🇷",
                 "status": "confirmed"
               },
               {
-                "name": "TBD",
-                "status": "tbd"
+                "name": "Japan",
+                "flag": "🇯🇵",
+                "status": "confirmed"
               }
             ]
           },
@@ -882,26 +900,61 @@
             "kickoffTime": "Tue, Jun 30, 5:00 PM",
             "teams": [
               {
-                "name": "TBD",
-                "status": "tbd"
+                "name": "France",
+                "flag": "🇫🇷",
+                "status": "confirmed"
               },
               {
-                "name": "TBD",
+                "name": "Sweden",
+                "flag": "🇸🇪",
+                "status": "confirmed"
+              }
+            ]
+          },
+          {
+            "id": "match-78",
+            "matchNumber": "M78",
+            "kickoffTime": "Tue, Jun 30, 1:00 PM",
+            "teams": [
+              {
+                "name": "Côte d'Ivoire",
+                "flag": "🇨🇮",
+                "status": "confirmed"
+              },
+              {
+                "name": "Norway",
+                "flag": "🇳🇴",
+                "status": "confirmed"
+              }
+            ]
+          },
+          {
+            "id": "match-79",
+            "matchNumber": "M79",
+            "kickoffTime": "Tue, Jun 30, 9:00 PM",
+            "teams": [
+              {
+                "name": "Mexico",
+                "flag": "🇲🇽",
+                "status": "confirmed"
+              },
+              {
+                "name": "3CEFHI",
                 "status": "tbd"
               }
             ]
           },
           {
-            "id": "match-83",
-            "matchNumber": "M83",
-            "kickoffTime": "Wed, Jul 1, 4:00 PM",
+            "id": "match-80",
+            "matchNumber": "M80",
+            "kickoffTime": "Wed, Jul 1, 12:00 PM",
             "teams": [
               {
-                "name": "TBD",
+                "name": "1L",
                 "status": "tbd"
               },
               {
-                "name": "TBD",
+                "name": "3EHIJK",
                 "status": "tbd"
               }
             ]
@@ -924,127 +977,48 @@
             ]
           },
           {
+            "id": "match-82",
+            "matchNumber": "M82",
+            "kickoffTime": "Wed, Jul 1, 4:00 PM",
+            "teams": [
+              {
+                "name": "Belgium",
+                "flag": "🇧🇪",
+                "status": "confirmed"
+              },
+              {
+                "name": "3AEHIJ",
+                "status": "tbd"
+              }
+            ]
+          },
+          {
+            "id": "match-83",
+            "matchNumber": "M83",
+            "kickoffTime": "Thu, Jul 2, 7:00 PM",
+            "teams": [
+              {
+                "name": "2K",
+                "status": "tbd"
+              },
+              {
+                "name": "2L",
+                "status": "tbd"
+              }
+            ]
+          },
+          {
             "id": "match-84",
             "matchNumber": "M84",
             "kickoffTime": "Thu, Jul 2, 3:00 PM",
             "teams": [
               {
-                "name": "TBD",
-                "status": "tbd"
-              },
-              {
-                "name": "TBD",
-                "status": "tbd"
-              }
-            ]
-          },
-          {
-            "id": "match-82",
-            "matchNumber": "M82",
-            "kickoffTime": "Thu, Jul 2, 7:00 PM",
-            "teams": [
-              {
-                "name": "TBD",
-                "status": "tbd"
-              },
-              {
-                "name": "TBD",
-                "status": "tbd"
-              }
-            ]
-          },
-          {
-            "id": "match-76",
-            "matchNumber": "M76",
-            "kickoffTime": "Mon, Jun 29, TBD",
-            "teams": [
-              {
-                "name": "Brazil",
-                "flag": "🇧🇷",
+                "name": "Spain",
+                "flag": "🇪🇸",
                 "status": "confirmed"
               },
               {
-                "name": "Japan",
-                "flag": "🇯🇵",
-                "status": "confirmed"
-              }
-            ]
-          },
-          {
-            "id": "match-78",
-            "matchNumber": "M78",
-            "kickoffTime": "Tue, Jun 30, TBD",
-            "teams": [
-              {
-                "name": "Ivory Coast",
-                "flag": "🇨🇮",
-                "status": "confirmed"
-              },
-              {
-                "name": "TBD",
-                "status": "tbd"
-              }
-            ]
-          },
-          {
-            "id": "match-79",
-            "matchNumber": "M79",
-            "kickoffTime": "Tue, Jun 30, TBD",
-            "teams": [
-              {
-                "name": "Mexico",
-                "flag": "🇲🇽",
-                "status": "confirmed"
-              },
-              {
-                "name": "TBD",
-                "status": "tbd"
-              }
-            ]
-          },
-          {
-            "id": "match-80",
-            "matchNumber": "M80",
-            "kickoffTime": "Tue, Jun 30, TBD",
-            "teams": [
-              {
-                "name": "TBD",
-                "status": "tbd"
-              },
-              {
-                "name": "TBD",
-                "status": "tbd"
-              }
-            ]
-          },
-          {
-            "id": "match-86",
-            "matchNumber": "M86",
-            "kickoffTime": "Fri, Jul 3, TBD",
-            "teams": [
-              {
-                "name": "Argentina",
-                "flag": "🇦🇷",
-                "status": "confirmed"
-              },
-              {
-                "name": "TBD",
-                "status": "tbd"
-              }
-            ]
-          },
-          {
-            "id": "match-88",
-            "matchNumber": "M88",
-            "kickoffTime": "Sat, Jul 4, TBD",
-            "teams": [
-              {
-                "name": "Australia",
-                "flag": "🇦🇺",
-                "status": "confirmed"
-              },
-              {
-                "name": "TBD",
+                "name": "2J",
                 "status": "tbd"
               }
             ]
@@ -1052,7 +1026,7 @@
           {
             "id": "match-85",
             "matchNumber": "M85",
-            "kickoffTime": "Fri, Jul 3, TBD",
+            "kickoffTime": "Thu, Jul 2, 11:00 PM",
             "teams": [
               {
                 "name": "Switzerland",
@@ -1060,23 +1034,57 @@
                 "status": "confirmed"
               },
               {
-                "name": "TBD",
+                "name": "3EFGIJ",
                 "status": "tbd"
+              }
+            ]
+          },
+          {
+            "id": "match-86",
+            "matchNumber": "M86",
+            "kickoffTime": "Fri, Jul 3, 6:00 PM",
+            "teams": [
+              {
+                "name": "Argentina",
+                "flag": "🇦🇷",
+                "status": "confirmed"
+              },
+              {
+                "name": "Cabo Verde",
+                "flag": "🇨🇻",
+                "status": "confirmed"
               }
             ]
           },
           {
             "id": "match-87",
             "matchNumber": "M87",
-            "kickoffTime": "Fri, Jul 3, TBD",
+            "kickoffTime": "Fri, Jul 3, 9:30 PM",
             "teams": [
               {
-                "name": "TBD",
+                "name": "1K",
                 "status": "tbd"
               },
               {
-                "name": "TBD",
+                "name": "3DEIJL",
                 "status": "tbd"
+              }
+            ]
+          },
+          {
+            "id": "match-88",
+            "matchNumber": "M88",
+            "kickoffTime": "Fri, Jul 3, 2:00 PM",
+            "teams": [
+              {
+                "name": "Australia",
+                "flag": "🇦🇺",
+                "status": "confirmed"
+              },
+              {
+                "name": "Egypt",
+                "flag": "🇪🇬",
+                "status": "confirmed"
               }
             ]
           }
@@ -1088,7 +1096,7 @@
           {
             "id": "match-89",
             "matchNumber": "M89",
-            "kickoffTime": "Sat, Jul 4, 1:00 PM",
+            "kickoffTime": "Sat, Jul 4, 5:00 PM",
             "teams": [
               {
                 "name": "Winner M74",
@@ -1103,7 +1111,7 @@
           {
             "id": "match-90",
             "matchNumber": "M90",
-            "kickoffTime": "Sat, Jul 4, 5:00 PM",
+            "kickoffTime": "Sat, Jul 4, 1:00 PM",
             "teams": [
               {
                 "name": "Winner M73",
@@ -1116,39 +1124,9 @@
             ]
           },
           {
-            "id": "match-93",
-            "matchNumber": "M93",
-            "kickoffTime": "Mon, Jul 6, 8:00 PM",
-            "teams": [
-              {
-                "name": "Winner M83",
-                "status": "tbd"
-              },
-              {
-                "name": "Winner M84",
-                "status": "tbd"
-              }
-            ]
-          },
-          {
-            "id": "match-94",
-            "matchNumber": "M94",
-            "kickoffTime": "Mon, Jul 6, 3:00 PM",
-            "teams": [
-              {
-                "name": "Winner M81",
-                "status": "tbd"
-              },
-              {
-                "name": "Winner M82",
-                "status": "tbd"
-              }
-            ]
-          },
-          {
             "id": "match-91",
             "matchNumber": "M91",
-            "kickoffTime": "Sun, Jul 5, TBD",
+            "kickoffTime": "Sun, Jul 5, 4:00 PM",
             "teams": [
               {
                 "name": "Winner M76",
@@ -1163,7 +1141,7 @@
           {
             "id": "match-92",
             "matchNumber": "M92",
-            "kickoffTime": "Sun, Jul 5, TBD",
+            "kickoffTime": "Sun, Jul 5, 8:00 PM",
             "teams": [
               {
                 "name": "Winner M79",
@@ -1176,9 +1154,39 @@
             ]
           },
           {
+            "id": "match-93",
+            "matchNumber": "M93",
+            "kickoffTime": "Mon, Jul 6, 3:00 PM",
+            "teams": [
+              {
+                "name": "Winner M83",
+                "status": "tbd"
+              },
+              {
+                "name": "Winner M84",
+                "status": "tbd"
+              }
+            ]
+          },
+          {
+            "id": "match-94",
+            "matchNumber": "M94",
+            "kickoffTime": "Mon, Jul 6, 8:00 PM",
+            "teams": [
+              {
+                "name": "Winner M81",
+                "status": "tbd"
+              },
+              {
+                "name": "Winner M82",
+                "status": "tbd"
+              }
+            ]
+          },
+          {
             "id": "match-95",
             "matchNumber": "M95",
-            "kickoffTime": "Tue, Jul 7, TBD",
+            "kickoffTime": "Tue, Jul 7, 12:00 PM",
             "teams": [
               {
                 "name": "Winner M86",
@@ -1193,7 +1201,7 @@
           {
             "id": "match-96",
             "matchNumber": "M96",
-            "kickoffTime": "Tue, Jul 7, TBD",
+            "kickoffTime": "Tue, Jul 7, 4:00 PM",
             "teams": [
               {
                 "name": "Winner M85",
@@ -1213,7 +1221,7 @@
           {
             "id": "match-97",
             "matchNumber": "M97",
-            "kickoffTime": "Thu, Jul 9, TBD",
+            "kickoffTime": "Thu, Jul 9, 4:00 PM",
             "teams": [
               {
                 "name": "Winner M89",
@@ -1228,7 +1236,7 @@
           {
             "id": "match-98",
             "matchNumber": "M98",
-            "kickoffTime": "Thu, Jul 9, TBD",
+            "kickoffTime": "Fri, Jul 10, 3:00 PM",
             "teams": [
               {
                 "name": "Winner M93",
@@ -1243,7 +1251,7 @@
           {
             "id": "match-99",
             "matchNumber": "M99",
-            "kickoffTime": "Fri, Jul 10, TBD",
+            "kickoffTime": "Sat, Jul 11, 5:00 PM",
             "teams": [
               {
                 "name": "Winner M91",
@@ -1258,7 +1266,7 @@
           {
             "id": "match-100",
             "matchNumber": "M100",
-            "kickoffTime": "Fri, Jul 10, TBD",
+            "kickoffTime": "Sat, Jul 11, 9:00 PM",
             "teams": [
               {
                 "name": "Winner M95",
@@ -1278,14 +1286,14 @@
           {
             "id": "match-101",
             "matchNumber": "M101",
-            "kickoffTime": "Tue, Jul 14, TBD",
+            "kickoffTime": "Tue, Jul 14, 3:00 PM",
             "teams": [
               {
                 "name": "Winner M97",
                 "status": "tbd"
               },
               {
-                "name": "Winner M99",
+                "name": "Winner M98",
                 "status": "tbd"
               }
             ]
@@ -1293,10 +1301,10 @@
           {
             "id": "match-102",
             "matchNumber": "M102",
-            "kickoffTime": "Wed, Jul 15, TBD",
+            "kickoffTime": "Wed, Jul 15, 3:00 PM",
             "teams": [
               {
-                "name": "Winner M98",
+                "name": "Winner M99",
                 "status": "tbd"
               },
               {
@@ -1313,7 +1321,7 @@
           {
             "id": "match-104",
             "matchNumber": "M104",
-            "kickoffTime": "Sun, Jul 19, TBD",
+            "kickoffTime": "Sun, Jul 19, 3:00 PM",
             "teams": [
               {
                 "name": "Winner M101",
