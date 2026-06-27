@@ -42,6 +42,8 @@ Today's matches are sorted by kickoff time. Each match is displayed as a shareab
 
 The bottom of the page shows tomorrow's preview. Tomorrow's matches only need kickoff time and teams; full cheat sheets are generated for today's matches.
 
+When the tournament reaches the knockout phase, the daily page also shows a knockout fixtures bracket after today's match cards and before tomorrow's preview. This module is a scan-first tournament-state view, not another match analysis card. It should help casual viewers understand which confirmed teams are already in the bracket, which slots are still TBD, and how winners flow into later rounds.
+
 ## Match Card Content
 
 Each match card is optimized for one-minute reading. It must include:
@@ -56,6 +58,24 @@ Each match card is optimized for one-minute reading. It must include:
 - A "别尬聊" warning for obvious mistakes or unsafe jokes
 
 The card should prioritize social usefulness over football completeness.
+
+## Knockout Fixtures Module
+
+The knockout fixtures module appears only when the published daily guide includes bracket data. It should be omitted entirely for earlier group-stage dates without knockout context.
+
+The module includes:
+
+- A `Fixtures` label and Chinese heading such as `淘汰赛阶段`
+- A source link for the bracket update
+- Horizontally scrollable columns for each knockout round
+- Match cards with kickoff time, match number, and two team slots
+- Confirmed teams with flags where available
+- `TBD` placeholders for unconfirmed teams or winner slots
+- A short note explaining that TBD slots will be updated after group or prior-round results
+
+The bracket should preserve tournament structure over chronological sorting. Round of 32 cards are positioned in bracket order, and later-round cards are vertically centered between the two prior matches feeding them. The connecting lines are part of the information architecture: they must align to card centers and show the path from one round to the next.
+
+The module should stay compact and secondary to today's match cards. It is a tournament map for orientation, not a replacement for daily cheat sheets.
 
 ## Team Player Sections
 
@@ -149,6 +169,7 @@ Content files:
 - Draft data under a dated drafts directory
 - Published data under a dated published directory
 - Curated team and player seed data under a versioned data directory
+- Optional knockout fixture data on published daily guides once the tournament reaches knockout context
 
 Automation scripts:
 
@@ -166,6 +187,22 @@ Deployment:
 - Merging reviewed content triggers deployment
 
 No database, login system, or custom CMS is required for the first version.
+
+### Knockout Fixture Data Shape
+
+Knockout fixture data is optional on `DailyGuide`:
+
+- `knockoutFixtures.updatedAt`: ISO timestamp for the bracket snapshot
+- `knockoutFixtures.sourceLabel`: short label shown on the source link
+- `knockoutFixtures.sourceUrl`: source URL for the bracket state
+- `knockoutFixtures.rounds[]`: ordered rounds such as `Round of 32`, `Round of 16`, `Quarterfinals`, `Semifinals`, and `Final`
+- `round.fixtures[]`: match cards for that round
+- `fixture.id`: stable match id
+- `fixture.matchNumber`: tournament match number when known, such as `M73`
+- `fixture.kickoffTime`: concise display time, or explicit `TBD` when not verified
+- `fixture.teams[]`: two team slots, each with `name`, optional `flag`, and `status`
+
+Only verified teams and times should be shown as confirmed. Unknown opponents, winner slots, and unverified kickoff times must remain explicit `TBD` values rather than inferred guesses.
 
 ## Data Validation Rules
 
@@ -185,6 +222,14 @@ Each published match card must satisfy:
 - Links are valid URL strings
 
 Broken links should be flagged in drafts. They do not need to block generation, but unresolved broken links should not be silently published.
+
+Knockout fixture validation should additionally check:
+
+- The latest knockout guide includes expected rounds when bracket data is present.
+- Round of 32 includes the expected number of fixture slots.
+- The fixtures module renders before tomorrow's preview.
+- Bracket cards use shared row positioning rather than independent per-column stacking.
+- Known feeder pairs align to the following-round card center.
 
 ## Failure Handling
 
@@ -212,6 +257,17 @@ Core traits:
 - Pink and blue accent tags
 - Mobile-first card layout
 
+Knockout fixtures use the same visual language, but with a quieter map-like treatment:
+
+- The whole bracket sits inside a page-level card.
+- Each round is a narrow column with a clear round heading.
+- Individual fixtures use light grey cards with black outlines and modest radius.
+- Confirmed teams use flag + team name.
+- TBD teams use a neutral shield placeholder.
+- Horizontal and vertical connector lines show bracket flow and must align to the center of the connected cards.
+- The board scrolls horizontally inside the card on narrow screens instead of causing page-level overflow.
+- Long team names can truncate inside cards; they must not resize cards or break the grid.
+
 Initial palette:
 
 - Yellow: `#FFD400`
@@ -238,6 +294,7 @@ First-version testing should focus on the highest-risk surfaces:
 - Published page rendering with many matches, one match, and no matches
 - Mobile viewport readability
 - Direct match share links
+- Knockout bracket row alignment and horizontal scroll behavior when bracket data is present
 
 Visual verification should check that the one-minute information is not buried under decoration.
 
