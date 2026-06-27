@@ -73,6 +73,32 @@
             "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Harry%20Kane%202023.jpg",
             "imageCredit": "Number 10 / Wikimedia Commons",
             "imageFocus": "50% 14%"
+          },
+          {
+            "name": "贝林厄姆",
+            "nameEn": "Jude Bellingham",
+            "persona": "英格兰中前场最有巨星相的推进点，能从中路把巴拿马的密集防守直接带散",
+            "hooks": [
+              {
+                "title": "中路推进器",
+                "detail": "贝林厄姆一旦在禁区前沿转身，巴拿马就不能只盯凯恩，后插上会立刻变成威胁。",
+                "links": [
+                  {
+                    "label": "B站搜索：贝林厄姆 英格兰 集锦",
+                    "url": "https://search.bilibili.com/all?keyword=%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%20%E8%8B%B1%E6%A0%BC%E5%85%B0%20%E9%9B%86%E9%94%A6",
+                    "type": "B站"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "10",
+            "position": "中场",
+            "imageStatus": "licensed",
+            "imageAlt": "贝林厄姆 照片",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/25th%20Laureus%20World%20Sports%20Awards%20-%20Red%20Carpet%20-%20Jude%20Bellingham%20-%20240422%20190551-2%20(cropped).jpg",
+            "imageCredit": "Wikimedia Commons",
+            "imageFocus": "50% 18%"
           }
         ]
       },
@@ -152,6 +178,32 @@
             "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Luka%20Modric%20-%20Croatia%20vs.%20Portugal%20(cropped).jpg",
             "imageCredit": "Fanny Schertzer / Wikimedia Commons",
             "imageFocus": "50% 14%"
+          },
+          {
+            "name": "格瓦迪奥尔",
+            "nameEn": "Josko Gvardiol",
+            "persona": "克罗地亚后防新门面，既要处理加纳的速度冲击，也能带球越过第一道逼抢",
+            "hooks": [
+              {
+                "title": "后卫会推进",
+                "detail": "加纳如果压得太急，可以盯格瓦迪奥尔：他一旦带出来，克罗地亚就能反过来控住节奏。",
+                "links": [
+                  {
+                    "label": "百度搜索：格瓦迪奥尔 克罗地亚",
+                    "url": "https://www.baidu.com/s?wd=%E6%A0%BC%E7%93%A6%E8%BF%AA%E5%A5%A5%E5%B0%94%20%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A",
+                    "type": "搜索"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "4",
+            "position": "后卫",
+            "imageStatus": "licensed",
+            "imageAlt": "格瓦迪奥尔 照片",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/2023-10-04%20Fu%C3%9Fball%2C%20M%C3%A4nner%2C%20UEFA%20Champions%20League%2C%20RB%20Leipzig%20-%20Manchester%20City%20FC%201DX%202611%20(Jo%C5%A1ko%20Gvardiol).jpg",
+            "imageCredit": "Wikimedia Commons",
+            "imageFocus": "50% 18%"
           }
         ]
       },
@@ -266,6 +318,32 @@
             "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Luis%20D%C3%ADaz%20(portrait).jpg",
             "imageCredit": "Indopug / Wikimedia Commons",
             "imageFocus": "50% 14%"
+          },
+          {
+            "name": "哈梅斯·罗德里格斯",
+            "nameEn": "James Rodriguez",
+            "persona": "哥伦比亚经典十号，跑动不一定最多，但左脚传球和定位球仍然很有故事感",
+            "hooks": [
+              {
+                "title": "老十号滤镜",
+                "detail": "哈梅斯如果送出斜传，可以说：他现在不是全场飞奔型，但左脚视野还在。",
+                "links": [
+                  {
+                    "label": "B站搜索：哈梅斯 哥伦比亚",
+                    "url": "https://search.bilibili.com/all?keyword=%E5%93%88%E6%A2%85%E6%96%AF%20%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A",
+                    "type": "B站"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "10",
+            "position": "中场",
+            "imageStatus": "licensed",
+            "imageAlt": "哈梅斯·罗德里格斯 照片",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/James%20Rodriguez%202018.jpg",
+            "imageCredit": "Wikimedia Commons",
+            "imageFocus": "50% 18%"
           }
         ]
       },
@@ -301,6 +379,32 @@
             "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Cristiano%20Ronaldo%202018.jpg",
             "imageCredit": "Анна Нэсси / soccer.ru / Wikimedia Commons",
             "imageFocus": "50% 16%"
+          },
+          {
+            "name": "布鲁诺·费尔南德斯",
+            "nameEn": "Bruno Fernandes",
+            "persona": "葡萄牙中前场发动机，最后一传、远射和二点球处理都能决定 C 罗拿到什么球",
+            "hooks": [
+              {
+                "title": "葡萄牙说明书",
+                "detail": "如果葡萄牙围攻，可以说：B 费这脚最后一传质量，决定他们是压制还是纯倒脚。",
+                "links": [
+                  {
+                    "label": "B站搜索：布鲁诺 费尔南德斯 葡萄牙",
+                    "url": "https://search.bilibili.com/all?keyword=%E5%B8%83%E9%B2%81%E8%AF%BA%20%E8%B4%B9%E5%B0%94%E5%8D%97%E5%BE%B7%E6%96%AF%20%E8%91%A1%E8%90%84%E7%89%99",
+                    "type": "B站"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "8",
+            "position": "中场",
+            "imageStatus": "licensed",
+            "imageAlt": "布鲁诺·费尔南德斯 照片",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bruno%20Fernandes%20USMNT%20v%20Portugal%20Mar%2031%202026-27%20(cropped).jpg",
+            "imageCredit": "Wikimedia Commons",
+            "imageFocus": "50% 18%"
           }
         ]
       },
@@ -643,6 +747,32 @@
             "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lionel-Messi-Argentina-2022-FIFA-World-Cup%20(cropped).jpg",
             "imageCredit": "Hossein Zohrevand / Tasnim News Agency / Wikimedia Commons",
             "imageFocus": "50% 16%"
+          },
+          {
+            "name": "劳塔罗",
+            "nameEn": "Lautaro Martínez",
+            "persona": "阿根廷禁区里的终结点，梅西把球送进危险区后，他负责把机会变成比分",
+            "hooks": [
+              {
+                "title": "门前收账员",
+                "detail": "阿根廷围攻时可以盯劳塔罗跑位，他不一定一直显眼，但进球往往就从这种人脚下出来。",
+                "links": [
+                  {
+                    "label": "B站搜索：劳塔罗 阿根廷 集锦",
+                    "url": "https://search.bilibili.com/all?keyword=%E5%8A%B3%E5%A1%94%E7%BD%97%20%E9%98%BF%E6%A0%B9%E5%BB%B7%20%E9%9B%86%E9%94%A6",
+                    "type": "B站"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "22",
+            "imageAlt": "劳塔罗 照片",
+            "imageCredit": "Wikimedia Commons",
+            "imageStatus": "licensed",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lautaro%20Martinez%20ARGENTINA%20VS%20VENEZUELA%202017.jpg",
+            "position": "前锋",
+            "imageFocus": "50% 18%"
           }
         ]
       },
