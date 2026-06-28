@@ -77,6 +77,8 @@ The bracket should preserve tournament structure over chronological sorting. Rou
 
 The module should stay compact and secondary to today's match cards. It is a tournament map for orientation, not a replacement for daily cheat sheets.
 
+Once knockout context exists, every daily content update must refresh the knockout fixtures snapshot from the current official schedule or bracket source. Do not carry forward yesterday's bracket data without rechecking confirmed teams, kickoff times, match numbers, TBD slots, and later-round feeder labels.
+
 ## Team Player Sections
 
 Every match card must show key players for each team separately.
@@ -145,10 +147,11 @@ The daily workflow is scheduled but not fully automatic publishing.
 2. Normalize teams, kickoff times, and match identifiers.
 3. Add curated local data such as team Chinese names, likely shirt colors, and known player candidates.
 4. Collect public Chinese web signals for team and player keywords.
-5. Generate one-minute match-card drafts.
-6. Validate the draft content and source links.
-7. Open a draft pull request or write a draft file for review.
-8. Human reviewer edits, approves, and publishes.
+5. Refresh knockout fixtures when the tournament has reached knockout context, including confirmed teams, kickoff times, match numbers, TBD placeholders, and feeder labels.
+6. Generate one-minute match-card drafts.
+7. Validate the draft content, source links, and knockout fixture snapshot.
+8. Open a draft pull request or write a draft file for review.
+9. Human reviewer edits, approves, and publishes.
 
 Publishing happens only after review. If a card has insufficient player or meme content, it remains marked for review.
 
