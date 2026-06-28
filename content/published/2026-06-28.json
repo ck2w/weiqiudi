@@ -1,0 +1,726 @@
+{
+  "date": "2026-06-28",
+  "displayDate": "2026 年 6 月 28 日",
+  "headline": "淘汰赛今天开门：南非先碰加拿大，加拿大市场优势更明显，但南非如果把比赛拖进反击和身体对抗，悬念就会出来。",
+  "matches": [
+    {
+      "id": "south-africa-canada",
+      "kickoffTime": "15:00 ET",
+      "homeTeam": {
+        "name": "南非",
+        "nameEn": "South Africa",
+        "shortName": "南非",
+        "shirtColor": "#FFB81C",
+        "shirtLabel": "黄衣",
+        "players": [
+          {
+            "name": "莱尔·福斯特",
+            "nameEn": "Lyle Foster",
+            "persona": "南非最直接的锋线支点，淘汰赛里他要把有限反击第一下变成真正威胁",
+            "hooks": [
+              {
+                "title": "反击出口",
+                "detail": "南非抢下球后如果第一时间找他，福斯特能不能把球护住，决定反击是机会还是解围。",
+                "links": [
+                  {
+                    "label": "百度搜索：莱尔 福斯特 南非",
+                    "url": "https://www.baidu.com/s?wd=%E8%8E%B1%E5%B0%94%20%E7%A6%8F%E6%96%AF%E7%89%B9%20%E5%8D%97%E9%9D%9E",
+                    "type": "搜索"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "9",
+            "position": "前锋",
+            "imageStatus": "licensed",
+            "imageAlt": "莱尔·福斯特照片",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lyle%20Foster%2029112025%20(6).jpg",
+            "imageCredit": "Timmy96 / Wikimedia Commons",
+            "imageFocus": "50% 18%"
+          }
+        ]
+      },
+      "awayTeam": {
+        "name": "加拿大",
+        "nameEn": "Canada",
+        "shortName": "加拿大",
+        "shirtColor": "#FF0000",
+        "shirtLabel": "红衣",
+        "players": [
+          {
+            "name": "阿方索·戴维斯",
+            "nameEn": "Alphonso Davies",
+            "persona": "加拿大队长和左路推进器，冲起来以后能把南非防线从阵地防守拉进回追",
+            "hooks": [
+              {
+                "title": "左路加速键",
+                "detail": "戴维斯一启动，南非右路就要立刻有人补位，否则加拿大能直接把阵型冲散。",
+                "links": [
+                  {
+                    "label": "B站搜索：阿方索 戴维斯 加拿大",
+                    "url": "https://search.bilibili.com/all?keyword=%E9%98%BF%E6%96%B9%E7%B4%A2%20%E6%88%B4%E7%BB%B4%E6%96%AF%20%E5%8A%A0%E6%8B%BF%E5%A4%A7",
+                    "type": "B站"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "19",
+            "position": "后卫",
+            "imageStatus": "licensed",
+            "imageAlt": "阿方索·戴维斯代表加拿大比赛的照片",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Alphonso%20Davies%202018.jpg",
+            "imageCredit": "Chris McPhee / Wikimedia Commons",
+            "imageFocus": "50% 16%"
+          }
+        ]
+      },
+      "oneLiner": "南非要靠福斯特把反击第一点做住，加拿大则会让戴维斯在左路不断提速。",
+      "predictionMarket": {
+        "source": "Polymarket",
+        "status": "available",
+        "asOf": "2026-06-28T04:12:47Z",
+        "marketUrl": "https://polymarket.com/event/fifwc-rsa-can-2026-06-28",
+        "note": "Polymarket moneyline 偏加拿大，南非是下风方。",
+        "outcomes": [
+          {
+            "label": "南非胜",
+            "probability": 16.5
+          },
+          {
+            "label": "平局",
+            "probability": 26.5
+          },
+          {
+            "label": "加拿大胜",
+            "probability": 57.5
+          }
+        ]
+      },
+      "conversationLines": [
+        "这是本届淘汰赛第一场，比赛会比小组赛更像先别犯错的局。",
+        "加拿大最直接的武器是戴维斯左路提速，南非必须提前有人补他身后的空间。",
+        "南非机会不会太多，福斯特能不能把长传第一下停住，会决定反击有没有后续。"
+      ],
+      "dontSay": "别说加拿大只靠东道主光环。戴维斯这一侧是真正能改变比赛速度的武器，但淘汰赛一球差就会很紧。",
+      "sourceLinks": [
+        {
+          "label": "百度搜索：南非 加拿大 世界杯",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%97%E9%9D%9E%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%20%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "type": "搜索"
+        },
+        {
+          "label": "B站搜索：南非 加拿大 足球",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%97%E9%9D%9E%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%20%E8%B6%B3%E7%90%83",
+          "type": "B站"
+        }
+      ]
+    }
+  ],
+  "knockoutFixtures": {
+    "updatedAt": "2026-06-28T04:12:47Z",
+    "sourceLabel": "FIFA official match calendar",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/schedule",
+    "rounds": [
+      {
+        "name": "Round of 32",
+        "fixtures": [
+          {
+            "id": "match-73",
+            "matchNumber": "M73",
+            "kickoffTime": "Sun, Jun 28, 3:00 PM",
+            "teams": [
+              {
+                "name": "South Africa",
+                "flag": "🇿🇦",
+                "status": "confirmed"
+              },
+              {
+                "name": "Canada",
+                "flag": "🇨🇦",
+                "status": "confirmed"
+              }
+            ]
+          },
+          {
+            "id": "match-74",
+            "matchNumber": "M74",
+            "kickoffTime": "Mon, Jun 29, 4:30 PM",
+            "teams": [
+              {
+                "name": "Germany",
+                "flag": "🇩🇪",
+                "status": "confirmed"
+              },
+              {
+                "name": "Paraguay",
+                "flag": "🇵🇾",
+                "status": "confirmed"
+              }
+            ]
+          },
+          {
+            "id": "match-75",
+            "matchNumber": "M75",
+            "kickoffTime": "Mon, Jun 29, 9:00 PM",
+            "teams": [
+              {
+                "name": "Netherlands",
+                "flag": "🇳🇱",
+                "status": "confirmed"
+              },
+              {
+                "name": "Morocco",
+                "flag": "🇲🇦",
+                "status": "confirmed"
+              }
+            ]
+          },
+          {
+            "id": "match-76",
+            "matchNumber": "M76",
+            "kickoffTime": "Mon, Jun 29, 1:00 PM",
+            "teams": [
+              {
+                "name": "Brazil",
+                "flag": "🇧🇷",
+                "status": "confirmed"
+              },
+              {
+                "name": "Japan",
+                "flag": "🇯🇵",
+                "status": "confirmed"
+              }
+            ]
+          },
+          {
+            "id": "match-77",
+            "matchNumber": "M77",
+            "kickoffTime": "Tue, Jun 30, 5:00 PM",
+            "teams": [
+              {
+                "name": "France",
+                "flag": "🇫🇷",
+                "status": "confirmed"
+              },
+              {
+                "name": "Sweden",
+                "flag": "🇸🇪",
+                "status": "confirmed"
+              }
+            ]
+          },
+          {
+            "id": "match-78",
+            "matchNumber": "M78",
+            "kickoffTime": "Tue, Jun 30, 1:00 PM",
+            "teams": [
+              {
+                "name": "Côte d'Ivoire",
+                "flag": "🇨🇮",
+                "status": "confirmed"
+              },
+              {
+                "name": "Norway",
+                "flag": "🇳🇴",
+                "status": "confirmed"
+              }
+            ]
+          },
+          {
+            "id": "match-79",
+            "matchNumber": "M79",
+            "kickoffTime": "Tue, Jun 30, 9:00 PM",
+            "teams": [
+              {
+                "name": "Mexico",
+                "flag": "🇲🇽",
+                "status": "confirmed"
+              },
+              {
+                "name": "3CEFHI",
+                "status": "tbd"
+              }
+            ]
+          },
+          {
+            "id": "match-80",
+            "matchNumber": "M80",
+            "kickoffTime": "Wed, Jul 1, 12:00 PM",
+            "teams": [
+              {
+                "name": "1L",
+                "status": "tbd"
+              },
+              {
+                "name": "3EHIJK",
+                "status": "tbd"
+              }
+            ]
+          },
+          {
+            "id": "match-81",
+            "matchNumber": "M81",
+            "kickoffTime": "Wed, Jul 1, 8:00 PM",
+            "teams": [
+              {
+                "name": "USA",
+                "flag": "🇺🇸",
+                "status": "confirmed"
+              },
+              {
+                "name": "Bosnia and Herzegovina",
+                "flag": "🇧🇦",
+                "status": "confirmed"
+              }
+            ]
+          },
+          {
+            "id": "match-82",
+            "matchNumber": "M82",
+            "kickoffTime": "Wed, Jul 1, 4:00 PM",
+            "teams": [
+              {
+                "name": "Belgium",
+                "flag": "🇧🇪",
+                "status": "confirmed"
+              },
+              {
+                "name": "3AEHIJ",
+                "status": "tbd"
+              }
+            ]
+          },
+          {
+            "id": "match-83",
+            "matchNumber": "M83",
+            "kickoffTime": "Thu, Jul 2, 7:00 PM",
+            "teams": [
+              {
+                "name": "2K",
+                "status": "tbd"
+              },
+              {
+                "name": "2L",
+                "status": "tbd"
+              }
+            ]
+          },
+          {
+            "id": "match-84",
+            "matchNumber": "M84",
+            "kickoffTime": "Thu, Jul 2, 3:00 PM",
+            "teams": [
+              {
+                "name": "Spain",
+                "flag": "🇪🇸",
+                "status": "confirmed"
+              },
+              {
+                "name": "2J",
+                "status": "tbd"
+              }
+            ]
+          },
+          {
+            "id": "match-85",
+            "matchNumber": "M85",
+            "kickoffTime": "Thu, Jul 2, 11:00 PM",
+            "teams": [
+              {
+                "name": "Switzerland",
+                "flag": "🇨🇭",
+                "status": "confirmed"
+              },
+              {
+                "name": "3EFGIJ",
+                "status": "tbd"
+              }
+            ]
+          },
+          {
+            "id": "match-86",
+            "matchNumber": "M86",
+            "kickoffTime": "Fri, Jul 3, 6:00 PM",
+            "teams": [
+              {
+                "name": "Argentina",
+                "flag": "🇦🇷",
+                "status": "confirmed"
+              },
+              {
+                "name": "Cabo Verde",
+                "flag": "🇨🇻",
+                "status": "confirmed"
+              }
+            ]
+          },
+          {
+            "id": "match-87",
+            "matchNumber": "M87",
+            "kickoffTime": "Fri, Jul 3, 9:30 PM",
+            "teams": [
+              {
+                "name": "1K",
+                "status": "tbd"
+              },
+              {
+                "name": "3DEIJL",
+                "status": "tbd"
+              }
+            ]
+          },
+          {
+            "id": "match-88",
+            "matchNumber": "M88",
+            "kickoffTime": "Fri, Jul 3, 2:00 PM",
+            "teams": [
+              {
+                "name": "Australia",
+                "flag": "🇦🇺",
+                "status": "confirmed"
+              },
+              {
+                "name": "Egypt",
+                "flag": "🇪🇬",
+                "status": "confirmed"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Round of 16",
+        "fixtures": [
+          {
+            "id": "match-89",
+            "matchNumber": "M89",
+            "kickoffTime": "Sat, Jul 4, 5:00 PM",
+            "teams": [
+              {
+                "name": "Winner M74",
+                "status": "tbd"
+              },
+              {
+                "name": "Winner M77",
+                "status": "tbd"
+              }
+            ]
+          },
+          {
+            "id": "match-90",
+            "matchNumber": "M90",
+            "kickoffTime": "Sat, Jul 4, 1:00 PM",
+            "teams": [
+              {
+                "name": "Winner M73",
+                "status": "tbd"
+              },
+              {
+                "name": "Winner M75",
+                "status": "tbd"
+              }
+            ]
+          },
+          {
+            "id": "match-91",
+            "matchNumber": "M91",
+            "kickoffTime": "Sun, Jul 5, 4:00 PM",
+            "teams": [
+              {
+                "name": "Winner M76",
+                "status": "tbd"
+              },
+              {
+                "name": "Winner M78",
+                "status": "tbd"
+              }
+            ]
+          },
+          {
+            "id": "match-92",
+            "matchNumber": "M92",
+            "kickoffTime": "Sun, Jul 5, 8:00 PM",
+            "teams": [
+              {
+                "name": "Winner M79",
+                "status": "tbd"
+              },
+              {
+                "name": "Winner M80",
+                "status": "tbd"
+              }
+            ]
+          },
+          {
+            "id": "match-93",
+            "matchNumber": "M93",
+            "kickoffTime": "Mon, Jul 6, 3:00 PM",
+            "teams": [
+              {
+                "name": "Winner M83",
+                "status": "tbd"
+              },
+              {
+                "name": "Winner M84",
+                "status": "tbd"
+              }
+            ]
+          },
+          {
+            "id": "match-94",
+            "matchNumber": "M94",
+            "kickoffTime": "Mon, Jul 6, 8:00 PM",
+            "teams": [
+              {
+                "name": "Winner M81",
+                "status": "tbd"
+              },
+              {
+                "name": "Winner M82",
+                "status": "tbd"
+              }
+            ]
+          },
+          {
+            "id": "match-95",
+            "matchNumber": "M95",
+            "kickoffTime": "Tue, Jul 7, 12:00 PM",
+            "teams": [
+              {
+                "name": "Winner M86",
+                "status": "tbd"
+              },
+              {
+                "name": "Winner M88",
+                "status": "tbd"
+              }
+            ]
+          },
+          {
+            "id": "match-96",
+            "matchNumber": "M96",
+            "kickoffTime": "Tue, Jul 7, 4:00 PM",
+            "teams": [
+              {
+                "name": "Winner M85",
+                "status": "tbd"
+              },
+              {
+                "name": "Winner M87",
+                "status": "tbd"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Quarterfinals",
+        "fixtures": [
+          {
+            "id": "match-97",
+            "matchNumber": "M97",
+            "kickoffTime": "Thu, Jul 9, 4:00 PM",
+            "teams": [
+              {
+                "name": "Winner M89",
+                "status": "tbd"
+              },
+              {
+                "name": "Winner M90",
+                "status": "tbd"
+              }
+            ]
+          },
+          {
+            "id": "match-98",
+            "matchNumber": "M98",
+            "kickoffTime": "Fri, Jul 10, 3:00 PM",
+            "teams": [
+              {
+                "name": "Winner M93",
+                "status": "tbd"
+              },
+              {
+                "name": "Winner M94",
+                "status": "tbd"
+              }
+            ]
+          },
+          {
+            "id": "match-99",
+            "matchNumber": "M99",
+            "kickoffTime": "Sat, Jul 11, 5:00 PM",
+            "teams": [
+              {
+                "name": "Winner M91",
+                "status": "tbd"
+              },
+              {
+                "name": "Winner M92",
+                "status": "tbd"
+              }
+            ]
+          },
+          {
+            "id": "match-100",
+            "matchNumber": "M100",
+            "kickoffTime": "Sat, Jul 11, 9:00 PM",
+            "teams": [
+              {
+                "name": "Winner M95",
+                "status": "tbd"
+              },
+              {
+                "name": "Winner M96",
+                "status": "tbd"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Semifinals",
+        "fixtures": [
+          {
+            "id": "match-101",
+            "matchNumber": "M101",
+            "kickoffTime": "Tue, Jul 14, 3:00 PM",
+            "teams": [
+              {
+                "name": "Winner M97",
+                "status": "tbd"
+              },
+              {
+                "name": "Winner M98",
+                "status": "tbd"
+              }
+            ]
+          },
+          {
+            "id": "match-102",
+            "matchNumber": "M102",
+            "kickoffTime": "Wed, Jul 15, 3:00 PM",
+            "teams": [
+              {
+                "name": "Winner M99",
+                "status": "tbd"
+              },
+              {
+                "name": "Winner M100",
+                "status": "tbd"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Final",
+        "fixtures": [
+          {
+            "id": "match-104",
+            "matchNumber": "M104",
+            "kickoffTime": "Sun, Jul 19, 3:00 PM",
+            "teams": [
+              {
+                "name": "Winner M101",
+                "status": "tbd"
+              },
+              {
+                "name": "Winner M102",
+                "status": "tbd"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tomorrow": {
+    "displayDate": "6 月 29 日预告",
+    "matches": [
+      {
+        "id": "brazil-japan",
+        "kickoffTime": "13:00 ET",
+        "homeTeam": "巴西",
+        "awayTeam": "日本",
+        "predictionMarket": {
+          "source": "Polymarket",
+          "status": "available",
+          "asOf": "2026-06-28T04:12:47Z",
+          "marketUrl": "https://polymarket.com/event/fifwc-bra-jpn-2026-06-29",
+          "note": "Polymarket moneyline 偏巴西，日本和平局都有一定空间。",
+          "outcomes": [
+            {
+              "label": "巴西胜",
+              "probability": 57.5
+            },
+            {
+              "label": "平局",
+              "probability": 23.5
+            },
+            {
+              "label": "日本胜",
+              "probability": 18.5
+            }
+          ]
+        }
+      },
+      {
+        "id": "germany-paraguay",
+        "kickoffTime": "16:30 ET",
+        "homeTeam": "德国",
+        "awayTeam": "巴拉圭",
+        "predictionMarket": {
+          "source": "Polymarket",
+          "status": "available",
+          "asOf": "2026-06-28T04:12:47Z",
+          "marketUrl": "https://polymarket.com/event/fifwc-ger-par-2026-06-29",
+          "note": "Polymarket moneyline 明显偏德国，巴拉圭是冷门方。",
+          "outcomes": [
+            {
+              "label": "德国胜",
+              "probability": 71.5
+            },
+            {
+              "label": "平局",
+              "probability": 18.5
+            },
+            {
+              "label": "巴拉圭胜",
+              "probability": 9.5
+            }
+          ]
+        }
+      },
+      {
+        "id": "netherlands-morocco",
+        "kickoffTime": "21:00 ET",
+        "homeTeam": "荷兰",
+        "awayTeam": "摩洛哥",
+        "predictionMarket": {
+          "source": "Polymarket",
+          "status": "available",
+          "asOf": "2026-06-28T04:12:47Z",
+          "marketUrl": "https://polymarket.com/event/fifwc-nld-mar-2026-06-29",
+          "note": "Polymarket moneyline 略偏荷兰，摩洛哥和平局价格都不低。",
+          "outcomes": [
+            {
+              "label": "荷兰胜",
+              "probability": 45.5
+            },
+            {
+              "label": "平局",
+              "probability": 30.5
+            },
+            {
+              "label": "摩洛哥胜",
+              "probability": 24.5
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
