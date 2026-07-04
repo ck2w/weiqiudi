@@ -19,6 +19,7 @@ import guide20260630Data from "../content/published/2026-06-30.json";
 import guide20260701Data from "../content/published/2026-07-01.json";
 import guide20260702Data from "../content/published/2026-07-02.json";
 import guide20260703Data from "../content/published/2026-07-03.json";
+import guide20260704Data from "../content/published/2026-07-04.json";
 import type {
   DailyGuide,
   KnockoutFixtures as KnockoutFixturesData,
@@ -52,6 +53,7 @@ const publishedGuides = [
   guide20260701Data,
   guide20260702Data,
   guide20260703Data,
+  guide20260704Data,
 ] as DailyGuide[];
 
 const guidesByDate = new Map(publishedGuides.map((guide) => [guide.date, guide]));
