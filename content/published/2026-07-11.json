@@ -1,0 +1,938 @@
+{
+  "date": "2026-07-11",
+  "displayDate": "2026 年 7 月 11 日",
+  "headline": "今天八强收尾两场：17:00 ET 挪威碰英格兰，21:00 ET 阿根廷碰瑞士，两个半决赛名额都在今晚定。",
+  "matches": [
+    {
+      "id": "norway-england",
+      "kickoffTime": "17:00 ET",
+      "homeTeam": {
+        "name": "挪威",
+        "nameEn": "Norway",
+        "shortName": "挪威",
+        "shirtColor": "#BA0C2F",
+        "shirtLabel": "红衣",
+        "players": [
+          {
+            "name": "哈兰德",
+            "nameEn": "Erling Haaland",
+            "persona": "挪威头号终结点，只要球送到舒服区就能把比赛变成简单题",
+            "hooks": [
+              {
+                "title": "大个进球机器",
+                "detail": "看到挪威传中或直塞，可以直接说：这球只要喂到哈兰德舒服区，英格兰中卫就得开始冒汗。",
+                "links": [
+                  {
+                    "label": "B站搜索：哈兰德 集锦",
+                    "url": "https://search.bilibili.com/all?keyword=%E5%93%88%E5%85%B0%E5%BE%B7%20%E9%9B%86%E9%94%A6",
+                    "type": "B站"
+                  }
+                ]
+              },
+              {
+                "title": "少碰球也危险",
+                "detail": "别看他长时间没镜头就说隐身，哈兰德这种前锋可能一整场只等两次机会。",
+                "links": [
+                  {
+                    "label": "百度搜索：哈兰德 梗",
+                    "url": "https://www.baidu.com/s?wd=%E5%93%88%E5%85%B0%E5%BE%B7%20%E6%A2%97",
+                    "type": "搜索"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "9",
+            "imageAlt": "哈兰德 照片",
+            "imageCredit": "Wikimedia Commons",
+            "imageStatus": "licensed",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Erling%20Haaland%20June%202025.jpg",
+            "position": "前锋",
+            "imageFocus": "50% 18%"
+          },
+          {
+            "name": "厄德高",
+            "nameEn": "Martin Ødegaard",
+            "persona": "挪威中场遥控器，负责把球送到哈兰德能吃的位置",
+            "hooks": [
+              {
+                "title": "喂饼工程师",
+                "detail": "可以说挪威不是只有哈兰德，厄德高的传球质量决定哈兰德能不能少干苦力。",
+                "links": [
+                  {
+                    "label": "B站搜索：厄德高 传球",
+                    "url": "https://search.bilibili.com/all?keyword=%E5%8E%84%E5%BE%B7%E9%AB%98%20%E4%BC%A0%E7%90%83",
+                    "type": "B站"
+                  }
+                ]
+              },
+              {
+                "title": "英格兰压力点",
+                "detail": "英格兰如果让他舒服抬头，下一脚很可能就是找哈兰德身前或身后。",
+                "links": [
+                  {
+                    "label": "百度搜索：厄德高 梗",
+                    "url": "https://www.baidu.com/s?wd=%E5%8E%84%E5%BE%B7%E9%AB%98%20%E6%A2%97",
+                    "type": "搜索"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "10",
+            "imageAlt": "厄德高 照片",
+            "imageCredit": "Wikimedia Commons",
+            "imageStatus": "licensed",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Norway%20Italy%20-%20June%202025%20E%2004.jpg",
+            "position": "中场",
+            "imageFocus": "50% 18%"
+          }
+        ]
+      },
+      "awayTeam": {
+        "name": "英格兰",
+        "nameEn": "England",
+        "shortName": "英格兰",
+        "shirtColor": "#FFFFFF",
+        "shirtLabel": "白衣",
+        "players": [
+          {
+            "name": "凯恩",
+            "nameEn": "Harry Kane",
+            "persona": "英格兰队长和头号射手，不只等吃饼，也会回撤当半个组织者",
+            "hooks": [
+              {
+                "title": "中锋兼路由器",
+                "detail": "看到凯恩回撤拿球，可以说：英格兰不是没人传球，是凯恩自己也想当一次进攻路由器。",
+                "links": [
+                  {
+                    "label": "B站搜索：凯恩 英格兰 集锦",
+                    "url": "https://search.bilibili.com/all?keyword=%E5%87%AF%E6%81%A9%20%E8%8B%B1%E6%A0%BC%E5%85%B0%20%E9%9B%86%E9%94%A6",
+                    "type": "B站"
+                  }
+                ]
+              },
+              {
+                "title": "和哈兰德对照看",
+                "detail": "这场两个九号风格很适合对比：哈兰德更像终点，凯恩会把自己也变成中转站。",
+                "links": [
+                  {
+                    "label": "百度搜索：凯恩 英格兰 梗",
+                    "url": "https://www.baidu.com/s?wd=%E5%87%AF%E6%81%A9%20%E8%8B%B1%E6%A0%BC%E5%85%B0%20%E6%A2%97",
+                    "type": "搜索"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "9",
+            "position": "前锋",
+            "imageStatus": "licensed",
+            "imageAlt": "凯恩 照片",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Harry%20Kane%20on%20October%2010%2C%202023.jpg",
+            "imageCredit": "Wikimedia Commons",
+            "imageFocus": "50% 18%"
+          },
+          {
+            "name": "贝林厄姆",
+            "nameEn": "Jude Bellingham",
+            "persona": "英格兰中前场最有巨星相的推进点，镜头感和存在感都很强",
+            "hooks": [
+              {
+                "title": "大场面脸",
+                "detail": "他只要在禁区前沿拿球，就可以说：这就是贝林厄姆的价值，英格兰需要有人把中场推进成威胁。",
+                "links": [
+                  {
+                    "label": "B站搜索：贝林厄姆 集锦",
+                    "url": "https://search.bilibili.com/all?keyword=%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%20%E9%9B%86%E9%94%A6",
+                    "type": "B站"
+                  }
+                ]
+              },
+              {
+                "title": "后插上开关",
+                "detail": "挪威如果只盯凯恩，贝林厄姆从后面插上那一下就是英格兰最会偷空间的点。",
+                "links": [
+                  {
+                    "label": "百度搜索：贝林厄姆 英格兰",
+                    "url": "https://www.baidu.com/s?wd=%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%20%E8%8B%B1%E6%A0%BC%E5%85%B0",
+                    "type": "搜索"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "10",
+            "position": "中场",
+            "imageStatus": "licensed",
+            "imageAlt": "贝林厄姆 照片",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/25th%20Laureus%20World%20Sports%20Awards%20-%20Red%20Carpet%20-%20Jude%20Bellingham%20-%20240422%20190551-2%20(cropped).jpg",
+            "imageCredit": "Wikimedia Commons",
+            "imageFocus": "50% 18%"
+          }
+        ]
+      },
+      "oneLiner": "挪威要靠厄德高把球送到哈兰德舒服区，英格兰则看凯恩回撤串联和贝林厄姆后插上能不能把比赛拿下来。",
+      "predictionMarket": {
+        "source": "Polymarket",
+        "status": "available",
+        "asOf": "2026-07-11T20:26:03Z",
+        "marketUrl": "https://polymarket.com/event/fifwc-nor-eng-2026-07-11",
+        "note": "Polymarket moneyline 偏英格兰，挪威和平局仍有不低价格。",
+        "outcomes": [
+          {
+            "label": "挪威胜",
+            "probability": 22.1
+          },
+          {
+            "label": "平局",
+            "probability": 24.6
+          },
+          {
+            "label": "英格兰胜",
+            "probability": 53.1
+          }
+        ]
+      },
+      "conversationLines": [
+        "这场最容易聊的是两个九号：哈兰德像终点站，凯恩更像会自己调度的中转站。",
+        "挪威不只是等哈兰德，厄德高能不能把球送到正确位置，决定哈兰德是吃饼还是干等。",
+        "英格兰价格占优，但只要让挪威打出几次高质量传中或直塞，比赛会马上变紧。"
+      ],
+      "dontSay": "别把挪威说成只有哈兰德一个按钮。哈兰德是终点，但厄德高才是把球送到终点的人。",
+      "sourceLinks": [
+        {
+          "label": "百度搜索：挪威 英格兰 世界杯",
+          "url": "https://www.baidu.com/s?wd=%E6%8C%AA%E5%A8%81%20%E8%8B%B1%E6%A0%BC%E5%85%B0%20%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "type": "搜索"
+        },
+        {
+          "label": "B站搜索：哈兰德 凯恩",
+          "url": "https://search.bilibili.com/all?keyword=%E5%93%88%E5%85%B0%E5%BE%B7%20%E5%87%AF%E6%81%A9",
+          "type": "B站"
+        }
+      ]
+    },
+    {
+      "id": "argentina-switzerland",
+      "kickoffTime": "21:00 ET",
+      "homeTeam": {
+        "name": "阿根廷",
+        "nameEn": "Argentina",
+        "shortName": "阿根廷",
+        "shirtColor": "#75AADB",
+        "shirtLabel": "蓝白",
+        "players": [
+          {
+            "name": "利昂内尔·梅西",
+            "nameEn": "Lionel Messi",
+            "persona": "阿根廷前场自由核心，回撤接球、最后一传和定位球仍然都围绕他展开",
+            "hooks": [
+              {
+                "title": "自由核心",
+                "detail": "梅西回到中场拿球时别只看他本人，前锋往往会立刻跑向他视线里的瑞士防线身后。",
+                "links": [
+                  {
+                    "label": "B站搜索：梅西 阿根廷 集锦",
+                    "url": "https://search.bilibili.com/all?keyword=%E6%A2%85%E8%A5%BF%20%E9%98%BF%E6%A0%B9%E5%BB%B7%20%E9%9B%86%E9%94%A6",
+                    "type": "B站"
+                  }
+                ]
+              },
+              {
+                "title": "节奏突然变慢",
+                "detail": "阿根廷进攻一旦看起来慢下来，不一定是没办法，可能是在等梅西找到那条最省力的传球线。",
+                "links": [
+                  {
+                    "label": "百度搜索：梅西 世界杯 梗",
+                    "url": "https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%20%E4%B8%96%E7%95%8C%E6%9D%AF%20%E6%A2%97",
+                    "type": "搜索"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "10",
+            "position": "前锋",
+            "imageStatus": "licensed",
+            "imageAlt": "利昂内尔·梅西代表阿根廷参加世界杯的照片",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lionel-Messi-Argentina-2022-FIFA-World-Cup%20(cropped).jpg",
+            "imageCredit": "Hossein Zohrevand / Tasnim News Agency / Wikimedia Commons",
+            "imageFocus": "50% 16%"
+          },
+          {
+            "name": "劳塔罗",
+            "nameEn": "Lautaro Martínez",
+            "persona": "阿根廷禁区里的终结点，负责把梅西和中场送来的球变成真实威胁",
+            "hooks": [
+              {
+                "title": "门前收账员",
+                "detail": "阿根廷围攻时盯劳塔罗跑位，他不一定一直显眼，但禁区里抢第一点的人往往就是他。",
+                "links": [
+                  {
+                    "label": "B站搜索：劳塔罗 阿根廷 集锦",
+                    "url": "https://search.bilibili.com/all?keyword=%E5%8A%B3%E5%A1%94%E7%BD%97%20%E9%98%BF%E6%A0%B9%E5%BB%B7%20%E9%9B%86%E9%94%A6",
+                    "type": "B站"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "22",
+            "imageAlt": "劳塔罗 照片",
+            "imageCredit": "Wikimedia Commons",
+            "imageStatus": "licensed",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lautaro%20Martinez%20ARGENTINA%20VS%20VENEZUELA%202017.jpg",
+            "position": "前锋",
+            "imageFocus": "50% 18%"
+          }
+        ]
+      },
+      "awayTeam": {
+        "name": "瑞士",
+        "nameEn": "Switzerland",
+        "shortName": "瑞士",
+        "shirtColor": "#FF0000",
+        "shirtLabel": "红衣",
+        "players": [
+          {
+            "name": "格拉尼特·扎卡",
+            "nameEn": "Granit Xhaka",
+            "persona": "瑞士中场节拍器，也是全队情绪和对抗强度的开关",
+            "hooks": [
+              {
+                "title": "中场遥控器",
+                "detail": "瑞士推进顺时可以说：扎卡不一定冲到最前，但球往哪边走基本先过他这一关。",
+                "links": [
+                  {
+                    "label": "B站搜索：扎卡 瑞士 集锦",
+                    "url": "https://search.bilibili.com/all?keyword=%E6%89%8E%E5%8D%A1%20%E7%91%9E%E5%A3%AB%20%E9%9B%86%E9%94%A6",
+                    "type": "B站"
+                  }
+                ]
+              },
+              {
+                "title": "抗压开关",
+                "detail": "阿根廷压上时看扎卡能不能第一脚把球摘出去，瑞士要爆冷就得先稳住中场温度。",
+                "links": [
+                  {
+                    "label": "百度搜索：扎卡 瑞士",
+                    "url": "https://www.baidu.com/s?wd=%E6%89%8E%E5%8D%A1%20%E7%91%9E%E5%A3%AB",
+                    "type": "搜索"
+                  }
+                ]
+              }
+            ],
+            "rosterStatus": "confirmed",
+            "shirtNumber": "10",
+            "position": "中场",
+            "imageStatus": "licensed",
+            "imageAlt": "格拉尼特·扎卡 照片",
+            "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Granit%20Xhaka%20(cropped).jpg",
+            "imageCredit": "Chelsea Debs / Wikimedia Commons",
+            "imageFocus": "50% 18%"
+          }
+        ]
+      },
+      "oneLiner": "阿根廷要靠梅西在中前场找最后一传、劳塔罗抢禁区点，瑞士则靠扎卡稳住中场，尽量把比赛拖进自己的节奏。",
+      "predictionMarket": {
+        "source": "Polymarket",
+        "status": "available",
+        "asOf": "2026-07-11T20:26:03Z",
+        "marketUrl": "https://polymarket.com/event/fifwc-arg-che-2026-07-11",
+        "note": "Polymarket moneyline 偏阿根廷，瑞士是低价挑战者。",
+        "outcomes": [
+          {
+            "label": "阿根廷胜",
+            "probability": 56.9
+          },
+          {
+            "label": "平局",
+            "probability": 26.9
+          },
+          {
+            "label": "瑞士胜",
+            "probability": 16.1
+          }
+        ]
+      },
+      "conversationLines": [
+        "这是今天第二场八强，阿根廷更被看好，但瑞士这种队最会把热门拖进慢节奏。",
+        "梅西回撤拿球时看阿根廷前锋怎么跑身后，这种球不一定华丽，但可能一下就打穿防线。",
+        "瑞士想爆冷，扎卡必须把第一脚出球处理干净，否则会被阿根廷连续压在半场。"
+      ],
+      "dontSay": "别说阿根廷只靠梅西散步等灵感。淘汰赛里劳塔罗的禁区跑位和中场反抢，同样决定他们能不能把优势落成比分。",
+      "sourceLinks": [
+        {
+          "label": "百度搜索：阿根廷 瑞士 世界杯",
+          "url": "https://www.baidu.com/s?wd=%E9%98%BF%E6%A0%B9%E5%BB%B7%20%E7%91%9E%E5%A3%AB%20%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "type": "搜索"
+        },
+        {
+          "label": "B站搜索：梅西 扎卡",
+          "url": "https://search.bilibili.com/all?keyword=%E6%A2%85%E8%A5%BF%20%E6%89%8E%E5%8D%A1",
+          "type": "B站"
+        }
+      ]
+    }
+  ],
+  "knockoutFixtures": {
+    "updatedAt": "2026-07-11T20:26:03Z",
+    "sourceLabel": "FIFA official match calendar",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/schedule",
+    "rounds": [
+      {
+        "name": "Round of 32",
+        "fixtures": [
+          {
+            "id": "match-73",
+            "matchNumber": "M73",
+            "kickoffTime": "Sun, Jun 28, 3:00 PM",
+            "teams": [
+              {
+                "name": "South Africa",
+                "status": "confirmed",
+                "flag": "🇿🇦"
+              },
+              {
+                "name": "Canada",
+                "status": "confirmed",
+                "flag": "🇨🇦"
+              }
+            ]
+          },
+          {
+            "id": "match-74",
+            "matchNumber": "M74",
+            "kickoffTime": "Mon, Jun 29, 4:30 PM",
+            "teams": [
+              {
+                "name": "Germany",
+                "status": "confirmed",
+                "flag": "🇩🇪"
+              },
+              {
+                "name": "Paraguay",
+                "status": "confirmed",
+                "flag": "🇵🇾"
+              }
+            ]
+          },
+          {
+            "id": "match-75",
+            "matchNumber": "M75",
+            "kickoffTime": "Mon, Jun 29, 9:00 PM",
+            "teams": [
+              {
+                "name": "Netherlands",
+                "status": "confirmed",
+                "flag": "🇳🇱"
+              },
+              {
+                "name": "Morocco",
+                "status": "confirmed",
+                "flag": "🇲🇦"
+              }
+            ]
+          },
+          {
+            "id": "match-76",
+            "matchNumber": "M76",
+            "kickoffTime": "Mon, Jun 29, 1:00 PM",
+            "teams": [
+              {
+                "name": "Brazil",
+                "status": "confirmed",
+                "flag": "🇧🇷"
+              },
+              {
+                "name": "Japan",
+                "status": "confirmed",
+                "flag": "🇯🇵"
+              }
+            ]
+          },
+          {
+            "id": "match-77",
+            "matchNumber": "M77",
+            "kickoffTime": "Tue, Jun 30, 5:00 PM",
+            "teams": [
+              {
+                "name": "France",
+                "status": "confirmed",
+                "flag": "🇫🇷"
+              },
+              {
+                "name": "Sweden",
+                "status": "confirmed",
+                "flag": "🇸🇪"
+              }
+            ]
+          },
+          {
+            "id": "match-78",
+            "matchNumber": "M78",
+            "kickoffTime": "Tue, Jun 30, 1:00 PM",
+            "teams": [
+              {
+                "name": "Côte d'Ivoire",
+                "status": "confirmed",
+                "flag": "🇨🇮"
+              },
+              {
+                "name": "Norway",
+                "status": "confirmed",
+                "flag": "🇳🇴"
+              }
+            ]
+          },
+          {
+            "id": "match-79",
+            "matchNumber": "M79",
+            "kickoffTime": "Tue, Jun 30, 10:00 PM",
+            "teams": [
+              {
+                "name": "Mexico",
+                "status": "confirmed",
+                "flag": "🇲🇽"
+              },
+              {
+                "name": "Ecuador",
+                "status": "confirmed",
+                "flag": "🇪🇨"
+              }
+            ]
+          },
+          {
+            "id": "match-80",
+            "matchNumber": "M80",
+            "kickoffTime": "Wed, Jul 1, 12:00 PM",
+            "teams": [
+              {
+                "name": "England",
+                "status": "confirmed",
+                "flag": "🏴"
+              },
+              {
+                "name": "Congo DR",
+                "status": "confirmed",
+                "flag": "🇨🇩"
+              }
+            ]
+          },
+          {
+            "id": "match-81",
+            "matchNumber": "M81",
+            "kickoffTime": "Wed, Jul 1, 8:00 PM",
+            "teams": [
+              {
+                "name": "USA",
+                "status": "confirmed",
+                "flag": "🇺🇸"
+              },
+              {
+                "name": "Bosnia and Herzegovina",
+                "status": "confirmed",
+                "flag": "🇧🇦"
+              }
+            ]
+          },
+          {
+            "id": "match-82",
+            "matchNumber": "M82",
+            "kickoffTime": "Wed, Jul 1, 4:00 PM",
+            "teams": [
+              {
+                "name": "Belgium",
+                "status": "confirmed",
+                "flag": "🇧🇪"
+              },
+              {
+                "name": "Senegal",
+                "status": "confirmed",
+                "flag": "🇸🇳"
+              }
+            ]
+          },
+          {
+            "id": "match-83",
+            "matchNumber": "M83",
+            "kickoffTime": "Thu, Jul 2, 7:00 PM",
+            "teams": [
+              {
+                "name": "Portugal",
+                "status": "confirmed",
+                "flag": "🇵🇹"
+              },
+              {
+                "name": "Croatia",
+                "status": "confirmed",
+                "flag": "🇭🇷"
+              }
+            ]
+          },
+          {
+            "id": "match-84",
+            "matchNumber": "M84",
+            "kickoffTime": "Thu, Jul 2, 3:00 PM",
+            "teams": [
+              {
+                "name": "Spain",
+                "status": "confirmed",
+                "flag": "🇪🇸"
+              },
+              {
+                "name": "Austria",
+                "status": "confirmed",
+                "flag": "🇦🇹"
+              }
+            ]
+          },
+          {
+            "id": "match-85",
+            "matchNumber": "M85",
+            "kickoffTime": "Thu, Jul 2, 11:00 PM",
+            "teams": [
+              {
+                "name": "Switzerland",
+                "status": "confirmed",
+                "flag": "🇨🇭"
+              },
+              {
+                "name": "Algeria",
+                "status": "confirmed",
+                "flag": "🇩🇿"
+              }
+            ]
+          },
+          {
+            "id": "match-86",
+            "matchNumber": "M86",
+            "kickoffTime": "Fri, Jul 3, 6:00 PM",
+            "teams": [
+              {
+                "name": "Argentina",
+                "status": "confirmed",
+                "flag": "🇦🇷"
+              },
+              {
+                "name": "Cabo Verde",
+                "status": "confirmed",
+                "flag": "🇨🇻"
+              }
+            ]
+          },
+          {
+            "id": "match-87",
+            "matchNumber": "M87",
+            "kickoffTime": "Fri, Jul 3, 9:30 PM",
+            "teams": [
+              {
+                "name": "Colombia",
+                "status": "confirmed",
+                "flag": "🇨🇴"
+              },
+              {
+                "name": "Ghana",
+                "status": "confirmed",
+                "flag": "🇬🇭"
+              }
+            ]
+          },
+          {
+            "id": "match-88",
+            "matchNumber": "M88",
+            "kickoffTime": "Fri, Jul 3, 2:00 PM",
+            "teams": [
+              {
+                "name": "Australia",
+                "status": "confirmed",
+                "flag": "🇦🇺"
+              },
+              {
+                "name": "Egypt",
+                "status": "confirmed",
+                "flag": "🇪🇬"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Round of 16",
+        "fixtures": [
+          {
+            "id": "match-89",
+            "matchNumber": "M89",
+            "kickoffTime": "Sat, Jul 4, 5:00 PM",
+            "teams": [
+              {
+                "name": "Paraguay",
+                "status": "confirmed",
+                "flag": "🇵🇾"
+              },
+              {
+                "name": "France",
+                "status": "confirmed",
+                "flag": "🇫🇷"
+              }
+            ]
+          },
+          {
+            "id": "match-90",
+            "matchNumber": "M90",
+            "kickoffTime": "Sat, Jul 4, 1:00 PM",
+            "teams": [
+              {
+                "name": "Canada",
+                "status": "confirmed",
+                "flag": "🇨🇦"
+              },
+              {
+                "name": "Morocco",
+                "status": "confirmed",
+                "flag": "🇲🇦"
+              }
+            ]
+          },
+          {
+            "id": "match-91",
+            "matchNumber": "M91",
+            "kickoffTime": "Sun, Jul 5, 4:00 PM",
+            "teams": [
+              {
+                "name": "Brazil",
+                "status": "confirmed",
+                "flag": "🇧🇷"
+              },
+              {
+                "name": "Norway",
+                "status": "confirmed",
+                "flag": "🇳🇴"
+              }
+            ]
+          },
+          {
+            "id": "match-92",
+            "matchNumber": "M92",
+            "kickoffTime": "Sun, Jul 5, 9:00 PM",
+            "teams": [
+              {
+                "name": "Mexico",
+                "status": "confirmed",
+                "flag": "🇲🇽"
+              },
+              {
+                "name": "England",
+                "status": "confirmed",
+                "flag": "🏴"
+              }
+            ]
+          },
+          {
+            "id": "match-93",
+            "matchNumber": "M93",
+            "kickoffTime": "Mon, Jul 6, 3:00 PM",
+            "teams": [
+              {
+                "name": "Portugal",
+                "status": "confirmed",
+                "flag": "🇵🇹"
+              },
+              {
+                "name": "Spain",
+                "status": "confirmed",
+                "flag": "🇪🇸"
+              }
+            ]
+          },
+          {
+            "id": "match-94",
+            "matchNumber": "M94",
+            "kickoffTime": "Mon, Jul 6, 8:00 PM",
+            "teams": [
+              {
+                "name": "USA",
+                "status": "confirmed",
+                "flag": "🇺🇸"
+              },
+              {
+                "name": "Belgium",
+                "status": "confirmed",
+                "flag": "🇧🇪"
+              }
+            ]
+          },
+          {
+            "id": "match-95",
+            "matchNumber": "M95",
+            "kickoffTime": "Tue, Jul 7, 12:00 PM",
+            "teams": [
+              {
+                "name": "Argentina",
+                "status": "confirmed",
+                "flag": "🇦🇷"
+              },
+              {
+                "name": "Egypt",
+                "status": "confirmed",
+                "flag": "🇪🇬"
+              }
+            ]
+          },
+          {
+            "id": "match-96",
+            "matchNumber": "M96",
+            "kickoffTime": "Tue, Jul 7, 4:00 PM",
+            "teams": [
+              {
+                "name": "Switzerland",
+                "status": "confirmed",
+                "flag": "🇨🇭"
+              },
+              {
+                "name": "Colombia",
+                "status": "confirmed",
+                "flag": "🇨🇴"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Quarterfinals",
+        "fixtures": [
+          {
+            "id": "match-97",
+            "matchNumber": "M97",
+            "kickoffTime": "Thu, Jul 9, 4:00 PM",
+            "teams": [
+              {
+                "name": "France",
+                "status": "confirmed",
+                "flag": "🇫🇷"
+              },
+              {
+                "name": "Morocco",
+                "status": "confirmed",
+                "flag": "🇲🇦"
+              }
+            ]
+          },
+          {
+            "id": "match-98",
+            "matchNumber": "M98",
+            "kickoffTime": "Fri, Jul 10, 3:00 PM",
+            "teams": [
+              {
+                "name": "Spain",
+                "status": "confirmed",
+                "flag": "🇪🇸"
+              },
+              {
+                "name": "Belgium",
+                "status": "confirmed",
+                "flag": "🇧🇪"
+              }
+            ]
+          },
+          {
+            "id": "match-99",
+            "matchNumber": "M99",
+            "kickoffTime": "Sat, Jul 11, 5:00 PM",
+            "teams": [
+              {
+                "name": "Norway",
+                "status": "confirmed",
+                "flag": "🇳🇴"
+              },
+              {
+                "name": "England",
+                "status": "confirmed",
+                "flag": "🏴"
+              }
+            ]
+          },
+          {
+            "id": "match-100",
+            "matchNumber": "M100",
+            "kickoffTime": "Sat, Jul 11, 9:00 PM",
+            "teams": [
+              {
+                "name": "Argentina",
+                "status": "confirmed",
+                "flag": "🇦🇷"
+              },
+              {
+                "name": "Switzerland",
+                "status": "confirmed",
+                "flag": "🇨🇭"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Semifinals",
+        "fixtures": [
+          {
+            "id": "match-101",
+            "matchNumber": "M101",
+            "kickoffTime": "Tue, Jul 14, 3:00 PM",
+            "teams": [
+              {
+                "name": "France",
+                "status": "confirmed",
+                "flag": "🇫🇷"
+              },
+              {
+                "name": "Spain",
+                "status": "confirmed",
+                "flag": "🇪🇸"
+              }
+            ]
+          },
+          {
+            "id": "match-102",
+            "matchNumber": "M102",
+            "kickoffTime": "Wed, Jul 15, 3:00 PM",
+            "teams": [
+              {
+                "name": "TBD",
+                "status": "tbd"
+              },
+              {
+                "name": "TBD",
+                "status": "tbd"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Final",
+        "fixtures": [
+          {
+            "id": "match-104",
+            "matchNumber": "M104",
+            "kickoffTime": "Sun, Jul 19, 3:00 PM",
+            "teams": [
+              {
+                "name": "TBD",
+                "status": "tbd"
+              },
+              {
+                "name": "TBD",
+                "status": "tbd"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tomorrow": {
+    "displayDate": "2026 年 7 月 12 日",
+    "matches": []
+  }
+}
