@@ -77,7 +77,28 @@ function validateMatch(match, filePath) {
   }
 
   validateLinks(match.sourceLinks, `${matchLabel} sourceLinks`);
+  validateExpertAnalysis(match.expertAnalysis, `${matchLabel} expertAnalysis`);
   validatePredictionMarket(match.predictionMarket, `${matchLabel} predictionMarket`);
+}
+
+function validateExpertAnalysis(items, context) {
+  if (!Array.isArray(items)) return;
+
+  for (const item of items) {
+    if (!item?.title) {
+      errors.push(`${context}: analysis item is missing title`);
+    }
+
+    if (!item?.analyst) {
+      errors.push(`${context}: analysis item ${item?.title ?? "(missing title)"} is missing analyst`);
+    }
+
+    if (!item?.detail) {
+      errors.push(`${context}: analysis item ${item?.title ?? "(missing title)"} is missing detail`);
+    }
+
+    validateLinks(item.links, `${context} ${item?.title ?? "(missing title)"} links`);
+  }
 }
 
 function validatePlayer(player, teamName, matchLabel) {

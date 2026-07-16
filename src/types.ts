@@ -50,6 +50,13 @@ export interface PredictionMarket {
   outcomes: PredictionOutcome[];
 }
 
+export interface ExpertAnalysisItem {
+  title: string;
+  analyst: string;
+  detail: string;
+  links?: SourceLink[];
+}
+
 export interface MatchGuide {
   id: string;
   kickoffTime: string;
@@ -57,6 +64,7 @@ export interface MatchGuide {
   awayTeam: TeamGuide;
   oneLiner: string;
   predictionMarket?: PredictionMarket;
+  expertAnalysis?: ExpertAnalysisItem[];
   conversationLines: string[];
   dontSay: string;
   sourceLinks: SourceLink[];

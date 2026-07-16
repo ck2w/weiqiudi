@@ -311,7 +311,8 @@ h2 {
 
 .talk-card,
 .team-panel,
-.warning-card {
+.warning-card,
+.expert-card {
   position: relative;
   border: 3px solid #111111;
   background: #ffffff;
@@ -345,6 +346,52 @@ h2 {
   margin: 0;
   padding-left: 20px;
   font-weight: 800;
+}
+
+.expert-card {
+  margin: 0 22px 22px;
+  background: #e6f7ff;
+}
+
+.expert-list {
+  display: grid;
+  gap: 12px;
+}
+
+.expert-item {
+  border-top: 2px solid #111111;
+  padding-top: 12px;
+}
+
+.expert-item:first-child {
+  border-top: 0;
+  padding-top: 0;
+}
+
+.expert-item__heading {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 10px;
+  align-items: baseline;
+  margin-bottom: 6px;
+}
+
+.expert-item__heading strong {
+  font-size: 1.05rem;
+  font-weight: 950;
+}
+
+.expert-item__heading span {
+  border: 2px solid #111111;
+  background: #ffd400;
+  padding: 2px 7px;
+  font-size: 0.82rem;
+  font-weight: 900;
+}
+
+.expert-item p {
+  margin-bottom: 10px;
+  font-weight: 760;
 }
 
 .player-list,

@@ -29,6 +29,7 @@ import guide20260710Data from "../content/published/2026-07-10.json";
 import guide20260711Data from "../content/published/2026-07-11.json";
 import guide20260714Data from "../content/published/2026-07-14.json";
 import guide20260715Data from "../content/published/2026-07-15.json";
+import guide20260718Data from "../content/published/2026-07-18.json";
 import type {
   DailyGuide,
   KnockoutFixtures as KnockoutFixturesData,
@@ -72,6 +73,7 @@ const publishedGuides = [
   guide20260711Data,
   guide20260714Data,
   guide20260715Data,
+  guide20260718Data,
 ] as DailyGuide[];
 
 const guidesByDate = new Map(publishedGuides.map((guide) => [guide.date, guide]));
@@ -187,6 +189,10 @@ function MatchCard({ match }: { match: MatchGuide }) {
         <PredictionMarketCard predictionMarket={match.predictionMarket} />
       ) : null}
 
+      {match.expertAnalysis?.length ? (
+        <ExpertAnalysis items={match.expertAnalysis} />
+      ) : null}
+
       <div className="match-grid">
         <section className="talk-card">
           <div className="sticker sticker--pink">开口就能说</div>
@@ -213,6 +219,26 @@ function MatchCard({ match }: { match: MatchGuide }) {
         </a>
       </footer>
     </article>
+  );
+}
+
+function ExpertAnalysis({ items }: { items: NonNullable<MatchGuide["expertAnalysis"]> }) {
+  return (
+    <section className="expert-card" aria-label="专业人士分析">
+      <div className="sticker sticker--blue">专业人士分析</div>
+      <div className="expert-list">
+        {items.map((item) => (
+          <article className="expert-item" key={`${item.analyst}-${item.title}`}>
+            <div className="expert-item__heading">
+              <strong>{item.title}</strong>
+              <span>{item.analyst}</span>
+            </div>
+            <p>{item.detail}</p>
+            {item.links?.length ? <SourceLinks links={item.links} compact /> : null}
+          </article>
+        ))}
+      </div>
+    </section>
   );
 }
 
